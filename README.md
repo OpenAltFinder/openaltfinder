@@ -1,5 +1,12 @@
 # Open source alternatives
 
+The contents of this repository are auto-generated daily from data provided by [OpenAltFinder](https://openaltfinder.com). Updates are performed automatically to ensure the list stays current with the latest tracked alternatives.
+
+Want to contribute? See [Contributing](#contributing).
+
+---
+
+## Table of contents
 - [Infrastructure & Operations Tools](#infrastructure--operations-tools)
   - [Database Management](#database-management)
   - [Cloud Storage](#cloud-storage)
@@ -58,10 +65,13 @@
   - [Data Visualization](#data-visualization)
 
 
-## Infrastructure & Operations Tools
+## Software
 
 
-### Database Management
+### Infrastructure & Operations Tools
+
+
+#### Database Management
 
 
 - [Baserow](https://openaltfinder.com/tools/baserow) - 
@@ -76,7 +86,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Supabase](https://openaltfinder.com/tools/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 
 
 
-### Cloud Storage
+#### Cloud Storage
 
 
 - [OpenCloud](https://openaltfinder.com/tools/opencloud) - Open source platform for file management, sharing, and collaboration — simple and self-hostable.
@@ -91,7 +101,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [ownCloud](https://openaltfinder.com/tools/owncloud) - Pioneer open-source file sync and sharing platform that spawned the self-hosted cloud movement.
 
 
-### Monitoring & Observability Tools
+#### Monitoring & Observability Tools
 
 
 - [Kuvasz](https://openaltfinder.com/tools/kuvasz) - Open-source uptime and SSL monitoring service with status pages, multiple notification channels, and Prometheus integration.
@@ -103,7 +113,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [OpenStatus](https://openaltfinder.com/tools/openstatus) - Open-source uptime monitoring and status page platform with synthetic checks from 28 global regions and multi-channel alerting.
 
 
-### PaaS & Deployment Tools
+#### PaaS & Deployment Tools
 
 
 - [Coolify](https://openaltfinder.com/tools/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
@@ -111,7 +121,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Komodo](https://openaltfinder.com/tools/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 
 
 
-### Personal Cloud
+#### Personal Cloud
 
 
 - [Foldergram](https://openaltfinder.com/tools/foldergram) - A self-hosted, Instagram-style photo and video gallery that serves your local folders as a beautiful feed.
@@ -119,15 +129,15 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Olares](https://openaltfinder.com/tools/olares) -  Olares: An Open-Source Personal Cloud to Reclaim Your Data 
 
 
-### Web Servers
+#### Web Servers
 
 
 
 
-## Productivity & Utilities
+### Productivity & Utilities
 
 
-### Password Managers
+#### Password Managers
 
 
 - [Passbolt](https://openaltfinder.com/tools/passbolt) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! 
@@ -137,7 +147,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Vaultwarden](https://openaltfinder.com/tools/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
 
 
-### Automation Tools
+#### Automation Tools
 
 
 - [Automa](https://openaltfinder.com/tools/automa) - Browser extension that automates repetitive web tasks by visually connecting blocks — no code required.
@@ -150,7 +160,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Lightpanda](https://openaltfinder.com/tools/lightpanda) - A headless browser built from scratch in Zig, optimised for AI agents and automation with 9x less memory and 11x faster execution than Chrome.
 
 
-### Bookmark & Content Management Tools
+#### Bookmark & Content Management Tools
 
 
 - [Readeck](https://openaltfinder.com/tools/readeck) - Self-hosted read-it-later app that preserves web page content and lets you read it anytime, offline or online.
@@ -169,7 +179,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Omnivore](https://openaltfinder.com/tools/omnivore) - Open source read-it-later app with full-text search, highlighting, notes, newsletter support, and integrations with Logseq and Obsidian.
 
 
-### Note Taking & Knowledge Management Tools
+#### Note Taking & Knowledge Management Tools
 
 
 - [Speakr](https://openaltfinder.com/tools/speakr) - Self-hosted AI transcription and intelligent note-taking platform that turns audio recordings into organized, searchable notes with speaker identification.
@@ -186,20 +196,20 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 
 
-### PDF viewer
+#### PDF viewer
 
 
 - [KillerPDF](https://openaltfinder.com/tools/killerpdf) - Lightweight, portable PDF editor for Windows with no subscription or telemetry.
 - [EmbedPDF](https://openaltfinder.com/tools/embed-pdf) - A PDF viewer that seamlessly integrates with any JavaScript project 
 
 
-### Game Management Tools
+#### Game Management Tools
 
 
 - [Gameyfin](https://openaltfinder.com/tools/gameyfin) - A lightweight, open-source game library manager that allows you to organize, access, and share your video games through a web interface.
 
 
-### Budgeting Apps
+#### Budgeting Apps
 
 
 - [BudgetBee](https://openaltfinder.com/tools/budgetbee) - Self-hosted personal finance manager for tracking expenses, budgets, and net worth via Docker.
@@ -209,21 +219,21 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Budget Board](https://openaltfinder.com/tools/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
 
 
-### Ebook & Comic Readers
+#### Ebook & Comic Readers
 
 
 - [Kumiho](https://openaltfinder.com/tools/kumiho) - A self-hosted, lightweight web media server for streaming your personal comics, manga, ebooks, and audiobooks.
 - [Tome](https://openaltfinder.com/tools/tome) - A self-hosted book tracker powered by your Calibre library — Goodreads for your own collection.
 
 
-### Media Tracker
+#### Media Tracker
 
 
 - [Yamtrack](https://openaltfinder.com/tools/yamtrack) - A self-hosted media tracker for movies, TV shows, anime, games, books, and manga.
 - [MovieLab](https://openaltfinder.com/tools/movielab) - An open source movie and TV show tracker app for Android with IMDb integration.
 
 
-### Travel Planning
+#### Travel Planning
 
 
 - [CoMaps](https://openaltfinder.com/tools/comaps) - A community-led fork of Organic Maps. Free offline maps for Android and iOS with no ads, no tracking, and no data collection.
@@ -231,7 +241,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [NOMAD](https://openaltfinder.com/tools/nomad) - Self-hosted, real-time collaborative travel planner with itineraries, maps, budgets, and packing lists.
 
 
-### Time & Task Management Tools
+#### Time & Task Management Tools
 
 
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana.
@@ -245,22 +255,22 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [TaskTrove](https://openaltfinder.com/tools/task-trove) - Take Back Control of Your Productivity
 
 
-### Time Tracking Tools
+#### Time Tracking Tools
 
 
 - [TimeTracker](https://openaltfinder.com/tools/time-tracker) - A robust, self-hosted time tracking application designed for teams and freelancers who need reliable time management without cloud dependencies. Built with Flask and optimized for Raspberry Pi deployment, TimeTracker provides persistent timers, comprehensive reporting, and a modern web interface.
 
 
-### Translation Tools
+#### Translation Tools
 
 
 - [Linguist](https://openaltfinder.com/tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline 
 
 
-## AI & Machine Learning
+### AI & Machine Learning
 
 
-### AI Chat
+#### AI Chat
 
 
 - [Lobe Chat](https://openaltfinder.com/tools/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application. 
@@ -268,41 +278,41 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Open WebUI](https://openaltfinder.com/tools/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
 
 
-## Security & Privacy Tools
+### Security & Privacy Tools
 
 
-### Secure Tunnels
+#### Secure Tunnels
 
 
 - [Pangolin](https://openaltfinder.com/tools/pangolin) - Pangolin is an open-source, self-hosted identity-aware tunneled reverse proxy server featuring a sleek dashboard UI, designed to securely expose private resources across distributed networks without the need for opening inbound ports or dealing with complex firewall rules. It builds encrypted tunnels—often leveraging a user-space WireGuard client called Newt—to connect isolated services, supports HTTP/HTTPS as well as raw TCP/UDP traffic, automates SSL via Let’s Encrypt, enables load balancing, and integrates identity and access management with SSO, role-based access control, 2FA, temporary share links, OAuth2/OIDC integration, and more.
 - [Proxly](https://openaltfinder.com/tools/proxly) - A self-hosted tunneling tool — like ngrok, but on your own domain. Expose local dev servers through subdomains on your VPS. 
 
 
-### 2FA Authentication
+#### 2FA Authentication
 
 
 - [Open Authenticator](https://openaltfinder.com/tools/open-authenticator) - Free, open-source cross-platform TOTP authenticator with self-hostable sync backend, built with Flutter.
 - [Ente](https://openaltfinder.com/tools/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. 
 
 
-### Virtual Private Network
+#### Virtual Private Network
 
 
 - [OpenVPN](https://openaltfinder.com/tools/open-vpn) - OpenVPN is an open source VPN daemon 
 - [Headscale](https://openaltfinder.com/tools/headscale) - An open source, self-hosted implementation of the Tailscale control server 
 
 
-### Metadata Removal
+#### Metadata Removal
 
 
 - [Scrambled Exif](https://openaltfinder.com/tools/scrambled-exif) - Android app that removes EXIF metadata from photos via the share menu before sharing.
 - [ExifCleaner](https://openaltfinder.com/tools/exifcleaner) - Cross-platform desktop app that removes EXIF and hidden metadata from 90+ file formats before sharing.
 
 
-## Content Management System (CMS)
+### Content Management System (CMS)
 
 
-### Headless CMS
+#### Headless CMS
 
 
 - [TinaCMS](https://openaltfinder.com/tools/tinacms) - A fully open-source headless CMS with Git support, Markdown editing, and live visual preview for React-based sites.
@@ -311,10 +321,10 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Strapi](https://openaltfinder.com/tools/strapi) -  🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. 
 
 
-## Health & Fitness Tools
+### Health & Fitness Tools
 
 
-### Fitness tracking Tools
+#### Fitness tracking Tools
 
 
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
@@ -322,16 +332,16 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Stronk](https://openaltfinder.com/tools/stronk) -  Open Source Fitness Tracking App 
 
 
-### Health monitoring Tools
+#### Health monitoring Tools
 
 
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
 
 
-## Graphic Design Tools
+### Graphic Design Tools
 
 
-### Marketing & Branding Tools
+#### Marketing & Branding Tools
 
 
 - [Syano](https://openaltfinder.com/tools/syano) - Self-hosted URL shortener with analytics, QR codes, and link-in-bio pages. A privacy-first open source alternative to Bitly.
@@ -339,22 +349,22 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
 
 
-### Social Media Content Creation
+#### Social Media Content Creation
 
 
 - [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
 
 
-### Video Editing Tools
+#### Video Editing Tools
 
 
 - [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
 
 
-## Collaboration & Communication Tools
+### Collaboration & Communication Tools
 
 
-### Knowledge Management Tools
+#### Knowledge Management Tools
 
 
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana.
@@ -363,7 +373,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
 
 
-### Team Chat & Messaging Tools
+#### Team Chat & Messaging Tools
 
 
 - [Element](https://openaltfinder.com/tools/element) - Open-source Matrix client for secure, decentralized messaging, voice, and video — runs on your own server.
@@ -375,17 +385,17 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Discourse](https://openaltfinder.com/tools/discourse) - A platform for community discussion. Free, open, simple. 
 
 
-## Content & Publishing Tools
+### Content & Publishing Tools
 
 
-### Internal Knowledge Base
+#### Internal Knowledge Base
 
 
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
 - [Docmost](https://openaltfinder.com/tools/docmost) - Open-source collaborative wiki and documentation platform, an alternative to Confluence and Notion.
 
 
-### Wiki Software
+#### Wiki Software
 
 
 - [Golocron](https://openaltfinder.com/tools/golocron) - A plug-and-play blogging and wiki system for Go backends with Markdown support and live preview.
@@ -393,17 +403,17 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Docmost](https://openaltfinder.com/tools/docmost) - Open-source collaborative wiki and documentation platform, an alternative to Confluence and Notion.
 
 
-## Bussines Software
+### Bussines Software
 
 
-### Customer Communication Platforms
+#### Customer Communication Platforms
 
 
 - [Fider](https://openaltfinder.com/tools/fider) - Open source customer feedback platform to collect, organize, and prioritize feature requests from users.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 
 
-### Customer Relationship Management Tools
+#### Customer Relationship Management Tools
 
 
 - [EspoCRM](https://openaltfinder.com/tools/espocrm) - Open source CRM platform for managing contacts, leads, sales pipelines, and customer relationships.
@@ -415,7 +425,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Monica](https://openaltfinder.com/tools/monica) - Personal CRM. Remember everything about your friends, family and business relationships. 
 
 
-### Ecommerce software
+#### Ecommerce software
 
 
 - [Medusa](https://openaltfinder.com/tools/medusa) -  The world's most flexible commerce platform. 
@@ -423,10 +433,10 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Shopware](https://openaltfinder.com/tools/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions 
 
 
-## Developer Tools
+### Developer Tools
 
 
-### API Development & Testing Tools
+#### API Development & Testing Tools
 
 
 - [HTTPie](https://openaltfinder.com/tools/httpie) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. 
@@ -437,7 +447,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Scalar](https://openaltfinder.com/tools/scalar) -  Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support 
 
 
-### AI Coding Agents
+#### AI Coding Agents
 
 
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
@@ -445,10 +455,10 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
 
 
-## Marketing & Branding Tools
+### Marketing & Branding Tools
 
 
-### Email Marketing & Newsletters Tools
+#### Email Marketing & Newsletters Tools
 
 
 - [Keila](https://openaltfinder.com/tools/keila) - Open Source Newsletter Tool and Mailchimp alternative for creating campaigns and sign-up forms.
@@ -458,7 +468,7 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Listmonk](https://openaltfinder.com/tools/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. 
 
 
-### Marketing Automation
+#### Marketing Automation
 
 
 - [Mautic](https://openaltfinder.com/tools/mautic) - Open-source marketing automation platform with email campaigns, lead management, and multi-channel marketing.
@@ -467,20 +477,26 @@ Baserow is an open source no-code database and Airtable alternative. Create your
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 
 
-### Social Media Management Tools
+#### Social Media Management Tools
 
 
 - [ Postiz](https://openaltfinder.com/tools/postiz) -  📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 
 - [Chronex](https://openaltfinder.com/tools/chronex) - Self-hostable social media scheduler for content creators and small teams with distributed job processing.
 
 
-## Data & Analytics
+### Data & Analytics
 
 
-### Data Visualization
+#### Data Visualization
 
 
 - [ExcaliDash](https://openaltfinder.com/tools/excali-dash) -  A self hosted dashboard and organizer for Excalidraw with live collaboration. 
 - [Draw.io](https://openaltfinder.com/tools/draw-io) -  draw.io is a JavaScript, client-side editor for general diagramming. 
 
 
+
+---
+
+## Contributing
+
+Submit the project on [OpenAltFinder](https://openaltfinder.com/submit), and it will appear here after the daily update.
