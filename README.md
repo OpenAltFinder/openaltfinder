@@ -92,7 +92,6 @@ Want to contribute? See [Contributing](#contributing).
 #### Cloud Storage
 
 
-- [OpenCloud](https://openaltfinder.com/tools/opencloud) - Open source platform for file management, sharing, and collaboration — simple and self-hostable.
 - [Syncthing](https://openaltfinder.com/tools/syncthing) - Continuous file synchronization program that syncs files directly between your devices — no cloud required.
 - [BluFiles](https://openaltfinder.com/tools/blufiles) - Self-hosted file sharing and management platform with file transfers, pastes, collections, and a REST API.
 - [Twake Drive](https://openaltfinder.com/tools/twake-drive) -  The open-source alternative to Google Drive. 
@@ -102,18 +101,19 @@ Want to contribute? See [Contributing](#contributing).
 - [Nextcloud](https://openaltfinder.com/tools/nextcloud) - The most popular self-hosted cloud platform for file storage, collaboration, and communication.
 - [Seafile](https://openaltfinder.com/tools/seafile) - High-performance open-source file sync and share platform for teams.
 - [ownCloud](https://openaltfinder.com/tools/owncloud) - Pioneer open-source file sync and sharing platform that spawned the self-hosted cloud movement.
+- [OpenCloud](https://openaltfinder.com/tools/opencloud) - Open source platform for file management, sharing, and collaboration — simple and self-hostable.
 
 
 #### Monitoring & Observability Tools
 
 
-- [Beszel](https://openaltfinder.com/tools/beszel) - Lightweight self-hosted server monitoring hub with historical data, Docker stats, and configurable alerts.
 - [Uptime Kuma](https://openaltfinder.com/tools/uptime-kuma) - Self-hosted uptime monitoring tool with a polished UI, 90+ notification integrations, and built-in public status pages.
 - [Healthchecks](https://openaltfinder.com/tools/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django 
 - [Lunalytics](https://openaltfinder.com/tools/lunalytics) - Lunalytics is an open-source, self-hosted monitoring tool built with Node.js and React that supports HTTP(S), TCP, ping, Docker, and more. It offers customizable dashboards, status pages, incident management, multi-user access control, and integrations with popular notification services, making it a modern, developer-friendly solution for monitoring uptime and system health.
 - [SigNoz](https://openaltfinder.com/tools/signoz) - Open-source observability platform with logs, traces, and metrics — an alternative to Datadog and New Relic.
 - [OpenStatus](https://openaltfinder.com/tools/openstatus) - Open-source uptime monitoring and status page platform with synthetic checks from 28 global regions and multi-channel alerting.
 - [Kuvasz](https://openaltfinder.com/tools/kuvasz) - Open-source uptime and SSL monitoring service with status pages, multiple notification channels, and Prometheus integration.
+- [Beszel](https://openaltfinder.com/tools/beszel) - Lightweight self-hosted server monitoring hub with historical data, Docker stats, and configurable alerts.
 
 
 #### PaaS & Deployment Tools
@@ -127,9 +127,9 @@ Want to contribute? See [Contributing](#contributing).
 #### Personal Cloud
 
 
-- [OpenCloud](https://openaltfinder.com/tools/opencloud) - Open source platform for file management, sharing, and collaboration — simple and self-hostable.
 - [Olares](https://openaltfinder.com/tools/olares) -  Olares: An Open-Source Personal Cloud to Reclaim Your Data 
 - [Foldergram](https://openaltfinder.com/tools/foldergram) - A self-hosted, Instagram-style photo and video gallery that serves your local folders as a beautiful feed.
+- [OpenCloud](https://openaltfinder.com/tools/opencloud) - Open source platform for file management, sharing, and collaboration — simple and self-hostable.
 
 
 #### Web Servers
@@ -224,11 +224,11 @@ Want to contribute? See [Contributing](#contributing).
 #### Budgeting Apps
 
 
-- [BudgetBee](https://openaltfinder.com/tools/budgetbee) - Self-hosted personal finance manager for tracking expenses, budgets, and net worth via Docker.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
 - [Ghostfolio](https://openaltfinder.com/tools/ghostfolio) - Open-source wealth management software to track stocks, ETFs, cryptocurrencies, and your overall net worth.
 - [Actual Budget](https://openaltfinder.com/tools/actual-budget) - Fast, privacy-focused local-first personal finance app using zero-sum budgeting, with optional self-hosted sync.
 - [Budget Board](https://openaltfinder.com/tools/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
+- [BudgetBee](https://openaltfinder.com/tools/budgetbee) - Self-hosted personal finance manager for tracking expenses, budgets, and net worth via Docker.
 
 
 #### Ebook & Comic Readers
@@ -522,8 +522,6 @@ Want to contribute? See [Contributing](#contributing).
 #### Web Analytics
 
 
-- [Matomo](https://openaltfinder.com/tools/matomo) - Open-source web analytics platform with SEO keyword and search performance reporting.
-- [Swetrix](https://openaltfinder.com/tools/swetrix) - Privacy-first, cookie-less web analytics with speed monitoring and error tracking.
 - [Dub](https://openaltfinder.com/tools/dub) - The open-source link attribution platform for short links, conversion tracking, and affiliate programs.
 - [OpenPanel](https://openaltfinder.com/tools/open-panel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. 
 - [Open Web Analytics](https://openaltfinder.com/tools/open-web-analytics) - Self-hosted web analytics platform for tracking website traffic without compromising user privacy.
@@ -536,6 +534,8 @@ Want to contribute? See [Contributing](#contributing).
 - [Databuddy](https://openaltfinder.com/tools/databuddy) - Databuddy is a privacy-first analytics platform with a focus on user experience, with it's foundation built on privacy, it ensures complete compliance with most major data privacy laws out of the box 
 - [Rybbit](https://openaltfinder.com/tools/rybbit) - Privacy-friendly, open-source web analytics platform that is a simpler alternative to Google Analytics.
 - [Prisme Analytics](https://openaltfinder.com/tools/prisme-analytics) - High-perfomance, self-hosted and privacy-focused web analytics service. 
+- [Matomo](https://openaltfinder.com/tools/matomo) - Open-source web analytics platform with SEO keyword and search performance reporting.
+- [Swetrix](https://openaltfinder.com/tools/swetrix) - Privacy-first, cookie-less web analytics with speed monitoring and error tracking.
 
 
 #### App Analytics
