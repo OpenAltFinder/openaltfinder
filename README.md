@@ -266,6 +266,7 @@ Want to contribute? See [Contributing](#contributing).
 - [TaskTrove](https://openaltfinder.com/tools/task-trove) - Take Back Control of Your Productivity
 - [tududi](https://openaltfinder.com/tools/tududi) - Self-hosted task management that combines personal todo lists with powerful project organization. Built for individuals and teams who value privacy and control.
 - [WeKan](https://openaltfinder.com/tools/wekan) - Open-source kanban board built with Meteor — a free and self-hosted alternative to Trello.
+- [Worklog](https://openaltfinder.com/tools/worklog) - Local-first desktop project manager for small dev teams with Kanban workflow and zero cloud dependency.
 
 
 #### Time Tracking Tools
@@ -391,6 +392,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
+- [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 
 
 ### Collaboration & Communication Tools
