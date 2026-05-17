@@ -61,6 +61,8 @@ Want to contribute? See [Contributing](#contributing).
 - [Developer Tools](#developer-tools)
   - [API Development & Testing Tools](#api-development--testing-tools)
   - [AI Coding Agents](#ai-coding-agents)
+- [Podcasting](#podcasting)
+  - [Podcast Apps](#podcast-apps)
 - [Marketing & Branding Tools](#marketing--branding-tools)
   - [Email Marketing & Newsletters Tools](#email-marketing--newsletters-tools)
   - [Marketing Automation](#marketing-automation)
@@ -100,6 +102,7 @@ Want to contribute? See [Contributing](#contributing).
 - [ownCloud](https://openaltfinder.com/tools/owncloud) - Pioneer open-source file sync and sharing platform that spawned the self-hosted cloud movement.
 - [PhotoPrism](https://openaltfinder.com/tools/photoprism) - AI-powered self-hosted photo app for browsing, organizing, and sharing your photo collection.
 - [Piwigo](https://openaltfinder.com/tools/piwigo) - Open-source photo gallery and management software for individuals and teams.
+- [SafeBucket](https://openaltfinder.com/tools/safebucket) - Self-hosted file sharing platform with direct S3 uploads, SSO, and role-based access control.
 - [Seafile](https://openaltfinder.com/tools/seafile) - High-performance open-source file sync and share platform for teams.
 - [Syncthing](https://openaltfinder.com/tools/syncthing) - Continuous file synchronization program that syncs files directly between your devices — no cloud required.
 - [Twake Drive](https://openaltfinder.com/tools/twake-drive) -  The open-source alternative to Google Drive. 
@@ -488,6 +491,16 @@ Want to contribute? See [Contributing](#contributing).
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
+
+
+### Podcasting
+
+
+#### Podcast Apps
+
+
+- [MinusPod](https://openaltfinder.com/tools/minuspod) - Self-hosted podcast server that uses AI to automatically remove ads from episodes before you hit play.
+- [podgrab](https://openaltfinder.com/tools/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 
 
 ### Marketing & Branding Tools
