@@ -44,6 +44,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Fitness tracking Tools](#fitness-tracking-tools)
   - [Health monitoring Tools](#health-monitoring-tools)
   - [Habit Trackers](#habit-trackers)
+  - [Nutrition & Diet Trackers](#nutrition--diet-trackers)
 - [Graphic Design Tools](#graphic-design-tools)
   - [Marketing & Branding Tools](#marketing--branding-tools)
   - [Social Media Content Creation](#social-media-content-creation)
@@ -171,6 +172,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Flowise](https://openaltfinder.com/tools/flowise) - Flowise is an open-source, visual, low-code/no-code tool designed to help users build AI agents and sophisticated LLM-powered workflows through a drag-and-drop interface. It features a Node.js backend and a React frontend, along with modular components for integrations and API documentation—making it accessible to both developers and non-technical users.
 - [Kestra](https://openaltfinder.com/tools/kestra) - Event-driven workflow orchestration platform with a YAML-based pipeline DSL, 500+ plugins, and a built-in UI editor.
 - [Lightpanda](https://openaltfinder.com/tools/lightpanda) - A headless browser built from scratch in Zig, optimised for AI agents and automation with 9x less memory and 11x faster execution than Chrome.
+- [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
 - [n8n](https://openaltfinder.com/tools/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 
 - [Trigger.dev](https://openaltfinder.com/tools/trigger-dev) - Open-source platform for building and deploying reliable background jobs, scheduled tasks, and AI workflows in TypeScript.
 
@@ -374,6 +376,12 @@ Want to contribute? See [Contributing](#contributing).
 - [AnyHabit](https://openaltfinder.com/tools/anyhabit) - A universal habit and tracking dashboard tailored for Raspberry Pi and Docker with a modern React frontend.
 
 
+#### Nutrition & Diet Trackers
+
+
+- [NutriTrace](https://openaltfinder.com/tools/nutritrace) - Self-hosted personal nutrition tracker with PWA and Android app. No telemetry, no cloud sync, full data ownership.
+
+
 ### Graphic Design Tools
 
 
@@ -481,6 +489,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Hoppscotch](https://openaltfinder.com/tools/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) 
 - [HTTPie](https://openaltfinder.com/tools/httpie) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. 
 - [Insomnia](https://openaltfinder.com/tools/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. 
+- [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
 - [Scalar](https://openaltfinder.com/tools/scalar) -  Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support 
 - [Yaak](https://openaltfinder.com/tools/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 
 
