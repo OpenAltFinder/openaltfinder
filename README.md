@@ -113,10 +113,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Beszel](https://openaltfinder.com/tools/beszel) - Lightweight self-hosted server monitoring hub with historical data, Docker stats, and configurable alerts.
+- [changedetection.io](https://openaltfinder.com/tools/changedetection-io) - The best and simplest open-source tool for website change detection, page monitoring, and alerts. Self-hostable with Docker or use the SaaS plan.
 - [Healthchecks](https://openaltfinder.com/tools/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django 
 - [Kuvasz](https://openaltfinder.com/tools/kuvasz) - Open-source uptime and SSL monitoring service with status pages, multiple notification channels, and Prometheus integration.
 - [Lunalytics](https://openaltfinder.com/tools/lunalytics) - Lunalytics is an open-source, self-hosted monitoring tool built with Node.js and React that supports HTTP(S), TCP, ping, Docker, and more. It offers customizable dashboards, status pages, incident management, multi-user access control, and integrations with popular notification services, making it a modern, developer-friendly solution for monitoring uptime and system health.
 - [OpenStatus](https://openaltfinder.com/tools/openstatus) - Open-source uptime monitoring and status page platform with synthetic checks from 28 global regions and multi-channel alerting.
+- [ReJourney](https://openaltfinder.com/tools/rejourney) - Lightweight open-source observability tool with pixel-perfect session replay, real-time error detection, and journey mapping for web and mobile apps.
 - [SigNoz](https://openaltfinder.com/tools/signoz) - Open-source observability platform with logs, traces, and metrics — an alternative to Datadog and New Relic.
 - [Uptime Kuma](https://openaltfinder.com/tools/uptime-kuma) - Self-hosted uptime monitoring tool with a polished UI, 90+ notification integrations, and built-in public status pages.
 
@@ -146,6 +148,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [degoog](https://openaltfinder.com/tools/degoog) - Open-source, self-hosted search engine aggregator with a comprehensive plugin system.
+- [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
 - [SearXNG](https://openaltfinder.com/tools/searxng) - A free internet metasearch engine which aggregates results from various search services without tracking or profiling users.
 - [Typesense](https://openaltfinder.com/tools/typesense) - Fast, typo-tolerant open-source search engine and a simpler, cheaper alternative to Algolia.
 
@@ -203,6 +206,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Atomic](https://openaltfinder.com/tools/atomic) - A self-hosted personal knowledge base that turns markdown notes into an AI-augmented knowledge graph with semantic search and wiki synthesis.
 - [Files.md](https://openaltfinder.com/tools/files-md) - A simple local-first note-taking app for your plain .md files with Telegram bot access.
 - [HedgeDoc](https://openaltfinder.com/tools/hedgedoc) - Real-time collaborative markdown note editor you can self-host — write together with rich formatting and seamless sharing.
+- [HelixNotes](https://openaltfinder.com/tools/helixnotes) - A fast, privacy-first local markdown note-taking app built with Tauri and SvelteKit. Your notes stay as plain .md files on your device.
 - [Joplin](https://openaltfinder.com/tools/joplin) - Privacy-focused, open-source note-taking and to-do app with end-to-end encryption and multi-device sync.
 - [Jotty](https://openaltfinder.com/tools/jotty) - Lightweight self-hosted app for managing personal file-based notes and checklists.
 - [Journal](https://openaltfinder.com/tools/journal) - A simple self-hosted journal and blog API written in Go, using SQLite for storage.
@@ -307,6 +311,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Lobe Chat](https://openaltfinder.com/tools/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application. 
 - [Ollama](https://openaltfinder.com/tools/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. 
+- [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
 - [Open WebUI](https://openaltfinder.com/tools/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
 
 
@@ -414,6 +419,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [AFFiNE](https://openaltfinder.com/tools/affine) - Open-source knowledge base combining note-taking, whiteboard, and project planning in one workspace.
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana.
+- [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
 - [TriliumNext Notes](https://openaltfinder.com/tools/trilium-next-notes) - Hierarchical personal knowledge base with powerful note-taking, rich text editing, and scripting capabilities.
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
 
