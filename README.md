@@ -62,6 +62,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Developer Tools](#developer-tools)
   - [API Development & Testing Tools](#api-development--testing-tools)
   - [AI Coding Agents](#ai-coding-agents)
+  - [Source Code Management](#source-code-management)
 - [Podcasting](#podcasting)
   - [Podcast Apps](#podcast-apps)
 - [Marketing & Branding Tools](#marketing--branding-tools)
@@ -506,6 +507,13 @@ Want to contribute? See [Contributing](#contributing).
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
+
+
+#### Source Code Management
+
+
+- [Forgejo](https://openaltfinder.com/tools/forgejo) - A community-driven self-hosted Git forge, forked from Gitea, focused on software freedom and federation.
+- [Gitea](https://openaltfinder.com/tools/gitea) - Painless self-hosted all-in-one software development service with Git hosting, code review, CI/CD, and package registry.
 
 
 ### Podcasting
