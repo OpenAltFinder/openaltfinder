@@ -506,6 +506,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
+- [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Open-source AI agent toolkit with an interactive coding agent CLI, unified multi-provider LLM API, and TUI libraries.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
 
 
