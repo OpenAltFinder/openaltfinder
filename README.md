@@ -163,7 +163,7 @@ Want to contribute? See [Contributing](#contributing).
 - [AliasVault](https://openaltfinder.com/tools/alias-vault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [Bitwarden](https://openaltfinder.com/tools/bitwarden) - Bitwarden infrastructure/backend (API, database, Docker, etc). 
 - [KeePassXC](https://openaltfinder.com/tools/keepassxc) - Cross-platform community-driven port of KeePass Password Safe.
-- [Passbolt](https://openaltfinder.com/tools/passbolt) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! 
+- [Passbolt](https://openaltfinder.com/tools/passbolt) - Open-source, security-first password manager designed for teams. End-to-end encryption, granular access control, and self-hostable.
 - [Vaultwarden](https://openaltfinder.com/tools/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
 
 
