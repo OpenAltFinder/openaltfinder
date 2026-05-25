@@ -365,6 +365,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Fitness tracking Tools
 
 
+- [LiftTrace](https://openaltfinder.com/tools/lifttrace) - Self-hosted weightlifting tracker — single Docker container, AGPL-3.0, no telemetry, no cloud sync.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
 - [Stronk](https://openaltfinder.com/tools/stronk) -  Open Source Fitness Tracking App 
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
