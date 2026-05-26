@@ -322,7 +322,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Secure Tunnels
 
 
-- [Pangolin](https://openaltfinder.com/tools/pangolin) - Pangolin is an open-source, self-hosted identity-aware tunneled reverse proxy server featuring a sleek dashboard UI, designed to securely expose private resources across distributed networks without the need for opening inbound ports or dealing with complex firewall rules. It builds encrypted tunnels—often leveraging a user-space WireGuard client called Newt—to connect isolated services, supports HTTP/HTTPS as well as raw TCP/UDP traffic, automates SSL via Let’s Encrypt, enables load balancing, and integrates identity and access management with SSO, role-based access control, 2FA, temporary share links, OAuth2/OIDC integration, and more.
+- [Pangolin](https://openaltfinder.com/tools/pangolin) - Self-hosted identity-aware reverse proxy that securely exposes private services via encrypted tunnels without opening inbound ports.
 - [Proxly](https://openaltfinder.com/tools/proxly) - A self-hosted tunneling tool — like ngrok, but on your own domain. Expose local dev servers through subdomains on your VPS. 
 
 
