@@ -15,6 +15,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Personal Cloud](#personal-cloud)
   - [Web Servers](#web-servers)
   - [Search Tools](#search-tools)
+  - [CI/CD Tools](#cicd-tools)
 - [Productivity & Utilities](#productivity--utilities)
   - [Password Managers](#password-managers)
   - [Automation Tools](#automation-tools)
@@ -49,6 +50,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Marketing & Branding Tools](#marketing--branding-tools)
   - [Social Media Content Creation](#social-media-content-creation)
   - [Video Editing Tools](#video-editing-tools)
+  - [Image Editing](#image-editing)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
@@ -68,7 +70,6 @@ Want to contribute? See [Contributing](#contributing).
 - [Marketing & Branding Tools](#marketing--branding-tools)
   - [Email Marketing & Newsletters Tools](#email-marketing--newsletters-tools)
   - [Marketing Automation](#marketing-automation)
-  - [Social Media Management Tools](#social-media-management-tools)
 - [Data & Analytics](#data--analytics)
   - [Data Visualization](#data-visualization)
   - [Web Analytics](#web-analytics)
@@ -154,6 +155,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Typesense](https://openaltfinder.com/tools/typesense) - Fast, typo-tolerant open-source search engine and a simpler, cheaper alternative to Algolia.
 
 
+#### CI/CD Tools
+
+
+- [Woodpecker CI](https://openaltfinder.com/tools/woodpecker-ci) - A simple, yet powerful CI/CD engine with great extensibility. Self-hosted with minimal resource requirements.
+
+
 ### Productivity & Utilities
 
 
@@ -212,6 +219,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Jotty](https://openaltfinder.com/tools/jotty) - Lightweight self-hosted app for managing personal file-based notes and checklists.
 - [Journal](https://openaltfinder.com/tools/journal) - A simple self-hosted journal and blog API written in Go, using SQLite for storage.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
+- [Many Notes](https://openaltfinder.com/tools/many-notes) - A Markdown note-taking web application designed for simplicity with vaults, collaboration, and PWA support.
 - [memos](https://openaltfinder.com/tools/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. 
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 - [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Markdown-based note-taking app with powerful live queries, templates, and a pluggable scripting system for power users.
@@ -413,6 +421,13 @@ Want to contribute? See [Contributing](#contributing).
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 
 
+#### Image Editing
+
+
+- [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
+- [PixiEditor](https://openaltfinder.com/tools/pixieditor) - Universal open-source 2D editor for pixel art, painting, vector graphics, and animation.
+
+
 ### Collaboration & Communication Tools
 
 
@@ -548,13 +563,6 @@ Want to contribute? See [Contributing](#contributing).
 - [Chronex](https://openaltfinder.com/tools/chronex) - Self-hostable social media scheduler for content creators and small teams with distributed job processing.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Mautic](https://openaltfinder.com/tools/mautic) - Open-source marketing automation platform with email campaigns, lead management, and multi-channel marketing.
-
-
-#### Social Media Management Tools
-
-
-- [ Postiz](https://openaltfinder.com/tools/postiz) -  📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 
-- [Chronex](https://openaltfinder.com/tools/chronex) - Self-hostable social media scheduler for content creators and small teams with distributed job processing.
 
 
 ### Data & Analytics
