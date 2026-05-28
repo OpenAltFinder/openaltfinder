@@ -361,6 +361,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Headless CMS
 
 
+- [CometCMS](https://openaltfinder.com/tools/cometcms) - Headless, simple CMS with a PHP backend and a convenient Vue admin frontend.
 - [Directus](https://openaltfinder.com/tools/directus) -  The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. 
 - [Strapi](https://openaltfinder.com/tools/strapi) -  🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. 
 - [TinaCMS](https://openaltfinder.com/tools/tinacms) - A fully open-source headless CMS with Git support, Markdown editing, and live visual preview for React-based sites.
@@ -511,9 +512,11 @@ Want to contribute? See [Contributing](#contributing).
 - [Bruno](https://openaltfinder.com/tools/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) 
 - [Hoppscotch](https://openaltfinder.com/tools/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) 
 - [HTTPie](https://openaltfinder.com/tools/httpie) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. 
+- [Hurl](https://openaltfinder.com/tools/hurl) - Run and test HTTP requests with plain text — a simple yet powerful command-line tool for API testing.
 - [Insomnia](https://openaltfinder.com/tools/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. 
 - [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
 - [Scalar](https://openaltfinder.com/tools/scalar) -  Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support 
+- [Voiden](https://openaltfinder.com/tools/voiden) - Design, test and document APIs in plain Markdown with a git-native, offline-first approach.
 - [Yaak](https://openaltfinder.com/tools/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 
 
 
