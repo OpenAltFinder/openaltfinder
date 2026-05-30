@@ -339,6 +339,9 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Ente](https://openaltfinder.com/tools/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. 
 - [Open Authenticator](https://openaltfinder.com/tools/open-authenticator) - Free, open-source cross-platform TOTP authenticator with self-hostable sync backend, built with Flutter.
+- [OTPHub](https://openaltfinder.com/tools/otphub) - Simple OTP app for desktop and mobile.
+- [Toofer](https://openaltfinder.com/tools/toofer) - Local-first, web-based two factor authenticator app.
+- [Trezur](https://openaltfinder.com/tools/trezur) - Fast, secure, light-weight web-app to generate TOTP and HOTP tokens.
 
 
 #### Virtual Private Network
