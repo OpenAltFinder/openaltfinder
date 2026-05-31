@@ -120,9 +120,11 @@ Want to contribute? See [Contributing](#contributing).
 - [Kuvasz](https://openaltfinder.com/tools/kuvasz) - Open-source uptime and SSL monitoring service with status pages, multiple notification channels, and Prometheus integration.
 - [Lunalytics](https://openaltfinder.com/tools/lunalytics) - Lunalytics is an open-source, self-hosted monitoring tool built with Node.js and React that supports HTTP(S), TCP, ping, Docker, and more. It offers customizable dashboards, status pages, incident management, multi-user access control, and integrations with popular notification services, making it a modern, developer-friendly solution for monitoring uptime and system health.
 - [OpenStatus](https://openaltfinder.com/tools/openstatus) - Open-source uptime monitoring and status page platform with synthetic checks from 28 global regions and multi-channel alerting.
+- [Pingflare](https://openaltfinder.com/tools/pingflare) - Uptime monitoring system built to run natively within Cloudflare.
 - [ReJourney](https://openaltfinder.com/tools/rejourney) - Lightweight open-source observability tool with pixel-perfect session replay, real-time error detection, and journey mapping for web and mobile apps.
 - [SigNoz](https://openaltfinder.com/tools/signoz) - Open-source observability platform with logs, traces, and metrics — an alternative to Datadog and New Relic.
 - [Uptime Kuma](https://openaltfinder.com/tools/uptime-kuma) - Self-hosted uptime monitoring tool with a polished UI, 90+ notification integrations, and built-in public status pages.
+- [UptimeKit](https://openaltfinder.com/tools/uptimekit) - Distributed monitoring and status page platform with fault-tolerant architecture.
 
 
 #### PaaS & Deployment Tools
