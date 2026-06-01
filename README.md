@@ -32,6 +32,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Translation Tools](#translation-tools)
   - [Web Browsers](#web-browsers)
   - [Personal CRM & Contact Management](#personal-crm--contact-management)
+  - [Clipboard Managers](#clipboard-managers)
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
 - [Security & Privacy Tools](#security--privacy-tools)
@@ -130,8 +131,11 @@ Want to contribute? See [Contributing](#contributing).
 #### PaaS & Deployment Tools
 
 
+- [CapRover](https://openaltfinder.com/tools/caprover) - Scalable self-hosted PaaS with one-click apps and Docker Swarm clustering.
 - [Coolify](https://openaltfinder.com/tools/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
+- [Dokku](https://openaltfinder.com/tools/dokku) - Docker-powered PaaS implementing the Heroku git-push workflow on your own server.
 - [Dokploy](https://openaltfinder.com/tools/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. 
+- [Kamal](https://openaltfinder.com/tools/kamal) - CLI deployment tool from 37signals for zero-downtime Docker container deployments.
 - [Komodo](https://openaltfinder.com/tools/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 
 
 
@@ -312,6 +316,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Meerkat CRM](https://openaltfinder.com/tools/meerkat-crm) - A lightweight, self-hosted CRM designed for personal life and relationship management.
 - [Monica](https://openaltfinder.com/tools/monica) - Personal CRM. Remember everything about your friends, family and business relationships. 
+
+
+#### Clipboard Managers
+
+
+- [Clipfield](https://openaltfinder.com/tools/clipfield) - A beautiful open source clipboard manager for macOS.
 
 
 ### AI & Machine Learning
