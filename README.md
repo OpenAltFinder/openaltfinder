@@ -228,6 +228,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Many Notes](https://openaltfinder.com/tools/many-notes) - A Markdown note-taking web application designed for simplicity with vaults, collaboration, and PWA support.
 - [memos](https://openaltfinder.com/tools/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. 
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
+- [Scratch](https://openaltfinder.com/tools/scratch) - A minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux.
 - [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Markdown-based note-taking app with powerful live queries, templates, and a pluggable scripting system for power users.
 - [Speakr](https://openaltfinder.com/tools/speakr) - Self-hosted AI transcription and intelligent note-taking platform that turns audio recordings into organized, searchable notes with speaker identification.
 - [TriliumNext Notes](https://openaltfinder.com/tools/trilium-next-notes) - Hierarchical personal knowledge base with powerful note-taking, rich text editing, and scripting capabilities.
@@ -389,6 +390,8 @@ Want to contribute? See [Contributing](#contributing).
 #### Fitness tracking Tools
 
 
+- [CubeTrek](https://openaltfinder.com/tools/cubetrek) - Open-source GPS track manager with 3D topography visualization for outdoor activities.
+- [Endurain](https://openaltfinder.com/tools/endurain) - Self-hosted fitness tracking service for running, cycling, and more with full data control.
 - [LiftTrace](https://openaltfinder.com/tools/lifttrace) - Self-hosted weightlifting tracker — single Docker container, AGPL-3.0, no telemetry, no cloud sync.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
 - [Stronk](https://openaltfinder.com/tools/stronk) -  Open Source Fitness Tracking App 
