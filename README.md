@@ -164,6 +164,7 @@ Want to contribute? See [Contributing](#contributing).
 #### CI/CD Tools
 
 
+- [PikoCI](https://openaltfinder.com/tools/pikoci) - The CI/CD that grows with you. One binary, any database, any queue, runs anywhere.
 - [Woodpecker CI](https://openaltfinder.com/tools/woodpecker-ci) - A simple, yet powerful CI/CD engine with great extensibility. Self-hosted with minimal resource requirements.
 
 
