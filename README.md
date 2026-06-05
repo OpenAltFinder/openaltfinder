@@ -393,7 +393,9 @@ Want to contribute? See [Contributing](#contributing).
 
 - [CubeTrek](https://openaltfinder.com/tools/cubetrek) - Open-source GPS track manager with 3D topography visualization for outdoor activities.
 - [Endurain](https://openaltfinder.com/tools/endurain) - Self-hosted fitness tracking service for running, cycling, and more with full data control.
+- [Geo Activity Playground](https://openaltfinder.com/tools/geo-activity-playground) - Data analysis and visualization based on GPS tracked outdoor activities.
 - [LiftTrace](https://openaltfinder.com/tools/lifttrace) - Self-hosted weightlifting tracker — single Docker container, AGPL-3.0, no telemetry, no cloud sync.
+- [RunnerUp](https://openaltfinder.com/tools/runnerup) - An open source run tracker for Android.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
 - [Stronk](https://openaltfinder.com/tools/stronk) -  Open Source Fitness Tracking App 
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
@@ -543,6 +545,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
+- [Open Code Review](https://openaltfinder.com/tools/open-code-review) - Battle-tested AI code review agent with deterministic pipelines + LLM, fine-tuned security rules, and line-level comments.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
 - [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Open-source AI agent toolkit with an interactive coding agent CLI, unified multi-provider LLM API, and TUI libraries.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
