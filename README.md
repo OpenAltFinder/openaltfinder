@@ -395,6 +395,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Endurain](https://openaltfinder.com/tools/endurain) - Self-hosted fitness tracking service for running, cycling, and more with full data control.
 - [Geo Activity Playground](https://openaltfinder.com/tools/geo-activity-playground) - Data analysis and visualization based on GPS tracked outdoor activities.
 - [LiftTrace](https://openaltfinder.com/tools/lifttrace) - Self-hosted weightlifting tracker — single Docker container, AGPL-3.0, no telemetry, no cloud sync.
+- [OpenTracks](https://openaltfinder.com/tools/opentracks) - A privacy-focused sport tracking application for Android that records GPS tracks and supports Bluetooth sensors without any internet access or ads.
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - An open source run tracker for Android.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
 - [Stronk](https://openaltfinder.com/tools/stronk) -  Open Source Fitness Tracking App 
