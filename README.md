@@ -467,12 +467,14 @@ Want to contribute? See [Contributing](#contributing).
 #### Team Chat & Messaging Tools
 
 
+- [Delta Chat](https://openaltfinder.com/tools/delta-chat) - Decentralized private messenger using email infrastructure for secure, end-to-end encrypted communication.
 - [Discourse](https://openaltfinder.com/tools/discourse) - A platform for community discussion. Free, open, simple. 
 - [Element](https://openaltfinder.com/tools/element) - Open-source Matrix client for secure, decentralized messaging, voice, and video — runs on your own server.
 - [Mattermost](https://openaltfinder.com/tools/mattermost) -  Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. 
 - [Mumble](https://openaltfinder.com/tools/mumble) - Low-latency, open-source voice chat built for gaming — self-host your own server with no subscription required.
 - [Raven](https://openaltfinder.com/tools/raven) -  Simple, open source team messaging platform 
 - [Rocket.Chat](https://openaltfinder.com/tools/rocket-chat) - The communications platform that puts data protection first. 
+- [Tinode](https://openaltfinder.com/tools/tinode) - Instant messaging platform with self-hosted backend in Go and clients for iOS, Android, web, and command line.
 - [Zulip](https://openaltfinder.com/tools/zulip) - Open-source team chat with a unique topic-based threading model that makes it easy to follow multiple conversations.
 
 
