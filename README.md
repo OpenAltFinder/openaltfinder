@@ -229,6 +229,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Many Notes](https://openaltfinder.com/tools/many-notes) - A Markdown note-taking web application designed for simplicity with vaults, collaboration, and PWA support.
 - [memos](https://openaltfinder.com/tools/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. 
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
+- [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [Scratch](https://openaltfinder.com/tools/scratch) - A minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux.
 - [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Markdown-based note-taking app with powerful live queries, templates, and a pluggable scripting system for power users.
 - [Speakr](https://openaltfinder.com/tools/speakr) - Self-hosted AI transcription and intelligent note-taking platform that turns audio recordings into organized, searchable notes with speaker identification.
@@ -335,6 +336,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Lobe Chat](https://openaltfinder.com/tools/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application. 
 - [Ollama](https://openaltfinder.com/tools/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. 
 - [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
+- [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [Open WebUI](https://openaltfinder.com/tools/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
 
 
@@ -460,6 +462,7 @@ Want to contribute? See [Contributing](#contributing).
 - [AFFiNE](https://openaltfinder.com/tools/affine) - Open-source knowledge base combining note-taking, whiteboard, and project planning in one workspace.
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana.
 - [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
+- [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [TriliumNext Notes](https://openaltfinder.com/tools/trilium-next-notes) - Hierarchical personal knowledge base with powerful note-taking, rich text editing, and scripting capabilities.
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
 
@@ -568,6 +571,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [MinusPod](https://openaltfinder.com/tools/minuspod) - Self-hosted podcast server that uses AI to automatically remove ads from episodes before you hit play.
+- [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [podgrab](https://openaltfinder.com/tools/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 
 
