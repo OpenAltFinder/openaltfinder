@@ -52,6 +52,8 @@ Want to contribute? See [Contributing](#contributing).
   - [Social Media Content Creation](#social-media-content-creation)
   - [Video Editing Tools](#video-editing-tools)
   - [Image Editing](#image-editing)
+- [Finance & Investing Tools](#finance--investing-tools)
+  - [Portfolio & Wealth Management](#portfolio--wealth-management)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
@@ -131,6 +133,7 @@ Want to contribute? See [Contributing](#contributing).
 #### PaaS & Deployment Tools
 
 
+- [Better-PaaS](https://openaltfinder.com/tools/better-paas) - Self-hostable PaaS for deploying full-stack apps and databases with zero downtime, auto HTTPS, and Docker support.
 - [CapRover](https://openaltfinder.com/tools/caprover) - Scalable self-hosted PaaS with one-click apps and Docker Swarm clustering.
 - [Coolify](https://openaltfinder.com/tools/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
 - [Dokku](https://openaltfinder.com/tools/dokku) - Docker-powered PaaS implementing the Heroku git-push workflow on your own server.
@@ -256,7 +259,6 @@ Want to contribute? See [Contributing](#contributing).
 - [Budget Board](https://openaltfinder.com/tools/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
 - [BudgetBee](https://openaltfinder.com/tools/budgetbee) - Self-hosted personal finance manager for tracking expenses, budgets, and net worth via Docker.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
-- [Ghostfolio](https://openaltfinder.com/tools/ghostfolio) - Open-source wealth management software to track stocks, ETFs, cryptocurrencies, and your overall net worth.
 
 
 #### Ebook & Comic Readers
@@ -451,6 +453,17 @@ Want to contribute? See [Contributing](#contributing).
 
 - [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
 - [PixiEditor](https://openaltfinder.com/tools/pixieditor) - Universal open-source 2D editor for pixel art, painting, vector graphics, and animation.
+
+
+### Finance & Investing Tools
+
+
+#### Portfolio & Wealth Management
+
+
+- [Ghostfolio](https://openaltfinder.com/tools/ghostfolio) - Open-source wealth management software to track stocks, ETFs, cryptocurrencies, and your overall net worth.
+- [Rotki](https://openaltfinder.com/tools/rotki) - An open-source, self-hosted portfolio tracking, analytics, accounting, and management application that protects your privacy.
+- [Wealthfolio](https://openaltfinder.com/tools/wealthfolio) - A beautiful, private, local-first personal finance tracker for investments, net worth, spending, and simulations.
 
 
 ### Collaboration & Communication Tools
