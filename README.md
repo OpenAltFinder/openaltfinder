@@ -563,6 +563,7 @@ Want to contribute? See [Contributing](#contributing).
 #### AI Coding Agents
 
 
+- [MiMoCode](https://openaltfinder.com/tools/mimocode) - An open-source terminal-native AI coding agent with cross-session memory, multiple agents, and support for any LLM provider.
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
 - [Open Code Review](https://openaltfinder.com/tools/open-code-review) - Battle-tested AI code review agent with deterministic pipelines + LLM, fine-tuned security rules, and line-level comments.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
