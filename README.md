@@ -16,6 +16,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Web Servers](#web-servers)
   - [Search Tools](#search-tools)
   - [CI/CD Tools](#cicd-tools)
+  - [File Sharing](#file-sharing)
 - [Productivity & Utilities](#productivity--utilities)
   - [Password Managers](#password-managers)
   - [Automation Tools](#automation-tools)
@@ -60,6 +61,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Content & Publishing Tools](#content--publishing-tools)
   - [Internal Knowledge Base](#internal-knowledge-base)
   - [Wiki Software](#wiki-software)
+  - [Website Comments](#website-comments)
 - [Bussines Software](#bussines-software)
   - [Customer Communication Platforms](#customer-communication-platforms)
   - [Customer Relationship Management Tools](#customer-relationship-management-tools)
@@ -169,6 +171,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [PikoCI](https://openaltfinder.com/tools/pikoci) - The CI/CD that grows with you. One binary, any database, any queue, runs anywhere.
 - [Woodpecker CI](https://openaltfinder.com/tools/woodpecker-ci) - A simple, yet powerful CI/CD engine with great extensibility. Self-hosted with minimal resource requirements.
+
+
+#### File Sharing
+
+
+- [Pingvin Share X](https://openaltfinder.com/tools/pingvin-share-x) - Secure and easy self-hosted file sharing platform.
 
 
 ### Productivity & Utilities
@@ -511,6 +519,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Golocron](https://openaltfinder.com/tools/golocron) - A plug-and-play blogging and wiki system for Go backends with Markdown support and live preview.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
+
+
+#### Website Comments
+
+
+- [Commento](https://openaltfinder.com/tools/commento) - Fast, privacy-focused commenting platform for websites.
 
 
 ### Bussines Software
