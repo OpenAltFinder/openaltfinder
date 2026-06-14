@@ -34,6 +34,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Web Browsers](#web-browsers)
   - [Personal CRM & Contact Management](#personal-crm--contact-management)
   - [Clipboard Managers](#clipboard-managers)
+  - [Project Management](#project-management)
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
 - [Security & Privacy Tools](#security--privacy-tools)
@@ -335,6 +336,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Clipfield](https://openaltfinder.com/tools/clipfield) - A beautiful open source clipboard manager for macOS.
+
+
+#### Project Management
+
+
+- [Paca](https://openaltfinder.com/tools/paca) - AI-native open-source project management platform for Scrum and Kanban teams.
 
 
 ### AI & Machine Learning
