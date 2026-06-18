@@ -17,6 +17,8 @@ Want to contribute? See [Contributing](#contributing).
   - [Search Tools](#search-tools)
   - [CI/CD Tools](#cicd-tools)
   - [File Sharing](#file-sharing)
+- [Media Players](#media-players)
+  - [Music Player](#music-player)
 - [Productivity & Utilities](#productivity--utilities)
   - [Password Managers](#password-managers)
   - [Automation Tools](#automation-tools)
@@ -180,6 +182,15 @@ Want to contribute? See [Contributing](#contributing).
 - [Pingvin Share X](https://openaltfinder.com/tools/pingvin-share-x) - Secure and easy self-hosted file sharing platform.
 
 
+### Media Players
+
+
+#### Music Player
+
+
+- [Noctis](https://openaltfinder.com/tools/noctis) - Cross-platform lossless music player with rich library management, synced lyrics, and gapless playback for Windows, macOS, and Linux.
+
+
 ### Productivity & Utilities
 
 
@@ -267,6 +278,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Actual Budget](https://openaltfinder.com/tools/actual-budget) - Fast, privacy-focused local-first personal finance app using zero-sum budgeting, with optional self-hosted sync.
 - [Budget Board](https://openaltfinder.com/tools/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
 - [BudgetBee](https://openaltfinder.com/tools/budgetbee) - Self-hosted personal finance manager for tracking expenses, budgets, and net worth via Docker.
+- [ezBookkeeping](https://openaltfinder.com/tools/ezbookkeeping) - Lightweight, self-hosted personal finance and bookkeeping app with a mobile-friendly UI — an open alternative to Mint and YNAB.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
 
 
@@ -630,6 +642,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Chronex](https://openaltfinder.com/tools/chronex) - Self-hostable social media scheduler for content creators and small teams with distributed job processing.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Mautic](https://openaltfinder.com/tools/mautic) - Open-source marketing automation platform with email campaigns, lead management, and multi-channel marketing.
+- [TryPost](https://openaltfinder.com/tools/trypost) - Open-source social media scheduling platform — a self-hosted alternative to Buffer, Hootsuite, and Later for agencies and creators.
 
 
 ### Data & Analytics
