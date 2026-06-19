@@ -37,6 +37,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Personal CRM & Contact Management](#personal-crm--contact-management)
   - [Clipboard Managers](#clipboard-managers)
   - [Project Management](#project-management)
+  - [RSS Readers](#rss-readers)
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
 - [Security & Privacy Tools](#security--privacy-tools)
@@ -211,6 +212,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Automa](https://openaltfinder.com/tools/automa) - Browser extension that automates repetitive web tasks by visually connecting blocks — no code required.
 - [Automatisch](https://openaltfinder.com/tools/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. 
 - [Flowise](https://openaltfinder.com/tools/flowise) - Flowise is an open-source, visual, low-code/no-code tool designed to help users build AI agents and sophisticated LLM-powered workflows through a drag-and-drop interface. It features a Node.js backend and a React frontend, along with modular components for integrations and API documentation—making it accessible to both developers and non-technical users.
+- [Huginn](https://openaltfinder.com/tools/huginn) - Self-hosted automation platform for building agents that monitor and act on your behalf — a hackable, open source alternative to IFTTT and Zapier.
 - [Kestra](https://openaltfinder.com/tools/kestra) - Event-driven workflow orchestration platform with a YAML-based pipeline DSL, 500+ plugins, and a built-in UI editor.
 - [Lightpanda](https://openaltfinder.com/tools/lightpanda) - A headless browser built from scratch in Zig, optimised for AI agents and automation with 9x less memory and 11x faster execution than Chrome.
 - [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
@@ -354,6 +356,14 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Paca](https://openaltfinder.com/tools/paca) - AI-native open-source project management platform for Scrum and Kanban teams.
+
+
+#### RSS Readers
+
+
+- [CommaFeed](https://openaltfinder.com/tools/commafeed) - Self-hosted RSS reader inspired by Google Reader — organize, read and subscribe to your favorite feeds on your own server.
+- [Refeed](https://openaltfinder.com/tools/refeed) - Modern self-hosted RSS reader with timed bookmarks, smart filters, in-article notes, and a built-in newsletter-to-RSS converter.
+- [Tiny Tiny RSS](https://openaltfinder.com/tools/tiny-tiny-rss) - Long-running self-hosted RSS/Atom feed reader and aggregator, originally created in 2005 and now maintained at github.com/tt-rss/tt-rss.
 
 
 ### AI & Machine Learning
