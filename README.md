@@ -62,6 +62,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
+  - [Email Servers](#email-servers)
 - [Content & Publishing Tools](#content--publishing-tools)
   - [Internal Knowledge Base](#internal-knowledge-base)
   - [Wiki Software](#wiki-software)
@@ -94,11 +95,13 @@ Want to contribute? See [Contributing](#contributing).
 #### Database Management
 
 
+- [APITable](https://openaltfinder.com/tools/apitable) - API-oriented, open source Airtable alternative with database, dashboard, automation, and a no-code app builder.
 - [Baserow](https://openaltfinder.com/tools/baserow) - Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
 
 - [Beekeeper Studio](https://openaltfinder.com/tools/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. 
 - [ChartDB](https://openaltfinder.com/tools/chart-db) - Database diagrams editor that allows you to visualize and design your DB with a single query. 
 - [DBeaver](https://openaltfinder.com/tools/dbeaver) - Free universal database tool and SQL client 
+- [NocoDB](https://openaltfinder.com/tools/nocodb) - Free, self-hostable Airtable alternative that turns any database into a smart spreadsheet with APIs, automations, and views.
 - [Portabase](https://openaltfinder.com/tools/portabase) - Open-source, self-hosted database backup and restore platform for PostgreSQL, MySQL, MongoDB, Redis, and more.
 - [Supabase](https://openaltfinder.com/tools/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 
 - [Teable](https://openaltfinder.com/tools/teable) - No-code spreadsheet database built on Postgres — a fast, open-source Airtable alternative.
@@ -165,6 +168,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [degoog](https://openaltfinder.com/tools/degoog) - Open-source, self-hosted search engine aggregator with a comprehensive plugin system.
+- [Langfuse](https://openaltfinder.com/tools/langfuse) - Open source LLM engineering platform for tracing, evaluating, monitoring, and managing prompts as an alternative to LangSmith and Helicone.
 - [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
 - [SearXNG](https://openaltfinder.com/tools/searxng) - A free internet metasearch engine which aggregates results from various search services without tracking or profiling users.
 - [Typesense](https://openaltfinder.com/tools/typesense) - Fast, typo-tolerant open-source search engine and a simpler, cheaper alternative to Algolia.
@@ -243,6 +247,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [AFFiNE](https://openaltfinder.com/tools/affine) - Open-source knowledge base combining note-taking, whiteboard, and project planning in one workspace.
+- [Anchor](https://openaltfinder.com/tools/anchor) - Offline-first, self-hostable note-taking app with rich text, tags, attachments, and cross-device sync via Docker.
 - [Atomic](https://openaltfinder.com/tools/atomic) - A self-hosted personal knowledge base that turns markdown notes into an AI-augmented knowledge graph with semantic search and wiki synthesis.
 - [Files.md](https://openaltfinder.com/tools/files-md) - A simple local-first note-taking app for your plain .md files with Telegram bot access.
 - [HedgeDoc](https://openaltfinder.com/tools/hedgedoc) - Real-time collaborative markdown note editor you can self-host — write together with rich formatting and seamless sharing.
@@ -264,8 +269,13 @@ Want to contribute? See [Contributing](#contributing).
 #### PDF viewer
 
 
+- [Anytype](https://openaltfinder.com/tools/anytype) - Local-first, end-to-end encrypted alternative to Notion that lets you build a private knowledge base, docs, and tasks with no central server.
+- [AppFlowy](https://openaltfinder.com/tools/appflowy) - Open source Notion alternative that brings projects, wikis, and teams together with AI while keeping you in control of your data.
+- [Colanode](https://openaltfinder.com/tools/colanode) - Open source, local-first Slack and Notion alternative that puts you in control of your data with offline support and end-to-end encryption.
 - [EmbedPDF](https://openaltfinder.com/tools/embed-pdf) - A PDF viewer that seamlessly integrates with any JavaScript project 
 - [KillerPDF](https://openaltfinder.com/tools/killerpdf) - Lightweight, portable PDF editor for Windows with no subscription or telemetry.
+- [Logseq](https://openaltfinder.com/tools/logseq) - Privacy-first, open source knowledge management and note-taking platform that is a powerful Roam Research and Obsidian alternative.
+- [Standard Notes](https://openaltfinder.com/tools/standard-notes) - End-to-end encrypted, open source notes app that is a privacy-focused alternative to Evernote, Notion, and Apple Notes.
 
 
 #### Game Management Tools
@@ -310,11 +320,13 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [4gaBoards](https://openaltfinder.com/tools/4gaboards) - Straightforward realtime kanban boards for intuitive task tracking with dark mode and collaborative features.
+- [CloudMeet](https://openaltfinder.com/tools/cloudmeet) - Open source Calendly alternative that runs on Cloudflare’s free tier with Google Calendar and Outlook sync.
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana.
 - [Kaneo](https://openaltfinder.com/tools/kaneo) - Minimal self-hosted project management with kanban boards and issue tracking — no bloat, no subscriptions.
 - [OpenProject](https://openaltfinder.com/tools/openproject) - Open-source project management software — an alternative to Jira, Asana, Trello, and Monday.com.
 - [Plane](https://openaltfinder.com/tools/plane) - Open-source project management platform — an alternative to Jira, Linear, Monday, and ClickUp.
 - [Scrumboy](https://openaltfinder.com/tools/scrumboy) - Self-hosted Kanban and scrum project management tool with real-time collaboration, sprints, and anonymous shareable boards.
+- [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
 - [TaskTrove](https://openaltfinder.com/tools/task-trove) - Take Back Control of Your Productivity
 - [tududi](https://openaltfinder.com/tools/tududi) - Self-hosted task management that combines personal todo lists with powerful project organization. Built for individuals and teams who value privacy and control.
 - [WeKan](https://openaltfinder.com/tools/wekan) - Open-source kanban board built with Meteor — a free and self-hosted alternative to Trello.
@@ -324,6 +336,8 @@ Want to contribute? See [Contributing](#contributing).
 #### Time Tracking Tools
 
 
+- [Kimai](https://openaltfinder.com/tools/kimai) - Open source time-tracking application for freelancers, teams, and organisations, with timesheets, invoicing, and detailed reports.
+- [Solidtime](https://openaltfinder.com/tools/solidtime) - Modern, open source time-tracking app for freelancers and teams with project, client, task, and reporting features.
 - [TimeTracker](https://openaltfinder.com/tools/time-tracker) - A robust, self-hosted time tracking application designed for teams and freelancers who need reliable time management without cloud dependencies. Built with Flask and optimized for Raspberry Pi deployment, TimeTracker provides persistent timers, comprehensive reporting, and a modern web interface.
 
 
@@ -355,7 +369,12 @@ Want to contribute? See [Contributing](#contributing).
 #### Project Management
 
 
+- [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
+- [Kan](https://openaltfinder.com/tools/kan) - Modern, open source Trello alternative with kanban boards, lists, cards, and collaborative project tracking.
+- [Leantime](https://openaltfinder.com/tools/leantime) - Open source project management system for non-project managers, built with ADHD, autism, and dyslexia in mind — an Asana and Monday.com alternative.
 - [Paca](https://openaltfinder.com/tools/paca) - AI-native open-source project management platform for Scrum and Kanban teams.
+- [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
+- [Tegon](https://openaltfinder.com/tools/tegon) - Dev-first open source alternative to Jira and Linear for issue tracking, sprint planning, and product development.
 
 
 #### RSS Readers
@@ -385,6 +404,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Secure Tunnels
 
 
+- [NetBird](https://openaltfinder.com/tools/netbird) - Self-hostable, zero-trust overlay network that combines a WireGuard-based mesh VPN with SSO, MFA, and granular access controls.
 - [Pangolin](https://openaltfinder.com/tools/pangolin) - Self-hosted identity-aware reverse proxy that securely exposes private services via encrypted tunnels without opening inbound ports.
 - [Proxly](https://openaltfinder.com/tools/proxly) - A self-hosted tunneling tool — like ngrok, but on your own domain. Expose local dev servers through subdomains on your VPS. 
 
@@ -392,6 +412,7 @@ Want to contribute? See [Contributing](#contributing).
 #### 2FA Authentication
 
 
+- [Authentik](https://openaltfinder.com/tools/authentik) - Open source identity provider and SSO solution that replaces Auth0 and Okta with a self-hostable, flexible authentication platform.
 - [Ente](https://openaltfinder.com/tools/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. 
 - [Open Authenticator](https://openaltfinder.com/tools/open-authenticator) - Free, open-source cross-platform TOTP authenticator with self-hostable sync backend, built with Flutter.
 - [OTPHub](https://openaltfinder.com/tools/otphub) - Simple OTP app for desktop and mobile.
@@ -403,7 +424,9 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Headscale](https://openaltfinder.com/tools/headscale) - An open source, self-hosted implementation of the Tailscale control server 
+- [NetBird](https://openaltfinder.com/tools/netbird) - Self-hostable, zero-trust overlay network that combines a WireGuard-based mesh VPN with SSO, MFA, and granular access controls.
 - [OpenVPN](https://openaltfinder.com/tools/open-vpn) - OpenVPN is an open source VPN daemon 
+- [wg-easy](https://openaltfinder.com/tools/wg-easy) - The easiest way to run a self-hosted WireGuard VPN with a web-based admin UI, automatic client management, and one-liner deployment.
 
 
 #### Metadata Removal
@@ -488,8 +511,13 @@ Want to contribute? See [Contributing](#contributing).
 #### Image Editing
 
 
+- [Darktable](https://openaltfinder.com/tools/darktable) - Open source photography workflow application and raw developer for organizing, editing, and exporting large photo libraries.
+- [GIMP](https://openaltfinder.com/tools/gimp) - GNU Image Manipulation Program — the venerable free, open source image editor and Adobe Photoshop alternative.
+- [Inkscape](https://openaltfinder.com/tools/inkscape) - Free, open source vector graphics editor for illustrations, logos, icons, and technical drawings — a strong alternative to Adobe Illustrator.
+- [Krita](https://openaltfinder.com/tools/krita) - Free, open source digital painting and illustration application that is a popular alternative to Photoshop and Procreate.
 - [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
 - [PixiEditor](https://openaltfinder.com/tools/pixieditor) - Universal open-source 2D editor for pixel art, painting, vector graphics, and animation.
+- [RawTherapee](https://openaltfinder.com/tools/rawtherapee) - Powerful, cross-platform open source raw photo processing program and a strong alternative to Adobe Lightroom.
 
 
 ### Finance & Investing Tools
@@ -520,15 +548,26 @@ Want to contribute? See [Contributing](#contributing).
 #### Team Chat & Messaging Tools
 
 
+- [Bytedesk](https://openaltfinder.com/tools/bytedesk) - Open source AI-powered omnichannel customer service platform that combines live chat, ticketing, and team collaboration as an alternative to Slack, Zendesk, Intercom, and HubSpot.
+- [Colanode](https://openaltfinder.com/tools/colanode) - Open source, local-first Slack and Notion alternative that puts you in control of your data with offline support and end-to-end encryption.
 - [Delta Chat](https://openaltfinder.com/tools/delta-chat) - Decentralized private messenger using email infrastructure for secure, end-to-end encrypted communication.
 - [Discourse](https://openaltfinder.com/tools/discourse) - A platform for community discussion. Free, open, simple. 
 - [Element](https://openaltfinder.com/tools/element) - Open-source Matrix client for secure, decentralized messaging, voice, and video — runs on your own server.
+- [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
+- [Linen](https://openaltfinder.com/tools/linen) - Lightweight, Google-searchable open source Slack and Discord alternative designed for online communities.
 - [Mattermost](https://openaltfinder.com/tools/mattermost) -  Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. 
 - [Mumble](https://openaltfinder.com/tools/mumble) - Low-latency, open-source voice chat built for gaming — self-host your own server with no subscription required.
+- [Quiet](https://openaltfinder.com/tools/quiet) - Private, peer-to-peer Slack and Discord alternative built on Tor and IPFS that needs no servers and no accounts.
 - [Raven](https://openaltfinder.com/tools/raven) -  Simple, open source team messaging platform 
 - [Rocket.Chat](https://openaltfinder.com/tools/rocket-chat) - The communications platform that puts data protection first. 
 - [Tinode](https://openaltfinder.com/tools/tinode) - Instant messaging platform with self-hosted backend in Go and clients for iOS, Android, web, and command line.
 - [Zulip](https://openaltfinder.com/tools/zulip) - Open-source team chat with a unique topic-based threading model that makes it easy to follow multiple conversations.
+
+
+#### Email Servers
+
+
+- [Mailcow](https://openaltfinder.com/tools/mailcow) - Self-hostable, Dockerized mail server bundle that combines Postfix, Dovecot, and a polished web UI — a Gmail and Microsoft 365 alternative for organisations.
 
 
 ### Content & Publishing Tools
@@ -544,9 +583,12 @@ Want to contribute? See [Contributing](#contributing).
 #### Wiki Software
 
 
+- [BookStack](https://openaltfinder.com/tools/bookstack) - Open source wiki and documentation platform with a books/shelves/pages model — a simple, self-hostable alternative to Confluence and Notion.
 - [Docmost](https://openaltfinder.com/tools/docmost) - Open-source collaborative wiki and documentation platform, an alternative to Confluence and Notion.
 - [Golocron](https://openaltfinder.com/tools/golocron) - A plug-and-play blogging and wiki system for Go backends with Markdown support and live preview.
+- [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
+- [Outline](https://openaltfinder.com/tools/outline) - The fastest growing-team knowledge base — beautiful, realtime collaborative, feature packed, and markdown compatible Notion and Confluence alternative.
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
 
 
@@ -562,8 +604,10 @@ Want to contribute? See [Contributing](#contributing).
 #### Customer Communication Platforms
 
 
+- [Bytedesk](https://openaltfinder.com/tools/bytedesk) - Open source AI-powered omnichannel customer service platform that combines live chat, ticketing, and team collaboration as an alternative to Slack, Zendesk, Intercom, and HubSpot.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Fider](https://openaltfinder.com/tools/fider) - Open source customer feedback platform to collect, organize, and prioritize feature requests from users.
+- [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
 
 
 #### Customer Relationship Management Tools
@@ -572,6 +616,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Dolibarr](https://openaltfinder.com/tools/dolibarr) - A free and open-source ERP and CRM platform for businesses, foundations, and freelancers of any size.
 - [EspoCRM](https://openaltfinder.com/tools/espocrm) - Open source CRM platform for managing contacts, leads, sales pipelines, and customer relationships.
 - [Frappe CRM](https://openaltfinder.com/tools/frappe-crm) - A modern, open-source CRM by the Frappe team, built for sales teams to manage leads and deals efficiently.
+- [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [Krayin CRM](https://openaltfinder.com/tools/krayin-crm) - A free and open-source Laravel CRM for SMEs and enterprises with full customer lifecycle management.
 - [Relaticle](https://openaltfinder.com/tools/relaticle) - Open-source CRM with native AI agent support, 30 MCP tools, REST API, and self-hosting capabilities.
 - [SuiteCRM](https://openaltfinder.com/tools/suitecrm) - A fully featured open-source enterprise CRM built as a community fork of SugarCRM.
@@ -650,8 +695,13 @@ Want to contribute? See [Contributing](#contributing).
 
 - [ Postiz](https://openaltfinder.com/tools/postiz) -  📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 
 - [Chronex](https://openaltfinder.com/tools/chronex) - Self-hostable social media scheduler for content creators and small teams with distributed job processing.
+- [CloudMeet](https://openaltfinder.com/tools/cloudmeet) - Open source Calendly alternative that runs on Cloudflare’s free tier with Google Calendar and Outlook sync.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
+- [Forms.md](https://openaltfinder.com/tools/forms-md) - Developer-first open source Typeform alternative (formerly Blocks.md) with Markdown-defined forms and native Google Sheets integration.
 - [Mautic](https://openaltfinder.com/tools/mautic) - Open-source marketing automation platform with email campaigns, lead management, and multi-channel marketing.
+- [Quill Forms](https://openaltfinder.com/tools/quillforms) - Open source React-based Typeform alternative for building conversational multi-step forms, surveys, and quizzes.
+- [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
+- [TellForm](https://openaltfinder.com/tools/tellform) - Open source Typeform and Google Forms alternative for building beautiful conversational forms and surveys.
 - [TryPost](https://openaltfinder.com/tools/trypost) - Open-source social media scheduling platform — a self-hosted alternative to Buffer, Hootsuite, and Later for agencies and creators.
 
 
@@ -674,6 +724,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Matomo](https://openaltfinder.com/tools/matomo) - Open-source web analytics platform with SEO keyword and search performance reporting.
 - [Open Web Analytics](https://openaltfinder.com/tools/open-web-analytics) - Self-hosted web analytics platform for tracking website traffic without compromising user privacy.
 - [OpenPanel](https://openaltfinder.com/tools/open-panel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. 
+- [OpenReplay](https://openaltfinder.com/tools/openreplay) - Self-hostable session replay, cobrowsing, and product analytics platform that is a strong open source alternative to Hotjar and FullStory.
 - [Plausible](https://openaltfinder.com/tools/plausible) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. 
 - [PostHog](https://openaltfinder.com/tools/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free. 
 - [Prisme Analytics](https://openaltfinder.com/tools/prisme-analytics) - High-perfomance, self-hosted and privacy-focused web analytics service. 
