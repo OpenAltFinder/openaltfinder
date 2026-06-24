@@ -38,6 +38,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Clipboard Managers](#clipboard-managers)
   - [Project Management](#project-management)
   - [RSS Readers](#rss-readers)
+  - [Presentation Tools](#presentation-tools)
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
 - [Security & Privacy Tools](#security--privacy-tools)
@@ -63,6 +64,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
   - [Email Servers](#email-servers)
+  - [Video Collaboration Tools](#video-collaboration-tools)
 - [Content & Publishing Tools](#content--publishing-tools)
   - [Internal Knowledge Base](#internal-knowledge-base)
   - [Wiki Software](#wiki-software)
@@ -385,6 +387,14 @@ Want to contribute? See [Contributing](#contributing).
 - [Tiny Tiny RSS](https://openaltfinder.com/tools/tiny-tiny-rss) - Long-running self-hosted RSS/Atom feed reader and aggregator, originally created in 2005 and now maintained at github.com/tt-rss/tt-rss.
 
 
+#### Presentation Tools
+
+
+- [Kova](https://openaltfinder.com/tools/kova) - Open source desktop Markdown presentation editor with live preview, themes, and PPTX export — a self-contained alternative to PowerPoint.
+- [Marp CLI](https://openaltfinder.com/tools/marp-cli) - The official CLI for the Marp Markdown presentation ecosystem — write slides in Markdown and convert to HTML, PDF, PPTX, or images.
+- [Slidev](https://openaltfinder.com/tools/slidev) - Markdown-based presentation slides for developers, with code highlighting, Vue components, theming, and PDF/PPTX export.
+
+
 ### AI & Machine Learning
 
 
@@ -568,6 +578,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Mailcow](https://openaltfinder.com/tools/mailcow) - Self-hostable, Dockerized mail server bundle that combines Postfix, Dovecot, and a polished web UI — a Gmail and Microsoft 365 alternative for organisations.
+
+
+#### Video Collaboration Tools
+
+
+- [Shumai](https://openaltfinder.com/tools/shumai) - Self-hostable open source video review and asset collaboration platform, a privacy-friendly alternative to Frame.io.
 
 
 ### Content & Publishing Tools
