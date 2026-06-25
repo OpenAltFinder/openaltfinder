@@ -299,7 +299,9 @@ Want to contribute? See [Contributing](#contributing).
 #### Ebook & Comic Readers
 
 
+- [BookWyrm](https://openaltfinder.com/tools/bookwyrm) - Federated, self-hostable social network for readers — book shelves, reviews, and reading status, decentralized via ActivityPub.
 - [Kumiho](https://openaltfinder.com/tools/kumiho) - A self-hosted, lightweight web media server for streaming your personal comics, manga, ebooks, and audiobooks.
+- [openreads](https://openaltfinder.com/tools/openreads) - Privacy-respecting mobile book tracker for iOS and Android, built with Flutter — your library lives on your device.
 - [Tome](https://openaltfinder.com/tools/tome) - A self-hosted book tracker powered by your Calibre library — Goodreads for your own collection.
 
 
