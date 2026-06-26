@@ -39,6 +39,8 @@ Want to contribute? See [Contributing](#contributing).
   - [Project Management](#project-management)
   - [RSS Readers](#rss-readers)
   - [Presentation Tools](#presentation-tools)
+- [Food & Cooking](#food--cooking)
+  - [Recipe Management](#recipe-management)
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
 - [Security & Privacy Tools](#security--privacy-tools)
@@ -262,6 +264,7 @@ Want to contribute? See [Contributing](#contributing).
 - [memos](https://openaltfinder.com/tools/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. 
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
+- [OpenKnowledge](https://openaltfinder.com/tools/openknowledge) - AI-native, local-first markdown editor and LLM wiki with built-in integrations for Claude, Codex, and other agents.
 - [Scratch](https://openaltfinder.com/tools/scratch) - A minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux.
 - [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Markdown-based note-taking app with powerful live queries, templates, and a pluggable scripting system for power users.
 - [Speakr](https://openaltfinder.com/tools/speakr) - Self-hosted AI transcription and intelligent note-taking platform that turns audio recordings into organized, searchable notes with speaker identification.
@@ -395,6 +398,15 @@ Want to contribute? See [Contributing](#contributing).
 - [Kova](https://openaltfinder.com/tools/kova) - Open source desktop Markdown presentation editor with live preview, themes, and PPTX export — a self-contained alternative to PowerPoint.
 - [Marp CLI](https://openaltfinder.com/tools/marp-cli) - The official CLI for the Marp Markdown presentation ecosystem — write slides in Markdown and convert to HTML, PDF, PPTX, or images.
 - [Slidev](https://openaltfinder.com/tools/slidev) - Markdown-based presentation slides for developers, with code highlighting, Vue components, theming, and PDF/PPTX export.
+
+
+### Food & Cooking
+
+
+#### Recipe Management
+
+
+- [CookTrace](https://openaltfinder.com/tools/cooktrace) - Self-hosted recipe, pantry, and cooking tracker with a PWA and native Android app — no telemetry, no cloud lock-in.
 
 
 ### AI & Machine Learning
