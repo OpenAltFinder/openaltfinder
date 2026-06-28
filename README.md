@@ -62,6 +62,10 @@ Want to contribute? See [Contributing](#contributing).
   - [Image Editing](#image-editing)
 - [Finance & Investing Tools](#finance--investing-tools)
   - [Portfolio & Wealth Management](#portfolio--wealth-management)
+- [Games](#games)
+  - [Real-Time Strategy](#real-time-strategy)
+  - [Turn-Based Strategy](#turn-based-strategy)
+  - [Factory Automation](#factory-automation)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
@@ -553,6 +557,28 @@ Want to contribute? See [Contributing](#contributing).
 - [Ghostfolio](https://openaltfinder.com/tools/ghostfolio) - Open-source wealth management software to track stocks, ETFs, cryptocurrencies, and your overall net worth.
 - [Rotki](https://openaltfinder.com/tools/rotki) - An open-source, self-hosted portfolio tracking, analytics, accounting, and management application that protects your privacy.
 - [Wealthfolio](https://openaltfinder.com/tools/wealthfolio) - A beautiful, private, local-first personal finance tracker for investments, net worth, spending, and simulations.
+
+
+### Games
+
+
+#### Real-Time Strategy
+
+
+- [Mindustry](https://openaltfinder.com/tools/mindustry) - Open source automation tower defense RTS — build factories, mine resources, and defend your core against waves of enemies.
+- [OpenRA](https://openaltfinder.com/tools/openra) - Open source game engine that reimplements early Westwood classics including Command & Conquer: Red Alert, Tiberian Dawn, and Dune 2000.
+
+
+#### Turn-Based Strategy
+
+
+- [Battle for Wesnoth](https://openaltfinder.com/tools/battle-for-wesnoth) - Free, open source turn-based strategy game set in a high-fantasy world, with single-player campaigns and online multiplayer.
+
+
+#### Factory Automation
+
+
+- [shapez.io](https://openaltfinder.com/tools/shapez-io) - Open source base-building and factory-automation puzzle game inspired by Factorio — extract, cut, rotate, and combine shapes on an infinite map.
 
 
 ### Collaboration & Communication Tools
