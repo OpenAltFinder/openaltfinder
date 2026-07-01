@@ -663,6 +663,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Bytedesk](https://openaltfinder.com/tools/bytedesk) - Open source AI-powered omnichannel customer service platform that combines live chat, ticketing, and team collaboration as an alternative to Slack, Zendesk, Intercom, and HubSpot.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Fider](https://openaltfinder.com/tools/fider) - Open source customer feedback platform to collect, organize, and prioritize feature requests from users.
+- [OpenCan](https://openaltfinder.com/tools/opencan) - Self-hosted, open-source customer feedback management — collect feature requests, vote, and close the loop with a public roadmap and changelog.
 - [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
 
 
