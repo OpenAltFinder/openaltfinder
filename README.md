@@ -339,6 +339,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Scrumboy](https://openaltfinder.com/tools/scrumboy) - Self-hosted Kanban and scrum project management tool with real-time collaboration, sprints, and anonymous shareable boards.
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
 - [TaskTrove](https://openaltfinder.com/tools/task-trove) - Take Back Control of Your Productivity
+- [TaskView](https://openaltfinder.com/tools/taskview) - Self-hosted project and task management platform with Kanban boards, sprints, time tracking, and AI/MCP integrations for software teams.
 - [tududi](https://openaltfinder.com/tools/tududi) - Self-hosted task management that combines personal todo lists with powerful project organization. Built for individuals and teams who value privacy and control.
 - [WeKan](https://openaltfinder.com/tools/wekan) - Open-source kanban board built with Meteor — a free and self-hosted alternative to Trello.
 - [Worklog](https://openaltfinder.com/tools/worklog) - Local-first desktop project manager for small dev teams with Kanban workflow and zero cloud dependency.
@@ -385,6 +386,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Leantime](https://openaltfinder.com/tools/leantime) - Open source project management system for non-project managers, built with ADHD, autism, and dyslexia in mind — an Asana and Monday.com alternative.
 - [Paca](https://openaltfinder.com/tools/paca) - AI-native open-source project management platform for Scrum and Kanban teams.
 - [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
+- [TaskView](https://openaltfinder.com/tools/taskview) - Self-hosted project and task management platform with Kanban boards, sprints, time tracking, and AI/MCP integrations for software teams.
 - [Tegon](https://openaltfinder.com/tools/tegon) - Dev-first open source alternative to Jira and Linear for issue tracking, sprint planning, and product development.
 
 
