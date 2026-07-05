@@ -316,6 +316,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [MovieLab](https://openaltfinder.com/tools/movielab) - An open source movie and TV show tracker app for Android with IMDb integration.
+- [Watcharr](https://openaltfinder.com/tools/watcharr) - Self-hostable watchlist tracker for movies, TV shows, anime, and video games with a clean modern UI.
 - [Yamtrack](https://openaltfinder.com/tools/yamtrack) - A self-hosted media tracker for movies, TV shows, anime, games, books, and manga.
 
 
@@ -381,6 +382,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Project Management
 
 
+- [Devlane](https://openaltfinder.com/tools/devlane) - Self-hostable project management for dev teams: issues, cycles, modules, pages, and analytics. Go + React alternative to Jira and Linear.
 - [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [Kan](https://openaltfinder.com/tools/kan) - Modern, open source Trello alternative with kanban boards, lists, cards, and collaborative project tracking.
 - [Leantime](https://openaltfinder.com/tools/leantime) - Open source project management system for non-project managers, built with ADHD, autism, and dyslexia in mind — an Asana and Monday.com alternative.
