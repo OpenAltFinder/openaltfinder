@@ -316,6 +316,8 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [MovieLab](https://openaltfinder.com/tools/movielab) - An open source movie and TV show tracker app for Android with IMDb integration.
+- [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
+- [Scrob](https://openaltfinder.com/tools/scrob) - Self-hosted media tracker that syncs your Jellyfin, Plex, or Emby libraries, tracks watch history, ratings, and lists — your own private Letterboxd + Trakt.
 - [Watcharr](https://openaltfinder.com/tools/watcharr) - Self-hostable watchlist tracker for movies, TV shows, anime, and video games with a clean modern UI.
 - [Yamtrack](https://openaltfinder.com/tools/yamtrack) - A self-hosted media tracker for movies, TV shows, anime, games, books, and manga.
 
@@ -493,6 +495,7 @@ Want to contribute? See [Contributing](#contributing).
 - [LiftTrace](https://openaltfinder.com/tools/lifttrace) - Self-hosted weightlifting tracker — single Docker container, AGPL-3.0, no telemetry, no cloud sync.
 - [OpenTracks](https://openaltfinder.com/tools/opentracks) - A privacy-focused sport tracking application for Android that records GPS tracks and supports Bluetooth sensors without any internet access or ads.
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - An open source run tracker for Android.
+- [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
 - [Stronk](https://openaltfinder.com/tools/stronk) -  Open Source Fitness Tracking App 
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
