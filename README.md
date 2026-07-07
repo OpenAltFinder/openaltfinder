@@ -17,6 +17,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Search Tools](#search-tools)
   - [CI/CD Tools](#cicd-tools)
   - [File Sharing](#file-sharing)
+  - [Object Storage](#object-storage)
 - [Media Players](#media-players)
   - [Music Player](#music-player)
 - [Productivity & Utilities](#productivity--utilities)
@@ -193,6 +194,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Pingvin Share X](https://openaltfinder.com/tools/pingvin-share-x) - Secure and easy self-hosted file sharing platform.
+
+
+#### Object Storage
+
+
+- [Alarik](https://openaltfinder.com/tools/alarik) - High-performance S3-compatible object storage written in Swift, designed as a modern open alternative to MinIO.
 
 
 ### Media Players
@@ -646,6 +653,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Wiki Software
 
 
+- [Alexandrie](https://openaltfinder.com/tools/alexandrie) - Self-hosted knowledge base with extended Markdown editor, Kanban, OIDC/SSO, PWA and offline support.
 - [BookStack](https://openaltfinder.com/tools/bookstack) - Open source wiki and documentation platform with a books/shelves/pages model — a simple, self-hostable alternative to Confluence and Notion.
 - [Docmost](https://openaltfinder.com/tools/docmost) - Open-source collaborative wiki and documentation platform, an alternative to Confluence and Notion.
 - [Golocron](https://openaltfinder.com/tools/golocron) - A plug-and-play blogging and wiki system for Go backends with Markdown support and live preview.
