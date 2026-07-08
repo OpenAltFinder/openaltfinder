@@ -200,6 +200,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Alarik](https://openaltfinder.com/tools/alarik) - High-performance S3-compatible object storage written in Swift, designed as a modern open alternative to MinIO.
+- [Garage](https://openaltfinder.com/tools/garage) - S3-compatible distributed object storage designed for small self-hosted geo-distributed deployments, built in Rust.
+- [HS5](https://openaltfinder.com/tools/hs5) - High-performance single-node S3-compatible object storage focused on scale-up performance, built in C++.
+- [RustFS](https://openaltfinder.com/tools/rustfs) - High-performance S3-compatible object storage built in Rust, 2.3x faster than MinIO with Apache 2.0 licensing.
+- [S4Core](https://openaltfinder.com/tools/s4core) - High-performance Rust-based S3-compatible object storage with deduplication, SQL queries, and federation.
+- [SeaweedFS](https://openaltfinder.com/tools/seaweedfs) - Distributed storage system with S3-compatible object storage, POSIX file system, and Iceberg table support for billions of files.
+- [VersityGW](https://openaltfinder.com/tools/versitygw) - S3 gateway that translates S3 API requests to filesystem, Azure Blob, ScoutFS, or other S3 backends.
 
 
 ### Media Players
@@ -236,6 +242,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Lightpanda](https://openaltfinder.com/tools/lightpanda) - A headless browser built from scratch in Zig, optimised for AI agents and automation with 9x less memory and 11x faster execution than Chrome.
 - [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
 - [n8n](https://openaltfinder.com/tools/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 
+- [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Trigger.dev](https://openaltfinder.com/tools/trigger-dev) - Open-source platform for building and deploying reliable background jobs, scheduled tasks, and AI workflows in TypeScript.
 
 
@@ -276,6 +283,7 @@ Want to contribute? See [Contributing](#contributing).
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [OpenKnowledge](https://openaltfinder.com/tools/openknowledge) - AI-native, local-first markdown editor and LLM wiki with built-in integrations for Claude, Codex, and other agents.
+- [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Scratch](https://openaltfinder.com/tools/scratch) - A minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux.
 - [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Markdown-based note-taking app with powerful live queries, templates, and a pluggable scripting system for power users.
 - [Speakr](https://openaltfinder.com/tools/speakr) - Self-hosted AI transcription and intelligent note-taking platform that turns audio recordings into organized, searchable notes with speaker identification.
@@ -728,6 +736,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Open Code Review](https://openaltfinder.com/tools/open-code-review) - Battle-tested AI code review agent with deterministic pipelines + LLM, fine-tuned security rules, and line-level comments.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
 - [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Open-source AI agent toolkit with an interactive coding agent CLI, unified multi-provider LLM API, and TUI libraries.
+- [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
 
 
