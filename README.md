@@ -554,6 +554,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Video Editing Tools
 
 
+- [FableCut](https://openaltfinder.com/tools/fablecut) - Zero-dependency browser video editor that AI agents can drive via JSON timeline, MCP, and REST.
 - [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 
@@ -621,6 +622,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Bytedesk](https://openaltfinder.com/tools/bytedesk) - Open source AI-powered omnichannel customer service platform that combines live chat, ticketing, and team collaboration as an alternative to Slack, Zendesk, Intercom, and HubSpot.
+- [Chatto](https://openaltfinder.com/tools/chatto) - A self-hosted chat application for teams and communities with video calls, voice calls, and screen sharing.
 - [Colanode](https://openaltfinder.com/tools/colanode) - Open source, local-first Slack and Notion alternative that puts you in control of your data with offline support and end-to-end encryption.
 - [Delta Chat](https://openaltfinder.com/tools/delta-chat) - Decentralized private messenger using email infrastructure for secure, end-to-end encrypted communication.
 - [Discourse](https://openaltfinder.com/tools/discourse) - A platform for community discussion. Free, open, simple. 
