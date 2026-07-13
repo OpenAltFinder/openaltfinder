@@ -44,6 +44,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Recipe Management](#recipe-management)
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
+  - [AI Agent Builders](#ai-agent-builders)
 - [Security & Privacy Tools](#security--privacy-tools)
   - [Secure Tunnels](#secure-tunnels)
   - [2FA Authentication](#2fa-authentication)
@@ -322,6 +323,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [BookWyrm](https://openaltfinder.com/tools/bookwyrm) - Federated, self-hostable social network for readers — book shelves, reviews, and reading status, decentralized via ActivityPub.
+- [Kavita](https://openaltfinder.com/tools/kavita) - Self-hosted, cross-platform reading server for manga, comics, and ebooks with responsive web readers and an OPDS feed.
 - [Kumiho](https://openaltfinder.com/tools/kumiho) - A self-hosted, lightweight web media server for streaming your personal comics, manga, ebooks, and audiobooks.
 - [openreads](https://openaltfinder.com/tools/openreads) - Privacy-respecting mobile book tracker for iOS and Android, built with Flutter — your library lives on your device.
 - [Tome](https://openaltfinder.com/tools/tome) - A self-hosted book tracker powered by your Calibre library — Goodreads for your own collection.
@@ -447,6 +449,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Open WebUI](https://openaltfinder.com/tools/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
 
 
+#### AI Agent Builders
+
+
+- [Sim](https://openaltfinder.com/tools/sim) - Open-source workspace to build, deploy, and orchestrate AI agents and agentic workflows.
+
+
 ### Security & Privacy Tools
 
 
@@ -555,6 +563,8 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [FableCut](https://openaltfinder.com/tools/fablecut) - Zero-dependency browser video editor that AI agents can drive via JSON timeline, MCP, and REST.
+- [Kdenlive](https://openaltfinder.com/tools/kdenlive) - Free and open source multi-track video editor built on MLT Framework and KDE technologies.
+- [Olive](https://openaltfinder.com/tools/olive) - Free open-source non-linear video editor with hardware-accelerated compositing and cross-platform support.
 - [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 
