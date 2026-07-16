@@ -18,6 +18,7 @@ Want to contribute? See [Contributing](#contributing).
   - [CI/CD Tools](#cicd-tools)
   - [File Sharing](#file-sharing)
   - [Object Storage](#object-storage)
+  - [Job Scheduling](#job-scheduling)
 - [Media Players](#media-players)
   - [Music Player](#music-player)
 - [Productivity & Utilities](#productivity--utilities)
@@ -207,6 +208,12 @@ Want to contribute? See [Contributing](#contributing).
 - [S4Core](https://openaltfinder.com/tools/s4core) - High-performance Rust-based S3-compatible object storage with deduplication, SQL queries, and federation.
 - [SeaweedFS](https://openaltfinder.com/tools/seaweedfs) - Distributed storage system with S3-compatible object storage, POSIX file system, and Iceberg table support for billions of files.
 - [VersityGW](https://openaltfinder.com/tools/versitygw) - S3 gateway that translates S3 API requests to filesystem, Azure Blob, ScoutFS, or other S3 backends.
+
+
+#### Job Scheduling
+
+
+- [cronstable](https://openaltfinder.com/tools/cronstable) - Container-friendly, leader-electing, fault-tolerant cron replacement with a built-in web dashboard, DAG orchestration, and durable state.
 
 
 ### Media Players
