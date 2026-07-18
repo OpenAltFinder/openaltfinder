@@ -416,6 +416,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
 - [TaskView](https://openaltfinder.com/tools/taskview) - Self-hosted project and task management platform with Kanban boards, sprints, time tracking, and AI/MCP integrations for software teams.
 - [Tegon](https://openaltfinder.com/tools/tegon) - Dev-first open source alternative to Jira and Linear for issue tracking, sprint planning, and product development.
+- [Windshift](https://openaltfinder.com/tools/windshift) - Self-hosted work management platform combining task tracking, workflow automation, and team collaboration in a single deployable app.
 
 
 #### RSS Readers
