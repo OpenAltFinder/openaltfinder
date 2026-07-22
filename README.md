@@ -573,6 +573,7 @@ Want to contribute? See [Contributing](#contributing).
 - [FableCut](https://openaltfinder.com/tools/fablecut) - Zero-dependency browser video editor that AI agents can drive via JSON timeline, MCP, and REST.
 - [Kdenlive](https://openaltfinder.com/tools/kdenlive) - Free and open source multi-track video editor built on MLT Framework and KDE technologies.
 - [Olive](https://openaltfinder.com/tools/olive) - Free open-source non-linear video editor with hardware-accelerated compositing and cross-platform support.
+- [Open Video Craft](https://openaltfinder.com/tools/open-video-craft) - Open-source, local-first screen recorder and timeline video editor for macOS and Windows with AI subtitle generation.
 - [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 
