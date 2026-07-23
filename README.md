@@ -82,6 +82,9 @@ Want to contribute? See [Contributing](#contributing).
   - [Customer Communication Platforms](#customer-communication-platforms)
   - [Customer Relationship Management Tools](#customer-relationship-management-tools)
   - [Ecommerce software](#ecommerce-software)
+- [Video Editing Tools](#video-editing-tools)
+  - [Video Subtitle Editors](#video-subtitle-editors)
+  - [Web-based Video Editors](#web-based-video-editors)
 - [Developer Tools](#developer-tools)
   - [API Development & Testing Tools](#api-development--testing-tools)
   - [AI Coding Agents](#ai-coding-agents)
@@ -730,6 +733,21 @@ Want to contribute? See [Contributing](#contributing).
 - [Evershop](https://openaltfinder.com/tools/evershop) - EverShop is a modern, TypeScript-first eCommerce platform built with GraphQL and React. Designed for developers, it offers essential commerce features in a modular, fully customizable architecture—perfect for building tailored shopping experiences with confidence and speed.
 - [Medusa](https://openaltfinder.com/tools/medusa) -  The world's most flexible commerce platform. 
 - [Shopware](https://openaltfinder.com/tools/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions 
+
+
+### Video Editing Tools
+
+
+#### Video Subtitle Editors
+
+
+- [tscaps](https://openaltfinder.com/tools/tscaps) - Open-source, in-browser video editor focused on subtitles and short-form content. Transcribe with Whisper, style with CSS, export burned-in captions.
+
+
+#### Web-based Video Editors
+
+
+- [tscaps](https://openaltfinder.com/tools/tscaps) - Open-source, in-browser video editor focused on subtitles and short-form content. Transcribe with Whisper, style with CSS, export burned-in captions.
 
 
 ### Developer Tools
