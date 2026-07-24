@@ -254,6 +254,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
 - [n8n](https://openaltfinder.com/tools/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
+- [Stream32](https://openaltfinder.com/tools/stream32) - Open-source ESP32-powered stream deck with a cross-platform Electron companion app for launching apps, hotkeys, and multi-step actions.
 - [Trigger.dev](https://openaltfinder.com/tools/trigger-dev) - Open-source platform for building and deploying reliable background jobs, scheduled tasks, and AI workflows in TypeScript.
 
 
