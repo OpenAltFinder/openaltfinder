@@ -43,6 +43,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Presentation Tools](#presentation-tools)
 - [Food & Cooking](#food--cooking)
   - [Recipe Management](#recipe-management)
+  - [Pantry & Household Management](#pantry--household-management)
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
   - [AI Agent Builders](#ai-agent-builders)
@@ -63,12 +64,17 @@ Want to contribute? See [Contributing](#contributing).
   - [Social Media Content Creation](#social-media-content-creation)
   - [Video Editing Tools](#video-editing-tools)
   - [Image Editing](#image-editing)
+- [Image Editing](#image-editing)
+  - [Background Removal](#background-removal)
 - [Finance & Investing Tools](#finance--investing-tools)
   - [Portfolio & Wealth Management](#portfolio--wealth-management)
+  - [Receipt & Expense Management](#receipt--expense-management)
 - [Games](#games)
   - [Real-Time Strategy](#real-time-strategy)
   - [Turn-Based Strategy](#turn-based-strategy)
   - [Factory Automation](#factory-automation)
+- [Outdoor & Recreation](#outdoor--recreation)
+  - [Hiking & Route Planning](#hiking--route-planning)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
@@ -446,6 +452,13 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [CookTrace](https://openaltfinder.com/tools/cooktrace) - Self-hosted recipe, pantry, and cooking tracker with a PWA and native Android app — no telemetry, no cloud lock-in.
+- [Tandoor Recipes](https://openaltfinder.com/tools/tandoor-recipes) - Self-hosted recipe manager for managing your digital recipe collection. Import, plan meals, build shopping lists, and collaborate with family.
+
+
+#### Pantry & Household Management
+
+
+- [Grocy](https://openaltfinder.com/tools/grocy) - Self-hosted household ERP for groceries, stock, meal planning, recipes, shopping lists, chores, and battery tracking.
 
 
 ### AI & Machine Learning
@@ -513,6 +526,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [CometCMS](https://openaltfinder.com/tools/cometcms) - Headless, simple CMS with a PHP backend and a convenient Vue admin frontend.
 - [Directus](https://openaltfinder.com/tools/directus) -  The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. 
+- [Payload](https://openaltfinder.com/tools/payload) - Payload is an open-source, TypeScript-first headless CMS and application framework built on Next.js, Express, and React.
 - [Strapi](https://openaltfinder.com/tools/strapi) -  🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. 
 - [TinaCMS](https://openaltfinder.com/tools/tinacms) - A fully open-source headless CMS with Git support, Markdown editing, and live visual preview for React-based sites.
 - [WollyCMS](https://openaltfinder.com/tools/wollycms) - Self-hosted, open-source headless CMS built specifically for Astro.js with a block-based page builder.
@@ -594,6 +608,15 @@ Want to contribute? See [Contributing](#contributing).
 - [RawTherapee](https://openaltfinder.com/tools/rawtherapee) - Powerful, cross-platform open source raw photo processing program and a strong alternative to Adobe Lightroom.
 
 
+### Image Editing
+
+
+#### Background Removal
+
+
+- [withoutBG](https://openaltfinder.com/tools/withoutbg) - Open-source Python SDK for background removal. Run ONNX weights locally for free, or switch to the paid Cloud API with one line of code.
+
+
 ### Finance & Investing Tools
 
 
@@ -603,6 +626,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Ghostfolio](https://openaltfinder.com/tools/ghostfolio) - Open-source wealth management software to track stocks, ETFs, cryptocurrencies, and your overall net worth.
 - [Rotki](https://openaltfinder.com/tools/rotki) - An open-source, self-hosted portfolio tracking, analytics, accounting, and management application that protects your privacy.
 - [Wealthfolio](https://openaltfinder.com/tools/wealthfolio) - A beautiful, private, local-first personal finance tracker for investments, net worth, spending, and simulations.
+
+
+#### Receipt & Expense Management
+
+
+- [Receipt Wrangler](https://openaltfinder.com/tools/receipt-wrangler) - Self-hosted receipt manager with OCR, AI extraction, email integration, and group splitting. Multi-platform with desktop and mobile apps.
 
 
 ### Games
@@ -625,6 +654,15 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [shapez.io](https://openaltfinder.com/tools/shapez-io) - Open source base-building and factory-automation puzzle game inspired by Factorio — extract, cut, rotate, and combine shapes on an infinite map.
+
+
+### Outdoor & Recreation
+
+
+#### Hiking & Route Planning
+
+
+- [Crestr](https://openaltfinder.com/tools/crestr) - Open-source hiking route planner for Cumbria with elevation-aware A* routing, manual snap-to-path plotting, POIs, and GPX/GeoJSON export.
 
 
 ### Collaboration & Communication Tools
