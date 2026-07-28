@@ -54,6 +54,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Metadata Removal](#metadata-removal)
 - [Content Management System (CMS)](#content-management-system-cms)
   - [Headless CMS](#headless-cms)
+  - [Page Builders](#page-builders)
 - [Health & Fitness Tools](#health--fitness-tools)
   - [Fitness tracking Tools](#fitness-tracking-tools)
   - [Health monitoring Tools](#health-monitoring-tools)
@@ -75,6 +76,8 @@ Want to contribute? See [Contributing](#contributing).
   - [Factory Automation](#factory-automation)
 - [Outdoor & Recreation](#outdoor--recreation)
   - [Hiking & Route Planning](#hiking--route-planning)
+- [Image Hosting](#image-hosting)
+  - [Meme Tools](#meme-tools)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
@@ -532,6 +535,13 @@ Want to contribute? See [Contributing](#contributing).
 - [WollyCMS](https://openaltfinder.com/tools/wollycms) - Self-hosted, open-source headless CMS built specifically for Astro.js with a block-based page builder.
 
 
+#### Page Builders
+
+
+- [Craft.js](https://openaltfinder.com/tools/craft-js) - React framework for building extensible drag-and-drop page editors. Headless, framework-based approach with full plugin support.
+- [Puck](https://openaltfinder.com/tools/puck) - Open-source visual editor for React. Drag-and-drop page builder with a component-based architecture and MIT license.
+
+
 ### Health & Fitness Tools
 
 
@@ -663,6 +673,15 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Crestr](https://openaltfinder.com/tools/crestr) - Open-source hiking route planner for Cumbria with elevation-aware A* routing, manual snap-to-path plotting, POIs, and GPX/GeoJSON export.
+
+
+### Image Hosting
+
+
+#### Meme Tools
+
+
+- [Meme Search](https://openaltfinder.com/tools/meme-search) - Self-hosted AI-powered meme search engine that uses vision-language models to auto-caption and semantically search your local meme library.
 
 
 ### Collaboration & Communication Tools
