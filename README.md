@@ -41,6 +41,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Project Management](#project-management)
   - [RSS Readers](#rss-readers)
   - [Presentation Tools](#presentation-tools)
+  - [File Converter](#file-converter)
 - [Food & Cooking](#food--cooking)
   - [Recipe Management](#recipe-management)
   - [Pantry & Household Management](#pantry--household-management)
@@ -171,7 +172,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Dokku](https://openaltfinder.com/tools/dokku) - Docker-powered PaaS implementing the Heroku git-push workflow on your own server.
 - [Dokploy](https://openaltfinder.com/tools/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. 
 - [Kamal](https://openaltfinder.com/tools/kamal) - CLI deployment tool from 37signals for zero-downtime Docker container deployments.
-- [Komodo](https://openaltfinder.com/tools/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 
+- [Komodo](https://openaltfinder.com/tools/komodo) - Open-source deployment and server management platform for running apps across many servers. Self-hostable alternative to Heroku, Vercel, and Railway.
 
 
 #### Personal Cloud
@@ -272,7 +273,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Bonjourr](https://openaltfinder.com/tools/bonjourr) - Minimalist & lightweight startpage inspired by iOS for Chrome, Firefox, Edge and Safari.
 - [Bookmark It.](https://openaltfinder.com/tools/bmrk-cc) - Open-source self-hostable bookmark manager to organize, discover, and personalize your saved links.
-- [Briefkasten](https://openaltfinder.com/tools/briefkasten) - 📮 Self hosted bookmarking app 
+- [Briefkasten](https://openaltfinder.com/tools/briefkasten) - Open-source, self-hosted bookmark manager with browser extension support, automatic metadata extraction, and full-text search.
 - [Buku](https://openaltfinder.com/tools/buku) - Privacy-focused, command-line bookmark manager that stores links in a local encrypted SQLite database with full-text search.
 - [Faved](https://openaltfinder.com/tools/faved) - Free open-source self-hosted bookmark manager with customizable nested tags, fast search, and local data storage.
 - [FreshRSS](https://openaltfinder.com/tools/freshrss) - Self-hostable RSS and Atom news aggregator with a clean interface, multi-user support, and Fever/Google Reader API compatibility.
@@ -300,7 +301,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Journal](https://openaltfinder.com/tools/journal) - A simple self-hosted journal and blog API written in Go, using SQLite for storage.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
 - [Many Notes](https://openaltfinder.com/tools/many-notes) - A Markdown note-taking web application designed for simplicity with vaults, collaboration, and PWA support.
-- [memos](https://openaltfinder.com/tools/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. 
+- [memos](https://openaltfinder.com/tools/memos) - Privacy-first, self-hosted note-taking platform with markdown support, tagging, and built-in AI — a lightweight alternative to Notion and Obsidian.
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [OpenKnowledge](https://openaltfinder.com/tools/openknowledge) - AI-native, local-first markdown editor and LLM wiki with built-in integrations for Claude, Codex, and other agents.
@@ -443,9 +444,16 @@ Want to contribute? See [Contributing](#contributing).
 #### Presentation Tools
 
 
+- [Bento](https://openaltfinder.com/tools/bento) - An open-source office suite in a single HTML file — slides, docs, and sheets that run entirely in the browser.
 - [Kova](https://openaltfinder.com/tools/kova) - Open source desktop Markdown presentation editor with live preview, themes, and PPTX export — a self-contained alternative to PowerPoint.
 - [Marp CLI](https://openaltfinder.com/tools/marp-cli) - The official CLI for the Marp Markdown presentation ecosystem — write slides in Markdown and convert to HTML, PDF, PPTX, or images.
 - [Slidev](https://openaltfinder.com/tools/slidev) - Markdown-based presentation slides for developers, with code highlighting, Vue components, theming, and PDF/PPTX export.
+
+
+#### File Converter
+
+
+- [ConvertX](https://openaltfinder.com/tools/convertx) - Self-hosted online file converter supporting 1000+ formats including documents, images, video, audio, and e-books.
 
 
 ### Food & Cooking
@@ -470,7 +478,7 @@ Want to contribute? See [Contributing](#contributing).
 #### AI Chat
 
 
-- [Lobe Chat](https://openaltfinder.com/tools/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application. 
+- [Lobe Chat](https://openaltfinder.com/tools/lobe-chat) - Open-source AI chat and agent platform with multi-provider support, RAG, plugins, and an agent marketplace — self-hostable ChatGPT alternative.
 - [Ollama](https://openaltfinder.com/tools/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. 
 - [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
@@ -498,7 +506,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Authentik](https://openaltfinder.com/tools/authentik) - Open source identity provider and SSO solution that replaces Auth0 and Okta with a self-hostable, flexible authentication platform.
-- [Ente](https://openaltfinder.com/tools/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. 
+- [Ente](https://openaltfinder.com/tools/ente) - Open-source, end-to-end encrypted cloud for photos, videos, and 2FA secrets — a privacy-first Google Photos and iCloud Photos alternative.
 - [Open Authenticator](https://openaltfinder.com/tools/open-authenticator) - Free, open-source cross-platform TOTP authenticator with self-hostable sync backend, built with Flutter.
 - [OTPHub](https://openaltfinder.com/tools/otphub) - Simple OTP app for desktop and mobile.
 - [Toofer](https://openaltfinder.com/tools/toofer) - Local-first, web-based two factor authenticator app.
@@ -530,7 +538,7 @@ Want to contribute? See [Contributing](#contributing).
 - [CometCMS](https://openaltfinder.com/tools/cometcms) - Headless, simple CMS with a PHP backend and a convenient Vue admin frontend.
 - [Directus](https://openaltfinder.com/tools/directus) -  The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. 
 - [Payload](https://openaltfinder.com/tools/payload) - Payload is an open-source, TypeScript-first headless CMS and application framework built on Next.js, Express, and React.
-- [Strapi](https://openaltfinder.com/tools/strapi) -  🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. 
+- [Strapi](https://openaltfinder.com/tools/strapi) - Open-source headless CMS built with JavaScript and TypeScript — fully customizable and developer-first. Self-hostable alternative to WordPress and Contentful.
 - [TinaCMS](https://openaltfinder.com/tools/tinacms) - A fully open-source headless CMS with Git support, Markdown editing, and live visual preview for React-based sites.
 - [WollyCMS](https://openaltfinder.com/tools/wollycms) - Self-hosted, open-source headless CMS built specifically for Astro.js with a block-based page builder.
 
@@ -556,7 +564,7 @@ Want to contribute? See [Contributing](#contributing).
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - An open source run tracker for Android.
 - [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
-- [Stronk](https://openaltfinder.com/tools/stronk) -  Open Source Fitness Tracking App 
+- [Stronk](https://openaltfinder.com/tools/stronk) - Open-source weightlifting tracker — log workouts, sets, and reps with data stored locally. Free, privacy-respecting alternative to Hevy and Strong.
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
 
 
@@ -816,7 +824,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Bruno](https://openaltfinder.com/tools/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) 
 - [Hoppscotch](https://openaltfinder.com/tools/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) 
-- [HTTPie](https://openaltfinder.com/tools/httpie) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. 
+- [HTTPie](https://openaltfinder.com/tools/httpie) - Open-source command-line and desktop HTTP client with intuitive syntax, JSON support, and built-in auth — a developer-friendly Postman alternative.
 - [Hurl](https://openaltfinder.com/tools/hurl) - Run and test HTTP requests with plain text — a simple yet powerful command-line tool for API testing.
 - [Insomnia](https://openaltfinder.com/tools/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. 
 - [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
@@ -872,12 +880,12 @@ Want to contribute? See [Contributing](#contributing).
 #### Marketing Automation
 
 
-- [ Postiz](https://openaltfinder.com/tools/postiz) -  📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 
 - [Chronex](https://openaltfinder.com/tools/chronex) - Self-hostable social media scheduler for content creators and small teams with distributed job processing.
 - [CloudMeet](https://openaltfinder.com/tools/cloudmeet) - Open source Calendly alternative that runs on Cloudflare’s free tier with Google Calendar and Outlook sync.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Forms.md](https://openaltfinder.com/tools/forms-md) - Developer-first open source Typeform alternative (formerly Blocks.md) with Markdown-defined forms and native Google Sheets integration.
 - [Mautic](https://openaltfinder.com/tools/mautic) - Open-source marketing automation platform with email campaigns, lead management, and multi-channel marketing.
+- [Postiz](https://openaltfinder.com/tools/postiz) - Open-source social media scheduler with AI assistance, cross-platform posting, and team collaboration — self-hostable alternative to Buffer and Hootsuite.
 - [Quill Forms](https://openaltfinder.com/tools/quillforms) - Open source React-based Typeform alternative for building conversational multi-step forms, surveys, and quizzes.
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
 - [TellForm](https://openaltfinder.com/tools/tellform) - Open source Typeform and Google Forms alternative for building beautiful conversational forms and surveys.
@@ -905,7 +913,7 @@ Want to contribute? See [Contributing](#contributing).
 - [OpenPanel](https://openaltfinder.com/tools/open-panel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. 
 - [OpenReplay](https://openaltfinder.com/tools/openreplay) - Self-hostable session replay, cobrowsing, and product analytics platform that is a strong open source alternative to Hotjar and FullStory.
 - [Plausible](https://openaltfinder.com/tools/plausible) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. 
-- [PostHog](https://openaltfinder.com/tools/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free. 
+- [PostHog](https://openaltfinder.com/tools/posthog) - Open-source product analytics with session recording, feature flags, and A/B testing — self-hostable. Replaces Google Analytics, Mixpanel, and Amplitude.
 - [Prisme Analytics](https://openaltfinder.com/tools/prisme-analytics) - High-perfomance, self-hosted and privacy-focused web analytics service. 
 - [Rybbit](https://openaltfinder.com/tools/rybbit) - Privacy-friendly, open-source web analytics platform that is a simpler alternative to Google Analytics.
 - [Swetrix](https://openaltfinder.com/tools/swetrix) - Privacy-first, cookie-less web analytics with speed monitoring and error tracking.
@@ -917,7 +925,7 @@ Want to contribute? See [Contributing](#contributing).
 #### App Analytics
 
 
-- [Aptabase](https://openaltfinder.com/tools/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps 
+- [Aptabase](https://openaltfinder.com/tools/aptabase) - Open-source, privacy-first analytics for mobile, desktop, and web apps. Anonymous event tracking, no cookies or device IDs, GDPR-compliant by default.
 
 
 
