@@ -328,6 +328,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Gameyfin](https://openaltfinder.com/tools/gameyfin) - A lightweight, open-source game library manager that allows you to organize, access, and share your video games through a web interface.
+- [RomM](https://openaltfinder.com/tools/romm) - A beautiful, self-hosted ROM manager and player for your retro game collection, with rich metadata and in-browser emulation.
 
 
 #### Budgeting Apps
