@@ -354,6 +354,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Media Tracker
 
 
+- [Floppy](https://openaltfinder.com/tools/floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [MovieLab](https://openaltfinder.com/tools/movielab) - An open source movie and TV show tracker app for Android with IMDb integration.
 - [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
 - [Scrob](https://openaltfinder.com/tools/scrob) - Self-hosted media tracker that syncs your Jellyfin, Plex, or Emby libraries, tracks watch history, ratings, and lists — your own private Letterboxd + Trakt.
@@ -778,6 +779,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Fider](https://openaltfinder.com/tools/fider) - Open source customer feedback platform to collect, organize, and prioritize feature requests from users.
 - [OpenCan](https://openaltfinder.com/tools/opencan) - Self-hosted, open-source customer feedback management — collect feature requests, vote, and close the loop with a public roadmap and changelog.
+- [osTicket](https://openaltfinder.com/tools/osticket) - Open-source help desk ticketing system. Routes emails, web forms, and phone requests into a unified agent workspace. Self-hosted, PHP, GPL-2.0.
 - [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
 
 
