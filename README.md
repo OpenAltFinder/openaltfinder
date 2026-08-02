@@ -786,6 +786,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Customer Relationship Management Tools
 
 
+- [Comp AI](https://openaltfinder.com/tools/compai-crm) - Open-source, agentic-first CRM with a built-in research agent that books follow-ups, enriches contacts, and keeps your pipeline up to date.
 - [Dolibarr](https://openaltfinder.com/tools/dolibarr) - A free and open-source ERP and CRM platform for businesses, foundations, and freelancers of any size.
 - [EspoCRM](https://openaltfinder.com/tools/espocrm) - Open source CRM platform for managing contacts, leads, sales pipelines, and customer relationships.
 - [Frappe CRM](https://openaltfinder.com/tools/frappe-crm) - A modern, open-source CRM by the Frappe team, built for sales teams to manage leads and deals efficiently.
