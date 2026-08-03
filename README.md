@@ -283,6 +283,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Linkwarden](https://openaltfinder.com/tools/linkwarden) - Linkwarden is a self-hosted, open-source collaborative bookmark manager that lets you save, organize, and preserve web pages with features like archiving (screenshots, PDFs, reader view), tagging, collections, and annotations. It serves as an alternative to tools like Raindrop.io (cloud bookmarking), Wallabag (read-it-later), ArchiveBox (web archiving), and other self-hosted bookmark managers such as linkding, LinkAce, and Shiori, offering a balance between rich UI, collaboration, and long-term link preservation.
 - [Miniflux](https://openaltfinder.com/tools/miniflux) - Minimalist, opinionated RSS feed reader that is fast, lightweight, and written in Go — designed for long-term use.
 - [Omnivore](https://openaltfinder.com/tools/omnivore) - Open source read-it-later app with full-text search, highlighting, notes, newsletter support, and integrations with Logseq and Obsidian.
+- [Pinry](https://openaltfinder.com/tools/pinry) - Self-hosted tiling image board for saving, tagging, and sharing images, videos, and webpages.
 - [Readeck](https://openaltfinder.com/tools/readeck) - Self-hosted read-it-later app that preserves web page content and lets you read it anytime, offline or online.
 - [Wallabag](https://openaltfinder.com/tools/wallabag) - Self-hosted read-it-later app that saves articles for offline reading with a clean, distraction-free view.
 
@@ -608,6 +609,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Video Editing Tools
 
 
+- [Drift](https://openaltfinder.com/tools/drift) - Free, open-source desktop video editor for Linux, Windows, and macOS built with Qt 6 and FFmpeg.
 - [FableCut](https://openaltfinder.com/tools/fablecut) - Zero-dependency browser video editor that AI agents can drive via JSON timeline, MCP, and REST.
 - [Kdenlive](https://openaltfinder.com/tools/kdenlive) - Free and open source multi-track video editor built on MLT Framework and KDE technologies.
 - [Olive](https://openaltfinder.com/tools/olive) - Free open-source non-linear video editor with hardware-accelerated compositing and cross-platform support.
