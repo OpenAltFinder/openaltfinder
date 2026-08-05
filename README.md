@@ -10,15 +10,13 @@ Want to contribute? See [Contributing](#contributing).
 - [Infrastructure & Operations Tools](#infrastructure--operations-tools)
   - [Database Management](#database-management)
   - [Cloud Storage](#cloud-storage)
+  - [CI/CD Tools](#cicd-tools)
   - [Monitoring & Observability Tools](#monitoring--observability-tools)
+  - [Object Storage](#object-storage)
   - [PaaS & Deployment Tools](#paas--deployment-tools)
   - [Personal Cloud](#personal-cloud)
-  - [Web Servers](#web-servers)
   - [Search Tools](#search-tools)
-  - [CI/CD Tools](#cicd-tools)
-  - [File Sharing](#file-sharing)
-  - [Object Storage](#object-storage)
-  - [Job Scheduling](#job-scheduling)
+  - [Web Servers](#web-servers)
 - [Media Players](#media-players)
   - [Music Player](#music-player)
 - [Productivity & Utilities](#productivity--utilities)
@@ -31,63 +29,67 @@ Want to contribute? See [Contributing](#contributing).
   - [Budgeting Apps](#budgeting-apps)
   - [Ebook & Comic Readers](#ebook--comic-readers)
   - [Media Tracker](#media-tracker)
-  - [Travel Planning](#travel-planning)
+  - [Personal CRM & Contact Management](#personal-crm--contact-management)
+  - [Clipboard Managers](#clipboard-managers)
+  - [File Converter](#file-converter)
   - [Time & Task Management Tools](#time--task-management-tools)
   - [Time Tracking Tools](#time-tracking-tools)
   - [Translation Tools](#translation-tools)
+  - [Travel Planning](#travel-planning)
   - [Web Browsers](#web-browsers)
-  - [Personal CRM & Contact Management](#personal-crm--contact-management)
-  - [Clipboard Managers](#clipboard-managers)
-  - [Project Management](#project-management)
-  - [RSS Readers](#rss-readers)
-  - [Presentation Tools](#presentation-tools)
-  - [File Converter](#file-converter)
 - [Food & Cooking](#food--cooking)
-  - [Recipe Management](#recipe-management)
   - [Pantry & Household Management](#pantry--household-management)
+  - [Recipe Management](#recipe-management)
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
   - [AI Agent Builders](#ai-agent-builders)
 - [Security & Privacy Tools](#security--privacy-tools)
   - [Secure Tunnels](#secure-tunnels)
   - [2FA Authentication](#2fa-authentication)
-  - [Virtual Private Network](#virtual-private-network)
   - [Metadata Removal](#metadata-removal)
+  - [Virtual Private Network](#virtual-private-network)
 - [Content Management System (CMS)](#content-management-system-cms)
   - [Headless CMS](#headless-cms)
   - [Page Builders](#page-builders)
 - [Health & Fitness Tools](#health--fitness-tools)
   - [Fitness tracking Tools](#fitness-tracking-tools)
-  - [Health monitoring Tools](#health-monitoring-tools)
   - [Habit Trackers](#habit-trackers)
+  - [Health monitoring Tools](#health-monitoring-tools)
   - [Nutrition & Diet Trackers](#nutrition--diet-trackers)
 - [Graphic Design Tools](#graphic-design-tools)
+  - [Image Editing](#image-editing)
   - [Marketing & Branding Tools](#marketing--branding-tools)
   - [Social Media Content Creation](#social-media-content-creation)
   - [Video Editing Tools](#video-editing-tools)
-  - [Image Editing](#image-editing)
 - [Image Editing](#image-editing)
   - [Background Removal](#background-removal)
 - [Finance & Investing Tools](#finance--investing-tools)
   - [Portfolio & Wealth Management](#portfolio--wealth-management)
   - [Receipt & Expense Management](#receipt--expense-management)
 - [Games](#games)
-  - [Real-Time Strategy](#real-time-strategy)
-  - [Turn-Based Strategy](#turn-based-strategy)
   - [Factory Automation](#factory-automation)
+  - [Action RPG Games](#action-rpg-games)
+  - [Multiplayer Shooter Games](#multiplayer-shooter-games)
+  - [Open World RPG Games](#open-world-rpg-games)
+  - [Platformer Games](#platformer-games)
+  - [Racing Games](#racing-games)
+  - [Real-Time Strategy](#real-time-strategy)
+  - [Rhythm Games](#rhythm-games)
+  - [Roguelike Games](#roguelike-games)
+  - [Space Exploration Games](#space-exploration-games)
+  - [Turn-Based Strategy](#turn-based-strategy)
+  - [Tycoon & Simulation Games](#tycoon--simulation-games)
 - [Outdoor & Recreation](#outdoor--recreation)
   - [Hiking & Route Planning](#hiking--route-planning)
 - [Image Hosting](#image-hosting)
   - [Meme Tools](#meme-tools)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
+  - [Email Servers](#email-servers)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
-  - [Email Servers](#email-servers)
-  - [Video Collaboration Tools](#video-collaboration-tools)
 - [Content & Publishing Tools](#content--publishing-tools)
   - [Internal Knowledge Base](#internal-knowledge-base)
   - [Wiki Software](#wiki-software)
-  - [Website Comments](#website-comments)
 - [Bussines Software](#bussines-software)
   - [Customer Communication Platforms](#customer-communication-platforms)
   - [Customer Relationship Management Tools](#customer-relationship-management-tools)
@@ -105,9 +107,9 @@ Want to contribute? See [Contributing](#contributing).
   - [Email Marketing & Newsletters Tools](#email-marketing--newsletters-tools)
   - [Marketing Automation](#marketing-automation)
 - [Data & Analytics](#data--analytics)
+  - [App Analytics](#app-analytics)
   - [Data Visualization](#data-visualization)
   - [Web Analytics](#web-analytics)
-  - [App Analytics](#app-analytics)
 
 
 ## Software
@@ -147,6 +149,13 @@ Want to contribute? See [Contributing](#contributing).
 - [Twake Drive](https://openaltfinder.com/tools/twake-drive) -  The open-source alternative to Google Drive. 
 
 
+#### CI/CD Tools
+
+
+- [PikoCI](https://openaltfinder.com/tools/pikoci) - The CI/CD that grows with you. One binary, any database, any queue, runs anywhere.
+- [Woodpecker CI](https://openaltfinder.com/tools/woodpecker-ci) - A simple, yet powerful CI/CD engine with great extensibility. Self-hosted with minimal resource requirements.
+
+
 #### Monitoring & Observability Tools
 
 
@@ -161,6 +170,18 @@ Want to contribute? See [Contributing](#contributing).
 - [SigNoz](https://openaltfinder.com/tools/signoz) - Open-source observability platform with logs, traces, and metrics — an alternative to Datadog and New Relic.
 - [Uptime Kuma](https://openaltfinder.com/tools/uptime-kuma) - Self-hosted uptime monitoring tool with a polished UI, 90+ notification integrations, and built-in public status pages.
 - [UptimeKit](https://openaltfinder.com/tools/uptimekit) - Distributed monitoring and status page platform with fault-tolerant architecture.
+
+
+#### Object Storage
+
+
+- [Alarik](https://openaltfinder.com/tools/alarik) - High-performance S3-compatible object storage written in Swift, designed as a modern open alternative to MinIO.
+- [Garage](https://openaltfinder.com/tools/garage) - S3-compatible distributed object storage designed for small self-hosted geo-distributed deployments, built in Rust.
+- [HS5](https://openaltfinder.com/tools/hs5) - High-performance single-node S3-compatible object storage focused on scale-up performance, built in C++.
+- [RustFS](https://openaltfinder.com/tools/rustfs) - High-performance S3-compatible object storage built in Rust, 2.3x faster than MinIO with Apache 2.0 licensing.
+- [S4Core](https://openaltfinder.com/tools/s4core) - High-performance Rust-based S3-compatible object storage with deduplication, SQL queries, and federation.
+- [SeaweedFS](https://openaltfinder.com/tools/seaweedfs) - Distributed storage system with S3-compatible object storage, POSIX file system, and Iceberg table support for billions of files.
+- [VersityGW](https://openaltfinder.com/tools/versitygw) - S3 gateway that translates S3 API requests to filesystem, Azure Blob, ScoutFS, or other S3 backends.
 
 
 #### PaaS & Deployment Tools
@@ -183,11 +204,6 @@ Want to contribute? See [Contributing](#contributing).
 - [OpenCloud](https://openaltfinder.com/tools/opencloud) - Open source platform for file management, sharing, and collaboration — simple and self-hostable.
 
 
-#### Web Servers
-
-
-
-
 #### Search Tools
 
 
@@ -198,35 +214,9 @@ Want to contribute? See [Contributing](#contributing).
 - [Typesense](https://openaltfinder.com/tools/typesense) - Fast, typo-tolerant open-source search engine and a simpler, cheaper alternative to Algolia.
 
 
-#### CI/CD Tools
+#### Web Servers
 
 
-- [PikoCI](https://openaltfinder.com/tools/pikoci) - The CI/CD that grows with you. One binary, any database, any queue, runs anywhere.
-- [Woodpecker CI](https://openaltfinder.com/tools/woodpecker-ci) - A simple, yet powerful CI/CD engine with great extensibility. Self-hosted with minimal resource requirements.
-
-
-#### File Sharing
-
-
-- [Pingvin Share X](https://openaltfinder.com/tools/pingvin-share-x) - Secure and easy self-hosted file sharing platform.
-
-
-#### Object Storage
-
-
-- [Alarik](https://openaltfinder.com/tools/alarik) - High-performance S3-compatible object storage written in Swift, designed as a modern open alternative to MinIO.
-- [Garage](https://openaltfinder.com/tools/garage) - S3-compatible distributed object storage designed for small self-hosted geo-distributed deployments, built in Rust.
-- [HS5](https://openaltfinder.com/tools/hs5) - High-performance single-node S3-compatible object storage focused on scale-up performance, built in C++.
-- [RustFS](https://openaltfinder.com/tools/rustfs) - High-performance S3-compatible object storage built in Rust, 2.3x faster than MinIO with Apache 2.0 licensing.
-- [S4Core](https://openaltfinder.com/tools/s4core) - High-performance Rust-based S3-compatible object storage with deduplication, SQL queries, and federation.
-- [SeaweedFS](https://openaltfinder.com/tools/seaweedfs) - Distributed storage system with S3-compatible object storage, POSIX file system, and Iceberg table support for billions of files.
-- [VersityGW](https://openaltfinder.com/tools/versitygw) - S3 gateway that translates S3 API requests to filesystem, Azure Blob, ScoutFS, or other S3 backends.
-
-
-#### Job Scheduling
-
-
-- [cronstable](https://openaltfinder.com/tools/cronstable) - Container-friendly, leader-electing, fault-tolerant cron replacement with a built-in web dashboard, DAG orchestration, and durable state.
 
 
 ### Media Players
@@ -363,12 +353,23 @@ Want to contribute? See [Contributing](#contributing).
 - [Yamtrack](https://openaltfinder.com/tools/yamtrack) - A self-hosted media tracker for movies, TV shows, anime, games, books, and manga.
 
 
-#### Travel Planning
+#### Personal CRM & Contact Management
 
 
-- [CoMaps](https://openaltfinder.com/tools/comaps) - A community-led fork of Organic Maps. Free offline maps for Android and iOS with no ads, no tracking, and no data collection.
-- [NOMAD](https://openaltfinder.com/tools/nomad) - Self-hosted, real-time collaborative travel planner with itineraries, maps, budgets, and packing lists.
-- [Organic Maps](https://openaltfinder.com/tools/organic-maps) - Free offline maps app for travelers, hikers, and cyclists using OpenStreetMap data. No ads, no tracking.
+- [Meerkat CRM](https://openaltfinder.com/tools/meerkat-crm) - A lightweight, self-hosted CRM designed for personal life and relationship management.
+- [Monica](https://openaltfinder.com/tools/monica) - Personal CRM. Remember everything about your friends, family and business relationships. 
+
+
+#### Clipboard Managers
+
+
+- [Clipfield](https://openaltfinder.com/tools/clipfield) - A beautiful open source clipboard manager for macOS.
+
+
+#### File Converter
+
+
+- [ConvertX](https://openaltfinder.com/tools/convertx) - Self-hosted online file converter supporting 1000+ formats including documents, images, video, audio, and e-books.
 
 
 #### Time & Task Management Tools
@@ -403,63 +404,27 @@ Want to contribute? See [Contributing](#contributing).
 - [Linguist](https://openaltfinder.com/tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline 
 
 
+#### Travel Planning
+
+
+- [CoMaps](https://openaltfinder.com/tools/comaps) - A community-led fork of Organic Maps. Free offline maps for Android and iOS with no ads, no tracking, and no data collection.
+- [NOMAD](https://openaltfinder.com/tools/nomad) - Self-hosted, real-time collaborative travel planner with itineraries, maps, budgets, and packing lists.
+- [Organic Maps](https://openaltfinder.com/tools/organic-maps) - Free offline maps app for travelers, hikers, and cyclists using OpenStreetMap data. No ads, no tracking.
+
+
 #### Web Browsers
 
 
 - [Ladybird](https://openaltfinder.com/tools/ladybird) - A truly independent web browser built from scratch, with no Chromium, WebKit, or Gecko code.
 
 
-#### Personal CRM & Contact Management
-
-
-- [Meerkat CRM](https://openaltfinder.com/tools/meerkat-crm) - A lightweight, self-hosted CRM designed for personal life and relationship management.
-- [Monica](https://openaltfinder.com/tools/monica) - Personal CRM. Remember everything about your friends, family and business relationships. 
-
-
-#### Clipboard Managers
-
-
-- [Clipfield](https://openaltfinder.com/tools/clipfield) - A beautiful open source clipboard manager for macOS.
-
-
-#### Project Management
-
-
-- [Devlane](https://openaltfinder.com/tools/devlane) - Self-hostable project management for dev teams: issues, cycles, modules, pages, and analytics. Go + React alternative to Jira and Linear.
-- [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
-- [Kan](https://openaltfinder.com/tools/kan) - Modern, open source Trello alternative with kanban boards, lists, cards, and collaborative project tracking.
-- [Leantime](https://openaltfinder.com/tools/leantime) - Open source project management system for non-project managers, built with ADHD, autism, and dyslexia in mind — an Asana and Monday.com alternative.
-- [Paca](https://openaltfinder.com/tools/paca) - AI-native open-source project management platform for Scrum and Kanban teams.
-- [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
-- [TaskView](https://openaltfinder.com/tools/taskview) - Self-hosted project and task management platform with Kanban boards, sprints, time tracking, and AI/MCP integrations for software teams.
-- [Tegon](https://openaltfinder.com/tools/tegon) - Dev-first open source alternative to Jira and Linear for issue tracking, sprint planning, and product development.
-- [Windshift](https://openaltfinder.com/tools/windshift) - Self-hosted work management platform combining task tracking, workflow automation, and team collaboration in a single deployable app.
-
-
-#### RSS Readers
-
-
-- [CommaFeed](https://openaltfinder.com/tools/commafeed) - Self-hosted RSS reader inspired by Google Reader — organize, read and subscribe to your favorite feeds on your own server.
-- [Refeed](https://openaltfinder.com/tools/refeed) - Modern self-hosted RSS reader with timed bookmarks, smart filters, in-article notes, and a built-in newsletter-to-RSS converter.
-- [Tiny Tiny RSS](https://openaltfinder.com/tools/tiny-tiny-rss) - Long-running self-hosted RSS/Atom feed reader and aggregator, originally created in 2005 and now maintained at github.com/tt-rss/tt-rss.
-
-
-#### Presentation Tools
-
-
-- [Bento](https://openaltfinder.com/tools/bento) - An open-source office suite in a single HTML file — slides, docs, and sheets that run entirely in the browser.
-- [Kova](https://openaltfinder.com/tools/kova) - Open source desktop Markdown presentation editor with live preview, themes, and PPTX export — a self-contained alternative to PowerPoint.
-- [Marp CLI](https://openaltfinder.com/tools/marp-cli) - The official CLI for the Marp Markdown presentation ecosystem — write slides in Markdown and convert to HTML, PDF, PPTX, or images.
-- [Slidev](https://openaltfinder.com/tools/slidev) - Markdown-based presentation slides for developers, with code highlighting, Vue components, theming, and PDF/PPTX export.
-
-
-#### File Converter
-
-
-- [ConvertX](https://openaltfinder.com/tools/convertx) - Self-hosted online file converter supporting 1000+ formats including documents, images, video, audio, and e-books.
-
-
 ### Food & Cooking
+
+
+#### Pantry & Household Management
+
+
+- [Grocy](https://openaltfinder.com/tools/grocy) - Self-hosted household ERP for groceries, stock, meal planning, recipes, shopping lists, chores, and battery tracking.
 
 
 #### Recipe Management
@@ -467,12 +432,6 @@ Want to contribute? See [Contributing](#contributing).
 
 - [CookTrace](https://openaltfinder.com/tools/cooktrace) - Self-hosted recipe, pantry, and cooking tracker with a PWA and native Android app — no telemetry, no cloud lock-in.
 - [Tandoor Recipes](https://openaltfinder.com/tools/tandoor-recipes) - Self-hosted recipe manager for managing your digital recipe collection. Import, plan meals, build shopping lists, and collaborate with family.
-
-
-#### Pantry & Household Management
-
-
-- [Grocy](https://openaltfinder.com/tools/grocy) - Self-hosted household ERP for groceries, stock, meal planning, recipes, shopping lists, chores, and battery tracking.
 
 
 ### AI & Machine Learning
@@ -516,6 +475,13 @@ Want to contribute? See [Contributing](#contributing).
 - [Trezur](https://openaltfinder.com/tools/trezur) - Fast, secure, light-weight web-app to generate TOTP and HOTP tokens.
 
 
+#### Metadata Removal
+
+
+- [ExifCleaner](https://openaltfinder.com/tools/exifcleaner) - Cross-platform desktop app that removes EXIF and hidden metadata from 90+ file formats before sharing.
+- [Scrambled Exif](https://openaltfinder.com/tools/scrambled-exif) - Android app that removes EXIF metadata from photos via the share menu before sharing.
+
+
 #### Virtual Private Network
 
 
@@ -523,13 +489,6 @@ Want to contribute? See [Contributing](#contributing).
 - [NetBird](https://openaltfinder.com/tools/netbird) - Self-hostable, zero-trust overlay network that combines a WireGuard-based mesh VPN with SSO, MFA, and granular access controls.
 - [OpenVPN](https://openaltfinder.com/tools/open-vpn) - OpenVPN is an open source VPN daemon 
 - [wg-easy](https://openaltfinder.com/tools/wg-easy) - The easiest way to run a self-hosted WireGuard VPN with a web-based admin UI, automatic client management, and one-liner deployment.
-
-
-#### Metadata Removal
-
-
-- [ExifCleaner](https://openaltfinder.com/tools/exifcleaner) - Cross-platform desktop app that removes EXIF and hidden metadata from 90+ file formats before sharing.
-- [Scrambled Exif](https://openaltfinder.com/tools/scrambled-exif) - Android app that removes EXIF metadata from photos via the share menu before sharing.
 
 
 ### Content Management System (CMS)
@@ -571,16 +530,16 @@ Want to contribute? See [Contributing](#contributing).
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
 
 
-#### Health monitoring Tools
-
-
-- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
-
-
 #### Habit Trackers
 
 
 - [AnyHabit](https://openaltfinder.com/tools/anyhabit) - A universal habit and tracking dashboard tailored for Raspberry Pi and Docker with a modern React frontend.
+
+
+#### Health monitoring Tools
+
+
+- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
 
 
 #### Nutrition & Diet Trackers
@@ -590,6 +549,18 @@ Want to contribute? See [Contributing](#contributing).
 
 
 ### Graphic Design Tools
+
+
+#### Image Editing
+
+
+- [Darktable](https://openaltfinder.com/tools/darktable) - Open source photography workflow application and raw developer for organizing, editing, and exporting large photo libraries.
+- [GIMP](https://openaltfinder.com/tools/gimp) - GNU Image Manipulation Program — the venerable free, open source image editor and Adobe Photoshop alternative.
+- [Inkscape](https://openaltfinder.com/tools/inkscape) - Free, open source vector graphics editor for illustrations, logos, icons, and technical drawings — a strong alternative to Adobe Illustrator.
+- [Krita](https://openaltfinder.com/tools/krita) - Free, open source digital painting and illustration application that is a popular alternative to Photoshop and Procreate.
+- [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
+- [PixiEditor](https://openaltfinder.com/tools/pixieditor) - Universal open-source 2D editor for pixel art, painting, vector graphics, and animation.
+- [RawTherapee](https://openaltfinder.com/tools/rawtherapee) - Powerful, cross-platform open source raw photo processing program and a strong alternative to Adobe Lightroom.
 
 
 #### Marketing & Branding Tools
@@ -616,18 +587,6 @@ Want to contribute? See [Contributing](#contributing).
 - [Open Video Craft](https://openaltfinder.com/tools/open-video-craft) - Open-source, local-first screen recorder and timeline video editor for macOS and Windows with AI subtitle generation.
 - [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
-
-
-#### Image Editing
-
-
-- [Darktable](https://openaltfinder.com/tools/darktable) - Open source photography workflow application and raw developer for organizing, editing, and exporting large photo libraries.
-- [GIMP](https://openaltfinder.com/tools/gimp) - GNU Image Manipulation Program — the venerable free, open source image editor and Adobe Photoshop alternative.
-- [Inkscape](https://openaltfinder.com/tools/inkscape) - Free, open source vector graphics editor for illustrations, logos, icons, and technical drawings — a strong alternative to Adobe Illustrator.
-- [Krita](https://openaltfinder.com/tools/krita) - Free, open source digital painting and illustration application that is a popular alternative to Photoshop and Procreate.
-- [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
-- [PixiEditor](https://openaltfinder.com/tools/pixieditor) - Universal open-source 2D editor for pixel art, painting, vector graphics, and animation.
-- [RawTherapee](https://openaltfinder.com/tools/rawtherapee) - Powerful, cross-platform open source raw photo processing program and a strong alternative to Adobe Lightroom.
 
 
 ### Image Editing
@@ -659,23 +618,81 @@ Want to contribute? See [Contributing](#contributing).
 ### Games
 
 
+#### Factory Automation
+
+
+- [shapez.io](https://openaltfinder.com/tools/shapez-io) - Open source base-building and factory-automation puzzle game inspired by Factorio — extract, cut, rotate, and combine shapes on an infinite map.
+
+
+#### Action RPG Games
+
+
+- [OpenDiablo2](https://openaltfinder.com/tools/opendiablo2) - An open-source reimplementation of Diablo II's game engine built in Go, with a cross-platform client and modding support.
+
+
+#### Multiplayer Shooter Games
+
+
+
+
+#### Open World RPG Games
+
+
+- [Veloren](https://openaltfinder.com/tools/veloren) - An open-world, voxel-based multiplayer RPG inspired by Cube World, built with the Rust programming language.
+
+
+#### Platformer Games
+
+
+- [SuperTux](https://openaltfinder.com/tools/supertux) - A classic open-source side-scrolling platformer starring Tux the penguin, inspired by the original Super Mario games.
+
+
+#### Racing Games
+
+
+- [SuperTuxKart](https://openaltfinder.com/tools/supertuxkart) - A free, open-source kart racing game featuring Tux and friends, with single-player, multiplayer, and online modes.
+
+
 #### Real-Time Strategy
 
 
+- [0 A.D.](https://openaltfinder.com/tools/0-ad) - A free, open-source real-time strategy game about ancient civilizations, with single-player, multiplayer, and modding support.
 - [Mindustry](https://openaltfinder.com/tools/mindustry) - Open source automation tower defense RTS — build factories, mine resources, and defend your core against waves of enemies.
+- [openage](https://openaltfinder.com/tools/openage) - A free, open-source engine and community project recreating Age of Empires II with a modern C++ and Python codebase.
 - [OpenRA](https://openaltfinder.com/tools/openra) - Open source game engine that reimplements early Westwood classics including Command & Conquer: Red Alert, Tiberian Dawn, and Dune 2000.
+- [Widelands](https://openaltfinder.com/tools/widelands) - A free, open-source real-time strategy game inspired by The Settlers, focused on building economies and thriving settlements.
+
+
+#### Rhythm Games
+
+
+
+
+#### Roguelike Games
+
+
+- [Cataclysm-DDA](https://openaltfinder.com/tools/cataclysm-dda) - A deep, turn-based open-world survival game set in a post-apocalyptic world ravaged by zombies and catastrophe.
+
+
+#### Space Exploration Games
+
+
+- [Endless Sky](https://openaltfinder.com/tools/endless-sky) - A 2D space exploration, trading, and combat game inspired by the classic Escape Velocity series.
 
 
 #### Turn-Based Strategy
 
 
 - [Battle for Wesnoth](https://openaltfinder.com/tools/battle-for-wesnoth) - Free, open source turn-based strategy game set in a high-fantasy world, with single-player campaigns and online multiplayer.
+- [Freeciv](https://openaltfinder.com/tools/freeciv) - A free, open-source empire-building strategy game inspired by Civilization, playable in single-player or online.
+- [Unciv](https://openaltfinder.com/tools/unciv) - An open-source, cross-platform remake of Civilization V that runs on Android and desktop with full mod support.
 
 
-#### Factory Automation
+#### Tycoon & Simulation Games
 
 
-- [shapez.io](https://openaltfinder.com/tools/shapez-io) - Open source base-building and factory-automation puzzle game inspired by Factorio — extract, cut, rotate, and combine shapes on an infinite map.
+- [OpenRCT2](https://openaltfinder.com/tools/openrct2) - An open-source reimplementation of RollerCoaster Tycoon 2 that expands the original with new features, rides, and multiplayer.
+- [OpenTTD](https://openaltfinder.com/tools/openttd) - An open-source simulation game based on Transport Tycoon Deluxe, letting you build and manage a vast transport empire.
 
 
 ### Outdoor & Recreation
@@ -697,6 +714,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 ### Collaboration & Communication Tools
+
+
+#### Email Servers
+
+
+- [Mailcow](https://openaltfinder.com/tools/mailcow) - Self-hostable, Dockerized mail server bundle that combines Postfix, Dovecot, and a polished web UI — a Gmail and Microsoft 365 alternative for organisations.
 
 
 #### Knowledge Management Tools
@@ -730,18 +753,6 @@ Want to contribute? See [Contributing](#contributing).
 - [Zulip](https://openaltfinder.com/tools/zulip) - Open-source team chat with a unique topic-based threading model that makes it easy to follow multiple conversations.
 
 
-#### Email Servers
-
-
-- [Mailcow](https://openaltfinder.com/tools/mailcow) - Self-hostable, Dockerized mail server bundle that combines Postfix, Dovecot, and a polished web UI — a Gmail and Microsoft 365 alternative for organisations.
-
-
-#### Video Collaboration Tools
-
-
-- [Shumai](https://openaltfinder.com/tools/shumai) - Self-hostable open source video review and asset collaboration platform, a privacy-friendly alternative to Frame.io.
-
-
 ### Content & Publishing Tools
 
 
@@ -763,12 +774,6 @@ Want to contribute? See [Contributing](#contributing).
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
 - [Outline](https://openaltfinder.com/tools/outline) - The fastest growing-team knowledge base — beautiful, realtime collaborative, feature packed, and markdown compatible Notion and Confluence alternative.
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
-
-
-#### Website Comments
-
-
-- [Commento](https://openaltfinder.com/tools/commento) - Fast, privacy-focused commenting platform for websites.
 
 
 ### Bussines Software
@@ -901,6 +906,12 @@ Want to contribute? See [Contributing](#contributing).
 ### Data & Analytics
 
 
+#### App Analytics
+
+
+- [Aptabase](https://openaltfinder.com/tools/aptabase) - Open-source, privacy-first analytics for mobile, desktop, and web apps. Anonymous event tracking, no cookies or device IDs, GDPR-compliant by default.
+
+
 #### Data Visualization
 
 
@@ -926,12 +937,6 @@ Want to contribute? See [Contributing](#contributing).
 - [Umami](https://openaltfinder.com/tools/umami) - Umami is a modern, privacy-focused alternative to Google Analytics. 
 - [Vemetric](https://openaltfinder.com/tools/vemetric) -  Simple, yet powerful Web- & Product Analytics. 
 - [Vince](https://openaltfinder.com/tools/vince) -  Self Hosted Alternative To Google Analytics 
-
-
-#### App Analytics
-
-
-- [Aptabase](https://openaltfinder.com/tools/aptabase) - Open-source, privacy-first analytics for mobile, desktop, and web apps. Anonymous event tracking, no cookies or device IDs, GDPR-compliant by default.
 
 
 
