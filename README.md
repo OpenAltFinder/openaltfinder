@@ -208,6 +208,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [degoog](https://openaltfinder.com/tools/degoog) - Open-source, self-hosted search engine aggregator with a comprehensive plugin system.
+- [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
 - [Langfuse](https://openaltfinder.com/tools/langfuse) - Open source LLM engineering platform for tracing, evaluating, monitoring, and managing prompts as an alternative to LangSmith and Helicone.
 - [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
 - [SearXNG](https://openaltfinder.com/tools/searxng) - A free internet metasearch engine which aggregates results from various search services without tracking or profiling users.
