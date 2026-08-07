@@ -131,6 +131,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Portabase](https://openaltfinder.com/tools/portabase) - Open-source, self-hosted database backup and restore platform for PostgreSQL, MySQL, MongoDB, Redis, and more.
 - [Supabase](https://openaltfinder.com/tools/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 
 - [Teable](https://openaltfinder.com/tools/teable) - No-code spreadsheet database built on Postgres — a fast, open-source Airtable alternative.
+- [TrailBase](https://openaltfinder.com/tools/trailbase) - An open-source, single-executable Firebase alternative with sub-millisecond REST and realtime APIs, built-in auth, a WebAssembly runtime, and an admin UI.
 
 
 #### Cloud Storage
