@@ -37,6 +37,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Translation Tools](#translation-tools)
   - [Travel Planning](#travel-planning)
   - [Web Browsers](#web-browsers)
+  - [Appointment Scheduling](#appointment-scheduling)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -87,6 +88,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Email Servers](#email-servers)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
+  - [Social Networking](#social-networking)
 - [Content & Publishing Tools](#content--publishing-tools)
   - [Internal Knowledge Base](#internal-knowledge-base)
   - [Wiki Software](#wiki-software)
@@ -290,6 +292,7 @@ Want to contribute? See [Contributing](#contributing).
 - [HedgeDoc](https://openaltfinder.com/tools/hedgedoc) - Real-time collaborative markdown note editor you can self-host — write together with rich formatting and seamless sharing.
 - [HelixNotes](https://openaltfinder.com/tools/helixnotes) - A fast, privacy-first local markdown note-taking app built with Tauri and SvelteKit. Your notes stay as plain .md files on your device.
 - [Joplin](https://openaltfinder.com/tools/joplin) - Privacy-focused, open-source note-taking and to-do app with end-to-end encryption and multi-device sync.
+- [Jotted](https://openaltfinder.com/tools/jotted) - Self-hosted tasks and notes management with offline support, push reminders, and full-text search in a single Docker container.
 - [Jotty](https://openaltfinder.com/tools/jotty) - Lightweight self-hosted app for managing personal file-based notes and checklists.
 - [Journal](https://openaltfinder.com/tools/journal) - A simple self-hosted journal and blog API written in Go, using SQLite for storage.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
@@ -380,6 +383,7 @@ Want to contribute? See [Contributing](#contributing).
 - [4gaBoards](https://openaltfinder.com/tools/4gaboards) - Straightforward realtime kanban boards for intuitive task tracking with dark mode and collaborative features.
 - [CloudMeet](https://openaltfinder.com/tools/cloudmeet) - Open source Calendly alternative that runs on Cloudflare’s free tier with Google Calendar and Outlook sync.
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana.
+- [Jotted](https://openaltfinder.com/tools/jotted) - Self-hosted tasks and notes management with offline support, push reminders, and full-text search in a single Docker container.
 - [Kaneo](https://openaltfinder.com/tools/kaneo) - Minimal self-hosted project management with kanban boards and issue tracking — no bloat, no subscriptions.
 - [OpenProject](https://openaltfinder.com/tools/openproject) - Open-source project management software — an alternative to Jira, Asana, Trello, and Monday.com.
 - [Plane](https://openaltfinder.com/tools/plane) - Open-source project management platform — an alternative to Jira, Linear, Monday, and ClickUp.
@@ -418,6 +422,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Ladybird](https://openaltfinder.com/tools/ladybird) - A truly independent web browser built from scratch, with no Chromium, WebKit, or Gecko code.
+
+
+#### Appointment Scheduling
+
+
+- [calrs](https://openaltfinder.com/tools/calrs) - A fast, self-hostable scheduling platform written in Rust, like Cal.com but without Node.js or a database server.
 
 
 ### Food & Cooking
@@ -753,6 +763,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Rocket.Chat](https://openaltfinder.com/tools/rocket-chat) - The communications platform that puts data protection first. 
 - [Tinode](https://openaltfinder.com/tools/tinode) - Instant messaging platform with self-hosted backend in Go and clients for iOS, Android, web, and command line.
 - [Zulip](https://openaltfinder.com/tools/zulip) - Open-source team chat with a unique topic-based threading model that makes it easy to follow multiple conversations.
+
+
+#### Social Networking
+
+
+- [textlog](https://openaltfinder.com/tools/textlog) - A small, open-source microblogging platform for short notes, following people and hashtags, without engagement tricks.
 
 
 ### Content & Publishing Tools
