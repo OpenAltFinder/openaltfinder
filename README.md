@@ -96,6 +96,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Customer Communication Platforms](#customer-communication-platforms)
   - [Customer Relationship Management Tools](#customer-relationship-management-tools)
   - [Ecommerce software](#ecommerce-software)
+  - [Event Management](#event-management)
 - [Video Editing Tools](#video-editing-tools)
   - [Video Subtitle Editors](#video-subtitle-editors)
   - [Web-based Video Editors](#web-based-video-editors)
@@ -112,6 +113,8 @@ Want to contribute? See [Contributing](#contributing).
   - [App Analytics](#app-analytics)
   - [Data Visualization](#data-visualization)
   - [Web Analytics](#web-analytics)
+- [Time & Task Management Tools](#time--task-management-tools)
+  - [Self-Hosted Maps](#self-hosted-maps)
 
 
 ## Software
@@ -130,9 +133,10 @@ Want to contribute? See [Contributing](#contributing).
 - [ChartDB](https://openaltfinder.com/tools/chart-db) - Database diagrams editor that allows you to visualize and design your DB with a single query. 
 - [DBeaver](https://openaltfinder.com/tools/dbeaver) - Free universal database tool and SQL client 
 - [NocoDB](https://openaltfinder.com/tools/nocodb) - Free, self-hostable Airtable alternative that turns any database into a smart spreadsheet with APIs, automations, and views.
+- [PocketBase](https://openaltfinder.com/tools/pocketbase) - Open source realtime backend in a single file — SQLite, auth, file storage, and admin UI in one Go binary.
 - [Portabase](https://openaltfinder.com/tools/portabase) - Open-source, self-hosted database backup and restore platform for PostgreSQL, MySQL, MongoDB, Redis, and more.
 - [Supabase](https://openaltfinder.com/tools/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 
-- [Teable](https://openaltfinder.com/tools/teable) - No-code spreadsheet database built on Postgres — a fast, open-source Airtable alternative.
+- [Teable](https://openaltfinder.com/tools/teable) - Teable is a no-code spreadsheet database on Postgres — a fast, open-source Airtable alternative with views, forms, automations, and developer-friendly APIs.
 - [TrailBase](https://openaltfinder.com/tools/trailbase) - An open-source, single-executable Firebase alternative with sub-millisecond REST and realtime APIs, built-in auth, a WebAssembly runtime, and an admin UI.
 
 
@@ -142,12 +146,12 @@ Want to contribute? See [Contributing](#contributing).
 - [BluFiles](https://openaltfinder.com/tools/blufiles) - Self-hosted file sharing and management platform with file transfers, pastes, collections, and a REST API.
 - [Lychee](https://openaltfinder.com/tools/lychee) - Beautiful self-hosted photo management tool with a stunning web interface.
 - [Nextcloud](https://openaltfinder.com/tools/nextcloud) - The most popular self-hosted cloud platform for file storage, collaboration, and communication.
-- [OpenCloud](https://openaltfinder.com/tools/opencloud) - Open source platform for file management, sharing, and collaboration — simple and self-hostable.
-- [ownCloud](https://openaltfinder.com/tools/owncloud) - Pioneer open-source file sync and sharing platform that spawned the self-hosted cloud movement.
-- [PhotoPrism](https://openaltfinder.com/tools/photoprism) - AI-powered self-hosted photo app for browsing, organizing, and sharing your photo collection.
+- [OpenCloud](https://openaltfinder.com/tools/opencloud) - OpenCloud is an open-source platform for file management, sharing, and team collaboration. Easy to deploy, fully self-hostable, and built for modern workflows.
+- [ownCloud](https://openaltfinder.com/tools/owncloud) - ownCloud is the pioneering open-source file sync and sharing platform. Self-host your cloud for files, calendars, contacts, and collaboration — your data.
+- [PhotoPrism](https://openaltfinder.com/tools/photoprism) - PhotoPrism is an AI-powered self-hosted photo library for browsing, organizing, and sharing your collection. Built in Go with privacy baked in at its core.
 - [Piwigo](https://openaltfinder.com/tools/piwigo) - Open-source photo gallery and management software for individuals and teams.
 - [SafeBucket](https://openaltfinder.com/tools/safebucket) - Self-hosted file sharing platform with direct S3 uploads, SSO, and role-based access control.
-- [Seafile](https://openaltfinder.com/tools/seafile) - High-performance open-source file sync and share platform for teams.
+- [Seafile](https://openaltfinder.com/tools/seafile) - Seafile is a high-performance open-source file sync and share platform for teams. Fast syncing, end-to-end encryption, and reliable cross-device collaboration.
 - [Syncthing](https://openaltfinder.com/tools/syncthing) - Continuous file synchronization program that syncs files directly between your devices — no cloud required.
 - [Twake Drive](https://openaltfinder.com/tools/twake-drive) -  The open-source alternative to Google Drive. 
 
@@ -155,7 +159,7 @@ Want to contribute? See [Contributing](#contributing).
 #### CI/CD Tools
 
 
-- [PikoCI](https://openaltfinder.com/tools/pikoci) - The CI/CD that grows with you. One binary, any database, any queue, runs anywhere.
+- [PikoCI](https://openaltfinder.com/tools/pikoci) - PikoCI is a single-binary CI/CD that grows with you. Use any database, any queue, and run anywhere — pipelines as code with built-in caching and scaling.
 - [Woodpecker CI](https://openaltfinder.com/tools/woodpecker-ci) - A simple, yet powerful CI/CD engine with great extensibility. Self-hosted with minimal resource requirements.
 
 
@@ -168,11 +172,11 @@ Want to contribute? See [Contributing](#contributing).
 - [Kuvasz](https://openaltfinder.com/tools/kuvasz) - Open-source uptime and SSL monitoring service with status pages, multiple notification channels, and Prometheus integration.
 - [Lunalytics](https://openaltfinder.com/tools/lunalytics) - Lunalytics is an open-source, self-hosted monitoring tool built with Node.js and React that supports HTTP(S), TCP, ping, Docker, and more. It offers customizable dashboards, status pages, incident management, multi-user access control, and integrations with popular notification services, making it a modern, developer-friendly solution for monitoring uptime and system health.
 - [OpenStatus](https://openaltfinder.com/tools/openstatus) - Open-source uptime monitoring and status page platform with synthetic checks from 28 global regions and multi-channel alerting.
-- [Pingflare](https://openaltfinder.com/tools/pingflare) - Uptime monitoring system built to run natively within Cloudflare.
+- [Pingflare](https://openaltfinder.com/tools/pingflare) - Self-hosted uptime monitoring built natively for Cloudflare Workers. Get fast global checks, instant alerts, and a beautiful status page on your domain.
 - [ReJourney](https://openaltfinder.com/tools/rejourney) - Lightweight open-source observability tool with pixel-perfect session replay, real-time error detection, and journey mapping for web and mobile apps.
 - [SigNoz](https://openaltfinder.com/tools/signoz) - Open-source observability platform with logs, traces, and metrics — an alternative to Datadog and New Relic.
 - [Uptime Kuma](https://openaltfinder.com/tools/uptime-kuma) - Self-hosted uptime monitoring tool with a polished UI, 90+ notification integrations, and built-in public status pages.
-- [UptimeKit](https://openaltfinder.com/tools/uptimekit) - Distributed monitoring and status page platform with fault-tolerant architecture.
+- [UptimeKit](https://openaltfinder.com/tools/uptimekit) - UptimeKit is a distributed monitoring and status page platform with fault-tolerant architecture. Watch services worldwide and keep users informed at a glance.
 
 
 #### Object Storage
@@ -191,7 +195,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Better-PaaS](https://openaltfinder.com/tools/better-paas) - Self-hostable PaaS for deploying full-stack apps and databases with zero downtime, auto HTTPS, and Docker support.
-- [CapRover](https://openaltfinder.com/tools/caprover) - Scalable self-hosted PaaS with one-click apps and Docker Swarm clustering.
+- [CapRover](https://openaltfinder.com/tools/caprover) - CapRover is a scalable self-hosted PaaS with one-click apps, Docker Swarm clustering, automatic TLS, and a friendly web UI for deploying apps in seconds.
 - [Coolify](https://openaltfinder.com/tools/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
 - [Dokku](https://openaltfinder.com/tools/dokku) - Docker-powered PaaS implementing the Heroku git-push workflow on your own server.
 - [Dokploy](https://openaltfinder.com/tools/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. 
@@ -203,8 +207,8 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Foldergram](https://openaltfinder.com/tools/foldergram) - A self-hosted, Instagram-style photo and video gallery that serves your local folders as a beautiful feed.
-- [Olares](https://openaltfinder.com/tools/olares) -  Olares: An Open-Source Personal Cloud to Reclaim Your Data 
-- [OpenCloud](https://openaltfinder.com/tools/opencloud) - Open source platform for file management, sharing, and collaboration — simple and self-hostable.
+- [Olares](https://openaltfinder.com/tools/olares) - Olares is an open-source personal cloud OS to help you reclaim your data. Self-host apps, files, and AI services right on your own hardware with ease.
+- [OpenCloud](https://openaltfinder.com/tools/opencloud) - OpenCloud is an open-source platform for file management, sharing, and team collaboration. Easy to deploy, fully self-hostable, and built for modern workflows.
 
 
 #### Search Tools
@@ -213,7 +217,7 @@ Want to contribute? See [Contributing](#contributing).
 - [degoog](https://openaltfinder.com/tools/degoog) - Open-source, self-hosted search engine aggregator with a comprehensive plugin system.
 - [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
 - [Langfuse](https://openaltfinder.com/tools/langfuse) - Open source LLM engineering platform for tracing, evaluating, monitoring, and managing prompts as an alternative to LangSmith and Helicone.
-- [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
+- [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model and unify all your team's knowledge.
 - [SearXNG](https://openaltfinder.com/tools/searxng) - A free internet metasearch engine which aggregates results from various search services without tracking or profiling users.
 - [Typesense](https://openaltfinder.com/tools/typesense) - Fast, typo-tolerant open-source search engine and a simpler, cheaper alternative to Algolia.
 
@@ -240,15 +244,15 @@ Want to contribute? See [Contributing](#contributing).
 
 - [AliasVault](https://openaltfinder.com/tools/alias-vault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [Bitwarden](https://openaltfinder.com/tools/bitwarden) - Bitwarden infrastructure/backend (API, database, Docker, etc). 
-- [KeePassXC](https://openaltfinder.com/tools/keepassxc) - Cross-platform community-driven port of KeePass Password Safe.
+- [KeePassXC](https://openaltfinder.com/tools/keepassxc) - KeePassXC is a cross-platform, community-driven port of KeePass Password Safe. Store credentials locally in an encrypted database, with no cloud required.
 - [Passbolt](https://openaltfinder.com/tools/passbolt) - Open-source, security-first password manager designed for teams. End-to-end encryption, granular access control, and self-hostable.
-- [Vaultwarden](https://openaltfinder.com/tools/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
+- [Vaultwarden](https://openaltfinder.com/tools/vaultwarden) - Vaultwarden is an unofficial, Bitwarden-compatible server written in Rust. Self-host your password vault with low resource use and full client compatibility.
 
 
 #### Automation Tools
 
 
-- [Apache Airflow](https://openaltfinder.com/tools/apache-airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows 
+- [Apache Airflow](https://openaltfinder.com/tools/apache-airflow) - Apache Airflow is a platform to programmatically author, schedule, and monitor complex workflows. Build pipelines as code and orchestrate your data jobs.
 - [Automa](https://openaltfinder.com/tools/automa) - Browser extension that automates repetitive web tasks by visually connecting blocks — no code required.
 - [Automatisch](https://openaltfinder.com/tools/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. 
 - [Flowise](https://openaltfinder.com/tools/flowise) - Flowise is an open-source, visual, low-code/no-code tool designed to help users build AI agents and sophisticated LLM-powered workflows through a drag-and-drop interface. It features a Node.js backend and a React frontend, along with modular components for integrations and API documentation—making it accessible to both developers and non-technical users.
@@ -302,7 +306,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [OpenKnowledge](https://openaltfinder.com/tools/openknowledge) - AI-native, local-first markdown editor and LLM wiki with built-in integrations for Claude, Codex, and other agents.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
-- [Scratch](https://openaltfinder.com/tools/scratch) - A minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux.
+- [Scratch](https://openaltfinder.com/tools/scratch) - Scratch is a minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux. Plain text files, keyboard-driven, with no cloud lock-in.
 - [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Markdown-based note-taking app with powerful live queries, templates, and a pluggable scripting system for power users.
 - [Speakr](https://openaltfinder.com/tools/speakr) - Self-hosted AI transcription and intelligent note-taking platform that turns audio recordings into organized, searchable notes with speaker identification.
 - [TriliumNext Notes](https://openaltfinder.com/tools/trilium-next-notes) - Hierarchical personal knowledge base with powerful note-taking, rich text editing, and scripting capabilities.
@@ -315,7 +319,7 @@ Want to contribute? See [Contributing](#contributing).
 - [AppFlowy](https://openaltfinder.com/tools/appflowy) - Open source Notion alternative that brings projects, wikis, and teams together with AI while keeping you in control of your data.
 - [Colanode](https://openaltfinder.com/tools/colanode) - Open source, local-first Slack and Notion alternative that puts you in control of your data with offline support and end-to-end encryption.
 - [EmbedPDF](https://openaltfinder.com/tools/embed-pdf) - A PDF viewer that seamlessly integrates with any JavaScript project 
-- [KillerPDF](https://openaltfinder.com/tools/killerpdf) - Lightweight, portable PDF editor for Windows with no subscription or telemetry.
+- [KillerPDF](https://openaltfinder.com/tools/killerpdf) - Lightweight, fully portable PDF editor for Windows. Edit, merge, annotate, and sign PDFs locally with no subscription, accounts, or hidden telemetry anywhere.
 - [Logseq](https://openaltfinder.com/tools/logseq) - Privacy-first, open source knowledge management and note-taking platform that is a powerful Roam Research and Obsidian alternative.
 - [Standard Notes](https://openaltfinder.com/tools/standard-notes) - End-to-end encrypted, open source notes app that is a privacy-focused alternative to Evernote, Notion, and Apple Notes.
 
@@ -332,7 +336,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Actual Budget](https://openaltfinder.com/tools/actual-budget) - Fast, privacy-focused local-first personal finance app using zero-sum budgeting, with optional self-hosted sync.
 - [Budget Board](https://openaltfinder.com/tools/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
-- [BudgetBee](https://openaltfinder.com/tools/budgetbee) - Self-hosted personal finance manager for tracking expenses, budgets, and net worth via Docker.
+- [BudgetBee](https://openaltfinder.com/tools/budgetbee) - BudgetBee is a Docker-based, self-hosted personal finance manager. Track expenses, budgets, accounts, savings goals, and net worth with full data ownership.
 - [ezBookkeeping](https://openaltfinder.com/tools/ezbookkeeping) - Lightweight, self-hosted personal finance and bookkeeping app with a mobile-friendly UI — an open alternative to Mint and YNAB.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
 
@@ -382,17 +386,19 @@ Want to contribute? See [Contributing](#contributing).
 
 - [4gaBoards](https://openaltfinder.com/tools/4gaboards) - Straightforward realtime kanban boards for intuitive task tracking with dark mode and collaborative features.
 - [CloudMeet](https://openaltfinder.com/tools/cloudmeet) - Open source Calendly alternative that runs on Cloudflare’s free tier with Google Calendar and Outlook sync.
-- [Focalboard](https://openaltfinder.com/tools/focalboard) - Open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana.
+- [Donetick](https://openaltfinder.com/tools/donetick) - Open-source task and chore manager for groups — natural-language scheduling, assignee rotation, and NFC completion triggers.
+- [Focalboard](https://openaltfinder.com/tools/focalboard) - Focalboard is an open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana for boards, docs, and team planning.
 - [Jotted](https://openaltfinder.com/tools/jotted) - Self-hosted tasks and notes management with offline support, push reminders, and full-text search in a single Docker container.
 - [Kaneo](https://openaltfinder.com/tools/kaneo) - Minimal self-hosted project management with kanban boards and issue tracking — no bloat, no subscriptions.
-- [OpenProject](https://openaltfinder.com/tools/openproject) - Open-source project management software — an alternative to Jira, Asana, Trello, and Monday.com.
+- [Mindwtr](https://openaltfinder.com/tools/mindwtr) - Open-source Getting Things Done (GTD) app for desktop and mobile — capture every task, then focus on the next action.
+- [OpenProject](https://openaltfinder.com/tools/openproject) - OpenProject is open-source project management software for agile teams. A powerful alternative to Jira, Asana, Trello, and Monday.com — fully self-hosted.
 - [Plane](https://openaltfinder.com/tools/plane) - Open-source project management platform — an alternative to Jira, Linear, Monday, and ClickUp.
 - [Scrumboy](https://openaltfinder.com/tools/scrumboy) - Self-hosted Kanban and scrum project management tool with real-time collaboration, sprints, and anonymous shareable boards.
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
 - [TaskTrove](https://openaltfinder.com/tools/task-trove) - Take Back Control of Your Productivity
 - [TaskView](https://openaltfinder.com/tools/taskview) - Self-hosted project and task management platform with Kanban boards, sprints, time tracking, and AI/MCP integrations for software teams.
 - [tududi](https://openaltfinder.com/tools/tududi) - Self-hosted task management that combines personal todo lists with powerful project organization. Built for individuals and teams who value privacy and control.
-- [WeKan](https://openaltfinder.com/tools/wekan) - Open-source kanban board built with Meteor — a free and self-hosted alternative to Trello.
+- [WeKan](https://openaltfinder.com/tools/wekan) - WeKan is an open-source kanban board built with Meteor — a free, self-hosted Trello alternative for tracking tasks, lists, cards, and shared team workflows.
 - [Worklog](https://openaltfinder.com/tools/worklog) - Local-first desktop project manager for small dev teams with Kanban workflow and zero cloud dependency.
 
 
@@ -454,7 +460,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Lobe Chat](https://openaltfinder.com/tools/lobe-chat) - Open-source AI chat and agent platform with multi-provider support, RAG, plugins, and an agent marketplace — self-hostable ChatGPT alternative.
 - [Ollama](https://openaltfinder.com/tools/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. 
-- [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
+- [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model and unify all your team's knowledge.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [Open WebUI](https://openaltfinder.com/tools/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
 
@@ -483,7 +489,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Ente](https://openaltfinder.com/tools/ente) - Open-source, end-to-end encrypted cloud for photos, videos, and 2FA secrets — a privacy-first Google Photos and iCloud Photos alternative.
 - [Open Authenticator](https://openaltfinder.com/tools/open-authenticator) - Free, open-source cross-platform TOTP authenticator with self-hostable sync backend, built with Flutter.
 - [OTPHub](https://openaltfinder.com/tools/otphub) - Simple OTP app for desktop and mobile.
-- [Toofer](https://openaltfinder.com/tools/toofer) - Local-first, web-based two factor authenticator app.
+- [Toofer](https://openaltfinder.com/tools/toofer) - Toofer is a local-first, web-based two-factor authentication app that stores your TOTP secrets directly in your browser. Private, simple, fully offline.
 - [Trezur](https://openaltfinder.com/tools/trezur) - Fast, secure, light-weight web-app to generate TOTP and HOTP tokens.
 
 
@@ -497,7 +503,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Virtual Private Network
 
 
-- [Headscale](https://openaltfinder.com/tools/headscale) - An open source, self-hosted implementation of the Tailscale control server 
+- [Headscale](https://openaltfinder.com/tools/headscale) - Headscale is an open-source, self-hosted implementation of the Tailscale control server. Build your own private WireGuard mesh VPN without a vendor lock-in.
 - [NetBird](https://openaltfinder.com/tools/netbird) - Self-hostable, zero-trust overlay network that combines a WireGuard-based mesh VPN with SSO, MFA, and granular access controls.
 - [OpenVPN](https://openaltfinder.com/tools/open-vpn) - OpenVPN is an open source VPN daemon 
 - [wg-easy](https://openaltfinder.com/tools/wg-easy) - The easiest way to run a self-hosted WireGuard VPN with a web-based admin UI, automatic client management, and one-liner deployment.
@@ -532,12 +538,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [CubeTrek](https://openaltfinder.com/tools/cubetrek) - Open-source GPS track manager with 3D topography visualization for outdoor activities.
 - [Endurain](https://openaltfinder.com/tools/endurain) - Self-hosted fitness tracking service for running, cycling, and more with full data control.
-- [Geo Activity Playground](https://openaltfinder.com/tools/geo-activity-playground) - Data analysis and visualization based on GPS tracked outdoor activities.
-- [LiftTrace](https://openaltfinder.com/tools/lifttrace) - Self-hosted weightlifting tracker — single Docker container, AGPL-3.0, no telemetry, no cloud sync.
+- [Geo Activity Playground](https://openaltfinder.com/tools/geo-activity-playground) - Geo Activity Playground is a self-hosted data analysis and visualization tool for GPS-tracked outdoor activities. Explore routes, heatmaps, and detailed stats.
+- [LiftTrace](https://openaltfinder.com/tools/lifttrace) - LiftTrace is a self-hosted weightlifting tracker that runs in a single Docker container. AGPL-3.0, no telemetry, no cloud sync — your data stays local.
 - [OpenTracks](https://openaltfinder.com/tools/opentracks) - A privacy-focused sport tracking application for Android that records GPS tracks and supports Bluetooth sensors without any internet access or ads.
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - An open source run tracker for Android.
 - [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
-- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
+- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Track meals, workouts, water, and health metrics with AI-powered insights. Built for the whole family, self-hosted, and privacy-friendly fitness tracker.
 - [Stronk](https://openaltfinder.com/tools/stronk) - Open-source weightlifting tracker — log workouts, sets, and reps with data stored locally. Free, privacy-respecting alternative to Hevy and Strong.
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
 
@@ -551,7 +557,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Health monitoring Tools
 
 
-- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together. 
+- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Track meals, workouts, water, and health metrics with AI-powered insights. Built for the whole family, self-hosted, and privacy-friendly fitness tracker.
 
 
 #### Nutrition & Diet Trackers
@@ -571,7 +577,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Inkscape](https://openaltfinder.com/tools/inkscape) - Free, open source vector graphics editor for illustrations, logos, icons, and technical drawings — a strong alternative to Adobe Illustrator.
 - [Krita](https://openaltfinder.com/tools/krita) - Free, open source digital painting and illustration application that is a popular alternative to Photoshop and Procreate.
 - [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
-- [PixiEditor](https://openaltfinder.com/tools/pixieditor) - Universal open-source 2D editor for pixel art, painting, vector graphics, and animation.
+- [PixiEditor](https://openaltfinder.com/tools/pixieditor) - PixiEditor is a universal open-source 2D editor for pixel art, painting, vector graphics, and animation. Powerful tools in a modern, friendly interface.
 - [RawTherapee](https://openaltfinder.com/tools/rawtherapee) - Powerful, cross-platform open source raw photo processing program and a strong alternative to Adobe Lightroom.
 
 
@@ -579,25 +585,25 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Dub](https://openaltfinder.com/tools/dub) - The open-source link attribution platform for short links, conversion tracking, and affiliate programs.
-- [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
+- [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. A privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports.
 - [Syano](https://openaltfinder.com/tools/syano) - Self-hosted URL shortener with analytics, QR codes, and link-in-bio pages. A privacy-first open source alternative to Bitly.
 
 
 #### Social Media Content Creation
 
 
-- [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
+- [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. A privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports.
 
 
 #### Video Editing Tools
 
 
 - [Drift](https://openaltfinder.com/tools/drift) - Free, open-source desktop video editor for Linux, Windows, and macOS built with Qt 6 and FFmpeg.
-- [FableCut](https://openaltfinder.com/tools/fablecut) - Zero-dependency browser video editor that AI agents can drive via JSON timeline, MCP, and REST.
+- [FableCut](https://openaltfinder.com/tools/fablecut) - FableCut is a zero-dependency, browser-based video editor designed for humans and AI agents. Drive edits via JSON timelines, MCP, or a clean REST API.
 - [Kdenlive](https://openaltfinder.com/tools/kdenlive) - Free and open source multi-track video editor built on MLT Framework and KDE technologies.
 - [Olive](https://openaltfinder.com/tools/olive) - Free open-source non-linear video editor with hardware-accelerated compositing and cross-platform support.
 - [Open Video Craft](https://openaltfinder.com/tools/open-video-craft) - Open-source, local-first screen recorder and timeline video editor for macOS and Windows with AI subtitle generation.
-- [OpenCut](https://openaltfinder.com/tools/open-cut) -  The open-source CapCut alternative 
+- [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. A privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports.
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 
 
@@ -738,11 +744,11 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [AFFiNE](https://openaltfinder.com/tools/affine) - Open-source knowledge base combining note-taking, whiteboard, and project planning in one workspace.
-- [Focalboard](https://openaltfinder.com/tools/focalboard) - Open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana.
-- [Onyx](https://openaltfinder.com/tools/onyx) - Open-source AI chat and enterprise search platform with RAG that works with every LLM.
+- [Focalboard](https://openaltfinder.com/tools/focalboard) - Focalboard is an open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana for boards, docs, and team planning.
+- [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model and unify all your team's knowledge.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [TriliumNext Notes](https://openaltfinder.com/tools/trilium-next-notes) - Hierarchical personal knowledge base with powerful note-taking, rich text editing, and scripting capabilities.
-- [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
+- [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js is a modern, powerful open-source wiki app built on Node.js. Versioned, searchable, beautiful, and self-hosted — a knowledge base for any team.
 
 
 #### Team Chat & Messaging Tools
@@ -778,7 +784,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Docmost](https://openaltfinder.com/tools/docmost) - Open-source collaborative wiki and documentation platform, an alternative to Confluence and Notion.
-- [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
+- [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js is a modern, powerful open-source wiki app built on Node.js. Versioned, searchable, beautiful, and self-hosted — a knowledge base for any team.
 
 
 #### Wiki Software
@@ -787,11 +793,11 @@ Want to contribute? See [Contributing](#contributing).
 - [Alexandrie](https://openaltfinder.com/tools/alexandrie) - Self-hosted knowledge base with extended Markdown editor, Kanban, OIDC/SSO, PWA and offline support.
 - [BookStack](https://openaltfinder.com/tools/bookstack) - Open source wiki and documentation platform with a books/shelves/pages model — a simple, self-hostable alternative to Confluence and Notion.
 - [Docmost](https://openaltfinder.com/tools/docmost) - Open-source collaborative wiki and documentation platform, an alternative to Confluence and Notion.
-- [Golocron](https://openaltfinder.com/tools/golocron) - A plug-and-play blogging and wiki system for Go backends with Markdown support and live preview.
+- [Golocron](https://openaltfinder.com/tools/golocron) - Golocron is a plug-and-play blogging and wiki system designed for Go backends. Markdown support, live preview, and a clean UI for quick content sites.
 - [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
 - [Outline](https://openaltfinder.com/tools/outline) - The fastest growing-team knowledge base — beautiful, realtime collaborative, feature packed, and markdown compatible Notion and Confluence alternative.
-- [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js | A modern and powerful wiki app built on Node.js 
+- [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js is a modern, powerful open-source wiki app built on Node.js. Versioned, searchable, beautiful, and self-hosted — a knowledge base for any team.
 
 
 ### Bussines Software
@@ -828,6 +834,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Evershop](https://openaltfinder.com/tools/evershop) - EverShop is a modern, TypeScript-first eCommerce platform built with GraphQL and React. Designed for developers, it offers essential commerce features in a modular, fully customizable architecture—perfect for building tailored shopping experiences with confidence and speed.
 - [Medusa](https://openaltfinder.com/tools/medusa) -  The world's most flexible commerce platform. 
 - [Shopware](https://openaltfinder.com/tools/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions 
+
+
+#### Event Management
+
+
+- [Chobble Tickets](https://openaltfinder.com/tools/chobble-tickets) - Open source ticketing system with zero per-attendee fees. Self-hostable on Deno with Stripe, Square, or SumUp, and end-to-end encrypted attendee data.
 
 
 ### Video Editing Tools
@@ -869,7 +881,7 @@ Want to contribute? See [Contributing](#contributing).
 - [MiMoCode](https://openaltfinder.com/tools/mimocode) - An open-source terminal-native AI coding agent with cross-session memory, multiple agents, and support for any LLM provider.
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
 - [Open Code Review](https://openaltfinder.com/tools/open-code-review) - Battle-tested AI code review agent with deterministic pipelines + LLM, fine-tuned security rules, and line-level comments.
-- [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.
+- [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is a powerful open-source AI coding agent that runs in your terminal, IDE, or desktop. Supports any model with full LSP integration and session replay.
 - [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Open-source AI agent toolkit with an interactive coding agent CLI, unified multi-provider LLM API, and TUI libraries.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
@@ -899,7 +911,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Email Marketing & Newsletters Tools
 
 
-- [Keila](https://openaltfinder.com/tools/keila) - Open Source Newsletter Tool and Mailchimp alternative for creating campaigns and sign-up forms.
+- [Keila](https://openaltfinder.com/tools/keila) - Keila is the open-source newsletter and email campaign tool — a friendly Mailchimp alternative for beautiful campaigns, sign-up forms, and contact lists.
 - [Listmonk](https://openaltfinder.com/tools/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. 
 - [Mautic](https://openaltfinder.com/tools/mautic) - Open-source marketing automation platform with email campaigns, lead management, and multi-channel marketing.
 - [Plunk](https://openaltfinder.com/tools/plunk) - Open-source email platform for sending transactional and marketing emails, self-hostable with a clean API.
@@ -955,6 +967,17 @@ Want to contribute? See [Contributing](#contributing).
 - [Umami](https://openaltfinder.com/tools/umami) - Umami is a modern, privacy-focused alternative to Google Analytics. 
 - [Vemetric](https://openaltfinder.com/tools/vemetric) -  Simple, yet powerful Web- & Product Analytics. 
 - [Vince](https://openaltfinder.com/tools/vince) -  Self Hosted Alternative To Google Analytics 
+
+
+### Time & Task Management Tools
+
+
+#### Self-Hosted Maps
+
+
+- [CoMaps](https://openaltfinder.com/tools/comaps) - A community-led fork of Organic Maps. Free offline maps for Android and iOS with no ads, no tracking, and no data collection.
+- [Dawarich Atlas](https://openaltfinder.com/tools/dawarich-atlas) - Self-hostable OpenStreetMap stack with search, routing, POIs, and transit — a privacy-first Google Maps Platform alternative that runs on your own hardware.
+- [Organic Maps](https://openaltfinder.com/tools/organic-maps) - Free offline maps app for travelers, hikers, and cyclists using OpenStreetMap data. No ads, no tracking.
 
 
 
