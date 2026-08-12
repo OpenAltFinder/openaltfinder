@@ -44,6 +44,7 @@ Want to contribute? See [Contributing](#contributing).
 - [AI & Machine Learning](#ai--machine-learning)
   - [AI Chat](#ai-chat)
   - [AI Agent Builders](#ai-agent-builders)
+  - [LLM Fine-Tuning](#llm-fine-tuning)
 - [Security & Privacy Tools](#security--privacy-tools)
   - [Secure Tunnels](#secure-tunnels)
   - [2FA Authentication](#2fa-authentication)
@@ -82,6 +83,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Tycoon & Simulation Games](#tycoon--simulation-games)
 - [Outdoor & Recreation](#outdoor--recreation)
   - [Hiking & Route Planning](#hiking--route-planning)
+  - [Travel Planner & Tracker](#travel-planner--tracker)
 - [Image Hosting](#image-hosting)
   - [Meme Tools](#meme-tools)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
@@ -471,6 +473,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Sim](https://openaltfinder.com/tools/sim) - Open-source workspace to build, deploy, and orchestrate AI agents and agentic workflows.
 
 
+#### LLM Fine-Tuning
+
+
+- [Unsloth](https://openaltfinder.com/tools/unsloth) - Open-source platform for fine-tuning and running LLMs locally — 2x faster training with 70% less VRAM. Supports LoRA, QLoRA, DPO, GRPO.
+
+
 ### Security & Privacy Tools
 
 
@@ -720,6 +728,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Crestr](https://openaltfinder.com/tools/crestr) - Open-source hiking route planner for Cumbria with elevation-aware A* routing, manual snap-to-path plotting, POIs, and GPX/GeoJSON export.
+
+
+#### Travel Planner & Tracker
+
+
+- [AdventureLog](https://openaltfinder.com/tools/adventurelog) - Self-hostable travel tracker and trip planner with interactive world map, itineraries, GPX trails, and Immich/Strava integrations.
 
 
 ### Image Hosting
