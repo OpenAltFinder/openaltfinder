@@ -198,6 +198,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Better-PaaS](https://openaltfinder.com/tools/better-paas) - Self-hostable PaaS for deploying full-stack apps and databases with zero downtime, auto HTTPS, and Docker support.
 - [CapRover](https://openaltfinder.com/tools/caprover) - CapRover is a scalable self-hosted PaaS with one-click apps, Docker Swarm clustering, automatic TLS, and a friendly web UI for deploying apps in seconds.
+- [celld](https://openaltfinder.com/tools/celld) - Open-source daemon that runs Cloudflare Workers and Durable Objects on your own machines, with state stored in an S3-compatible bucket.
 - [Coolify](https://openaltfinder.com/tools/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
 - [Dokku](https://openaltfinder.com/tools/dokku) - Docker-powered PaaS implementing the Heroku git-push workflow on your own server.
 - [Dokploy](https://openaltfinder.com/tools/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. 
