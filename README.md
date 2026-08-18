@@ -402,6 +402,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Donetick](https://openaltfinder.com/tools/donetick) - Open-source task and chore manager for groups — natural-language scheduling, assignee rotation, and NFC completion triggers.
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Focalboard is an open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana for boards, docs, and team planning across every workflow.
 - [Jotted](https://openaltfinder.com/tools/jotted) - Self-hosted tasks and notes management with offline support, push reminders, and full-text search in a single Docker container.
+- [Kanboard](https://openaltfinder.com/tools/kanboard) - Free, open source Kanban project management software focused on simplicity and visual task tracking.
 - [Kaneo](https://openaltfinder.com/tools/kaneo) - Minimal self-hosted project management with kanban boards and issue tracking — no bloat, no subscriptions.
 - [Mindwtr](https://openaltfinder.com/tools/mindwtr) - Open-source Getting Things Done (GTD) app for desktop and mobile — capture every task, then focus on the next action.
 - [OpenProject](https://openaltfinder.com/tools/openproject) - OpenProject is open-source project management software for agile teams. A powerful alternative to Jira, Asana, Trello, and Monday.com — fully self-hosted and free to use.
