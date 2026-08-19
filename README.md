@@ -102,6 +102,8 @@ Want to contribute? See [Contributing](#contributing).
 - [Video Editing Tools](#video-editing-tools)
   - [Video Subtitle Editors](#video-subtitle-editors)
   - [Web-based Video Editors](#web-based-video-editors)
+- [Authentication & Identity](#authentication--identity)
+  - [Single Sign-On](#single-sign-on)
 - [Developer Tools](#developer-tools)
   - [API Development & Testing Tools](#api-development--testing-tools)
   - [AI Coding Agents](#ai-coding-agents)
@@ -505,6 +507,7 @@ Want to contribute? See [Contributing](#contributing).
 #### 2FA Authentication
 
 
+- [2FAuth](https://openaltfinder.com/tools/2fauth) - Self-hosted web app to manage your Two-Factor Authentication (2FA) accounts and generate TOTP and HOTP codes from any browser.
 - [Authentik](https://openaltfinder.com/tools/authentik) - Open source identity provider and SSO solution that replaces Auth0 and Okta with a self-hostable, flexible authentication platform.
 - [Ente](https://openaltfinder.com/tools/ente) - Open-source, end-to-end encrypted cloud for photos, videos, and 2FA secrets — a privacy-first Google Photos and iCloud Photos alternative.
 - [Open Authenticator](https://openaltfinder.com/tools/open-authenticator) - Free, open-source cross-platform TOTP authenticator with self-hostable sync backend, built with Flutter.
@@ -881,6 +884,15 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [tscaps](https://openaltfinder.com/tools/tscaps) - Open-source, in-browser video editor focused on subtitles and short-form content. Transcribe with Whisper, style with CSS, export burned-in captions.
+
+
+### Authentication & Identity
+
+
+#### Single Sign-On
+
+
+- [Authentik](https://openaltfinder.com/tools/authentik) - Open source identity provider and SSO solution that replaces Auth0 and Okta with a self-hostable, flexible authentication platform.
 
 
 ### Developer Tools
