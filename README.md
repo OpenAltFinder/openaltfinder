@@ -19,6 +19,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Web Servers](#web-servers)
 - [Media Players](#media-players)
   - [Music Player](#music-player)
+  - [Music Discovery](#music-discovery)
 - [Productivity & Utilities](#productivity--utilities)
   - [Password Managers](#password-managers)
   - [Automation Tools](#automation-tools)
@@ -238,7 +239,14 @@ Want to contribute? See [Contributing](#contributing).
 #### Music Player
 
 
+- [Meelo](https://openaltfinder.com/tools/meelo) - Self-hosted music server focused on metadata integration and UI, with music videos as first-class citizens and mobile apps for Android and iOS.
 - [Noctis](https://openaltfinder.com/tools/noctis) - Cross-platform lossless music player with rich library management, synced lyrics, and gapless playback for Windows, macOS, and Linux.
+
+
+#### Music Discovery
+
+
+- [Aurral](https://openaltfinder.com/tools/aurral) - Open-source self-hosted music discovery and playlist companion for Lidarr with personalised recommendations, playlist automation, and multi-user support.
 
 
 ### Productivity & Utilities
@@ -357,6 +365,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Ebook & Comic Readers
 
 
+- [BookOrbit](https://openaltfinder.com/tools/bookorbit) - Self-hosted library and reading platform for ebooks, audiobooks, PDFs, and comics with built-in web readers and Kobo/KOReader sync.
 - [BookWyrm](https://openaltfinder.com/tools/bookwyrm) - Federated, self-hostable social network for readers — book shelves, reviews, and reading status, decentralized via ActivityPub.
 - [Kavita](https://openaltfinder.com/tools/kavita) - Self-hosted, cross-platform reading server for manga, comics, and ebooks with responsive web readers and an OPDS feed.
 - [Koodo Reader](https://openaltfinder.com/tools/koodo-reader) - Cross-platform ebook reader supporting PDF, EPUB, MOBI, comics and more, with sync across Windows, macOS, Linux, Android, iOS, and Web.
