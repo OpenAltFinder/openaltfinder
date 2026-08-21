@@ -360,6 +360,7 @@ Want to contribute? See [Contributing](#contributing).
 - [BudgetBee](https://openaltfinder.com/tools/budgetbee) - BudgetBee is a Docker-based, self-hosted personal finance manager. Track expenses, budgets, accounts, savings goals, and net worth with full data ownership and zero subscriptions.
 - [ezBookkeeping](https://openaltfinder.com/tools/ezbookkeeping) - Lightweight, self-hosted personal finance and bookkeeping app with a mobile-friendly UI — an open alternative to Mint and YNAB.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
+- [Securo](https://openaltfinder.com/tools/securo) - Open-source self-hosted personal finance manager with bank sync, multi-currency budgets, investments, splits, and an optional self-hosted AI assistant.
 
 
 #### Ebook & Comic Readers
@@ -775,6 +776,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Email Servers
 
 
+- [Inbucket](https://openaltfinder.com/tools/inbucket) - Open source disposable email testing server with built-in SMTP, POP3, REST, and web interfaces — no database required.
 - [Mailcow](https://openaltfinder.com/tools/mailcow) - Self-hostable, Dockerized mail server bundle that combines Postfix, Dovecot, and a polished web UI — a Gmail and Microsoft 365 alternative for organisations.
 
 
