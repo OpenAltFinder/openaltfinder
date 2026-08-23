@@ -221,7 +221,6 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [degoog](https://openaltfinder.com/tools/degoog) - Open-source, self-hosted search engine aggregator with a comprehensive plugin system.
-- [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
 - [Langfuse](https://openaltfinder.com/tools/langfuse) - Open source LLM engineering platform for tracing, evaluating, monitoring, and managing prompts as an alternative to LangSmith and Helicone.
 - [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model, connect your tools, and unify all your team's knowledge.
 - [SearXNG](https://openaltfinder.com/tools/searxng) - A free internet metasearch engine which aggregates results from various search services without tracking or profiling users.
@@ -291,6 +290,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Buku](https://openaltfinder.com/tools/buku) - Privacy-focused, command-line bookmark manager that stores links in a local encrypted SQLite database with full-text search.
 - [Faved](https://openaltfinder.com/tools/faved) - Free open-source self-hosted bookmark manager with customizable nested tags, fast search, and local data storage.
 - [FreshRSS](https://openaltfinder.com/tools/freshrss) - Self-hostable RSS and Atom news aggregator with a clean interface, multi-user support, and Fever/Google Reader API compatibility.
+- [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
 - [Karakeep](https://openaltfinder.com/tools/karakeep) - Self-hostable bookmark-everything app with AI-based automatic tagging, full-text search, and support for links, notes, and images.
 - [LinkAce](https://openaltfinder.com/tools/linkace) - Self-hosted archive and bookmark manager built with Laravel, featuring automatic archiving, monitoring for dead links, and list organization.
 - [Linkding](https://openaltfinder.com/tools/linkding) - Minimal, fast, self-hosted bookmark manager with tagging, full-text search, and a clean web UI designed for easy Docker deployment.
@@ -494,6 +494,7 @@ Want to contribute? See [Contributing](#contributing).
 #### AI Agent Builders
 
 
+- [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
 - [Sim](https://openaltfinder.com/tools/sim) - Sim is an open-source workspace to build, deploy, and orchestrate AI agents and agentic workflows. Visually connect LLMs, tools, and data sources without giving up control.
 
 
