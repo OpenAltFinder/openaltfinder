@@ -46,6 +46,7 @@ Want to contribute? See [Contributing](#contributing).
   - [AI Chat](#ai-chat)
   - [AI Agent Builders](#ai-agent-builders)
   - [LLM Fine-Tuning](#llm-fine-tuning)
+  - [AI Summarization](#ai-summarization)
 - [Security & Privacy Tools](#security--privacy-tools)
   - [Secure Tunnels](#secure-tunnels)
   - [2FA Authentication](#2fa-authentication)
@@ -367,6 +368,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [BookOrbit](https://openaltfinder.com/tools/bookorbit) - Self-hosted library and reading platform for ebooks, audiobooks, PDFs, and comics with built-in web readers and Kobo/KOReader sync.
+- [Bookshelf](https://openaltfinder.com/tools/bookshelf) - A self-hosted ebook library that runs on Cloudflare R2 or a local Node server, with in-browser EPUB and PDF readers and per-profile reading positions.
 - [BookWyrm](https://openaltfinder.com/tools/bookwyrm) - Federated, self-hostable social network for readers — book shelves, reviews, and reading status, decentralized via ActivityPub.
 - [Kavita](https://openaltfinder.com/tools/kavita) - Self-hosted, cross-platform reading server for manga, comics, and ebooks with responsive web readers and an OPDS feed.
 - [Koodo Reader](https://openaltfinder.com/tools/koodo-reader) - Cross-platform ebook reader supporting PDF, EPUB, MOBI, comics and more, with sync across Windows, macOS, Linux, Android, iOS, and Web.
@@ -414,6 +416,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Donetick](https://openaltfinder.com/tools/donetick) - Open-source task and chore manager for groups — natural-language scheduling, assignee rotation, and NFC completion triggers.
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Focalboard is an open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana for boards, docs, and team planning across every workflow.
 - [Jotted](https://openaltfinder.com/tools/jotted) - Self-hosted tasks and notes management with offline support, push reminders, and full-text search in a single Docker container.
+- [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 - [Kanboard](https://openaltfinder.com/tools/kanboard) - Free, open source Kanban project management software focused on simplicity and visual task tracking.
 - [Kaneo](https://openaltfinder.com/tools/kaneo) - Minimal self-hosted project management with kanban boards and issue tracking — no bloat, no subscriptions.
 - [Mindwtr](https://openaltfinder.com/tools/mindwtr) - Open-source Getting Things Done (GTD) app for desktop and mobile — capture every task, then focus on the next action.
@@ -431,6 +434,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Time Tracking Tools
 
 
+- [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 - [Kimai](https://openaltfinder.com/tools/kimai) - Open source time-tracking application for freelancers, teams, and organisations, with timesheets, invoicing, and detailed reports.
 - [Solidtime](https://openaltfinder.com/tools/solidtime) - Modern, open source time-tracking app for freelancers and teams with project, client, task, and reporting features.
 - [TimeTracker](https://openaltfinder.com/tools/time-tracker) - A robust, self-hosted time tracking application designed for teams and freelancers who need reliable time management without cloud dependencies. Built with Flask and optimized for Raspberry Pi deployment, TimeTracker provides persistent timers, comprehensive reporting, and a modern web interface.
@@ -502,6 +506,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Unsloth](https://openaltfinder.com/tools/unsloth) - Open-source platform for fine-tuning and running LLMs locally — 2x faster training with 70% less VRAM. Supports LoRA, QLoRA, DPO, GRPO.
+
+
+#### AI Summarization
+
+
+- [Apogee](https://openaltfinder.com/tools/apogee) - Private, in-browser AI summarizer for articles, videos, and PDFs that runs entirely on-device via WebGPU, WebAssembly, or a local Ollama instance.
 
 
 ### Security & Privacy Tools
@@ -586,6 +596,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [AnyHabit](https://openaltfinder.com/tools/anyhabit) - A universal habit and tracking dashboard tailored for Raspberry Pi and Docker with a modern React frontend.
+- [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 
 
 #### Health monitoring Tools
@@ -859,6 +870,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Customer Relationship Management Tools
 
 
+- [Atomic CRM](https://openaltfinder.com/tools/atomic-crm) - A full-featured open-source CRM built with React, shadcn/ui, and Supabase for managing contacts, deals, tasks, and notes.
 - [Comp AI](https://openaltfinder.com/tools/compai-crm) - Open-source, agentic-first CRM with a built-in research agent that books follow-ups, enriches contacts, and keeps your pipeline up to date.
 - [Dolibarr](https://openaltfinder.com/tools/dolibarr) - A free and open-source ERP and CRM platform for businesses, foundations, and freelancers of any size.
 - [EspoCRM](https://openaltfinder.com/tools/espocrm) - Open source CRM platform for managing contacts, leads, sales pipelines, and customer relationships.
@@ -1006,6 +1018,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Databuddy](https://openaltfinder.com/tools/databuddy) - Databuddy is a privacy-first analytics platform with a focus on user experience, with it's foundation built on privacy, it ensures complete compliance with most major data privacy laws out of the box 
 - [Dub](https://openaltfinder.com/tools/dub) - The open-source link attribution platform for short links, conversion tracking, and affiliate programs.
 - [GoatCounter](https://openaltfinder.com/tools/goatcounter) - Easy web analytics. No tracking of personal data. 
+- [Liwan](https://openaltfinder.com/tools/liwan) - A lightweight, privacy-first web analytics platform written in Rust. No cookies, no database, under 1KB tracking script.
 - [Matomo](https://openaltfinder.com/tools/matomo) - Open-source web analytics platform with SEO keyword and search performance reporting.
 - [Open Web Analytics](https://openaltfinder.com/tools/open-web-analytics) - Self-hosted web analytics platform for tracking website traffic without compromising user privacy.
 - [OpenPanel](https://openaltfinder.com/tools/open-panel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. 
