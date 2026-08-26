@@ -597,6 +597,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [AnyHabit](https://openaltfinder.com/tools/anyhabit) - A universal habit and tracking dashboard tailored for Raspberry Pi and Docker with a modern React frontend.
 - [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
+- [Streak](https://openaltfinder.com/tools/streak) - Minimal, private, ad-free habit tracker for Android with streak tracking, focus sessions, and GitHub-style activity grids.
 
 
 #### Health monitoring Tools
@@ -618,6 +619,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Darktable](https://openaltfinder.com/tools/darktable) - Open source photography workflow application and raw developer for organizing, editing, and exporting large photo libraries.
+- [FerrumPix](https://openaltfinder.com/tools/ferrumpix) - Desktop photo manager and image editor for Linux, Windows, and macOS with RAW development, batch processing, and Immich/Nextcloud integration.
 - [GIMP](https://openaltfinder.com/tools/gimp) - GNU Image Manipulation Program — the venerable free, open source image editor and Adobe Photoshop alternative.
 - [Inkscape](https://openaltfinder.com/tools/inkscape) - Free, open source vector graphics editor for illustrations, logos, icons, and technical drawings — a strong alternative to Adobe Illustrator.
 - [Krita](https://openaltfinder.com/tools/krita) - Free, open source digital painting and illustration application that is a popular alternative to Photoshop and Procreate.
@@ -819,6 +821,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Quiet](https://openaltfinder.com/tools/quiet) - Private, peer-to-peer Slack and Discord alternative built on Tor and IPFS that needs no servers and no accounts.
 - [Raven](https://openaltfinder.com/tools/raven) -  Simple, open source team messaging platform 
 - [Rocket.Chat](https://openaltfinder.com/tools/rocket-chat) - The communications platform that puts data protection first. 
+- [Sharkord](https://openaltfinder.com/tools/sharkord) - Self-hosted chat server with voice, video, text, and screen sharing — Discord-like features on your own infrastructure.
 - [Tinode](https://openaltfinder.com/tools/tinode) - Instant messaging platform with self-hosted backend in Go and clients for iOS, Android, web, and command line.
 - [Zulip](https://openaltfinder.com/tools/zulip) - Open-source team chat with a unique topic-based threading model that makes it easy to follow multiple conversations.
 
