@@ -47,6 +47,7 @@ Want to contribute? See [Contributing](#contributing).
   - [AI Agent Builders](#ai-agent-builders)
   - [LLM Fine-Tuning](#llm-fine-tuning)
   - [AI Summarization](#ai-summarization)
+  - [AI Gateways & Model Routing](#ai-gateways--model-routing)
 - [Security & Privacy Tools](#security--privacy-tools)
   - [Secure Tunnels](#secure-tunnels)
   - [2FA Authentication](#2fa-authentication)
@@ -322,6 +323,7 @@ Want to contribute? See [Contributing](#contributing).
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [OpenKnowledge](https://openaltfinder.com/tools/openknowledge) - AI-native, local-first markdown editor and LLM wiki with built-in integrations for Claude, Codex, and other agents.
+- [Quillpad](https://openaltfinder.com/tools/quillpad) - A free, open-source Android app for markdown notes and task lists with reminders, file attachments, and optional Nextcloud sync.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Scratch](https://openaltfinder.com/tools/scratch) - Scratch is a minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux. Plain text files, keyboard-driven, with no cloud lock-in or account required.
 - [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Markdown-based note-taking app with powerful live queries, templates, and a pluggable scripting system for power users.
@@ -349,6 +351,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Game Management Tools
 
 
+- [Drop](https://openaltfinder.com/tools/drop) - A self-hosted game distribution platform for sharing DRM-free games with a store-like interface, flexible authentication, and cross-platform clients.
 - [Gameyfin](https://openaltfinder.com/tools/gameyfin) - A lightweight, open-source game library manager that allows you to organize, access, and share your video games through a web interface.
 - [RomM](https://openaltfinder.com/tools/romm) - A beautiful, self-hosted ROM manager and player for your retro game collection, with rich metadata and in-browser emulation.
 
@@ -514,6 +517,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Apogee](https://openaltfinder.com/tools/apogee) - Private, in-browser AI summarizer for articles, videos, and PDFs that runs entirely on-device via WebGPU, WebAssembly, or a local Ollama instance.
 
 
+#### AI Gateways & Model Routing
+
+
+- [Experiential](https://openaltfinder.com/tools/experiential) - Open source AI gateway and router that exposes hosted, BYOK, local, and custom models through one OpenAI-compatible API.
+
+
 ### Security & Privacy Tools
 
 
@@ -652,6 +661,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Open Video Craft](https://openaltfinder.com/tools/open-video-craft) - Open-source, local-first screen recorder and timeline video editor for macOS and Windows with AI subtitle generation.
 - [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. It's a privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports you can run anywhere.
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
+- [WolfCut](https://openaltfinder.com/tools/wolfcut) - An open-source desktop video editor that mirrors the CapCut workflow without watermarks, paywalls, or account requirements.
 
 
 ### Image Editing
@@ -812,7 +822,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Chatto](https://openaltfinder.com/tools/chatto) - A self-hosted chat application for teams and communities with video calls, voice calls, and screen sharing.
 - [Colanode](https://openaltfinder.com/tools/colanode) - Open source, local-first Slack and Notion alternative that puts you in control of your data with offline support and end-to-end encryption.
 - [Delta Chat](https://openaltfinder.com/tools/delta-chat) - Decentralized private messenger using email infrastructure for secure, end-to-end encrypted communication.
-- [Discourse](https://openaltfinder.com/tools/discourse) - A platform for community discussion. Free, open, simple. 
+- [Discourse](https://openaltfinder.com/tools/discourse) - Open source community forum platform combining long-form discussion, real-time chat, and strong moderation. Self-host it or use managed hosting.
 - [Element](https://openaltfinder.com/tools/element) - Open-source Matrix client for secure, decentralized messaging, voice, and video — runs on your own server.
 - [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [Linen](https://openaltfinder.com/tools/linen) - Lightweight, Google-searchable open source Slack and Discord alternative designed for online communities.
