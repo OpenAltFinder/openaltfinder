@@ -360,9 +360,10 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Actual Budget](https://openaltfinder.com/tools/actual-budget) - Fast, privacy-focused local-first personal finance app using zero-sum budgeting, with optional self-hosted sync.
-- [Budget Board](https://openaltfinder.com/tools/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
+- [Budget Board](https://openaltfinder.com/tools/budget-board) - Self-hosted budgeting app for tracking accounts, spending, and financial goals, with bank syncing via SimpleFIN and ML-powered auto-categorization.
 - [BudgetBee](https://openaltfinder.com/tools/budgetbee) - BudgetBee is a Docker-based, self-hosted personal finance manager. Track expenses, budgets, accounts, savings goals, and net worth with full data ownership and zero subscriptions.
 - [ezBookkeeping](https://openaltfinder.com/tools/ezbookkeeping) - Lightweight, self-hosted personal finance and bookkeeping app with a mobile-friendly UI — an open alternative to Mint and YNAB.
+- [FinTrack](https://openaltfinder.com/tools/fintrack) - Open source personal finance platform for tracking accounts, transactions, and monthly budgets, with CSV imports. Self-host via Docker or AWS.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
 - [Securo](https://openaltfinder.com/tools/securo) - Open-source self-hosted personal finance manager with bank sync, multi-currency budgets, investments, splits, and an optional self-hosted AI assistant.
 
