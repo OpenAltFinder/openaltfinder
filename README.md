@@ -872,6 +872,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Customer Communication Platforms
 
 
+- [Bolnee Chat](https://openaltfinder.com/tools/bolnee-chat) - Self-hosted RAG chatbot platform that answers visitor questions from your website and PDFs, with a two-line embeddable widget and citations.
 - [Bytedesk](https://openaltfinder.com/tools/bytedesk) - Open source AI-powered omnichannel customer service platform that combines live chat, ticketing, and team collaboration as an alternative to Slack, Zendesk, Intercom, and HubSpot.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Fider](https://openaltfinder.com/tools/fider) - Open source customer feedback platform to collect, organize, and prioritize feature requests from users.
