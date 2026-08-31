@@ -593,6 +593,7 @@ Want to contribute? See [Contributing](#contributing).
 - [CubeTrek](https://openaltfinder.com/tools/cubetrek) - Open-source GPS track manager with 3D topography visualization for outdoor activities.
 - [Endurain](https://openaltfinder.com/tools/endurain) - Self-hosted fitness tracking service for running, cycling, and more with full data control.
 - [Geo Activity Playground](https://openaltfinder.com/tools/geo-activity-playground) - Geo Activity Playground is a self-hosted data analysis and visualization tool for GPS-tracked outdoor activities. Explore routes, heatmaps, and detailed stats from every device.
+- [GymMane](https://openaltfinder.com/tools/gymmane) - Offline gym log for Android with a tap-the-muscle body map, 500+ animated exercises, rest timers, and no internet permission at all.
 - [LiftTrace](https://openaltfinder.com/tools/lifttrace) - LiftTrace is a self-hosted weightlifting tracker that runs in a single Docker container. AGPL-3.0, no telemetry, no cloud sync — your lifting data stays on your own hardware.
 - [OpenTracks](https://openaltfinder.com/tools/opentracks) - A privacy-focused sport tracking application for Android that records GPS tracks and supports Bluetooth sensors without any internet access or ads.
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - An open source run tracker for Android.
@@ -661,6 +662,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Olive](https://openaltfinder.com/tools/olive) - Free open-source non-linear video editor with hardware-accelerated compositing and cross-platform support.
 - [Open Video Craft](https://openaltfinder.com/tools/open-video-craft) - Open-source, local-first screen recorder and timeline video editor for macOS and Windows with AI subtitle generation.
 - [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. It's a privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports you can run anywhere.
+- [OpenShot Video Editor](https://openaltfinder.com/tools/openshot) - OpenShot is a free, open-source video editor for Linux, macOS, and Windows with unlimited tracks, keyframe animation, and 3D titles.
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 - [WolfCut](https://openaltfinder.com/tools/wolfcut) - An open-source desktop video editor that mirrors the CapCut workflow without watermarks, paywalls, or account requirements.
 
