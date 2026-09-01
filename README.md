@@ -242,6 +242,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Meelo](https://openaltfinder.com/tools/meelo) - Self-hosted music server focused on metadata integration and UI, with music videos as first-class citizens and mobile apps for Android and iOS.
 - [Noctis](https://openaltfinder.com/tools/noctis) - Cross-platform lossless music player with rich library management, synced lyrics, and gapless playback for Windows, macOS, and Linux.
+- [Sunoh](https://openaltfinder.com/tools/sunoh) - Android music app that plays YouTube Music, Gaana and Saavn plus your local files through one ad-free interface.
 
 
 #### Music Discovery
