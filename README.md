@@ -39,6 +39,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Travel Planning](#travel-planning)
   - [Web Browsers](#web-browsers)
   - [Appointment Scheduling](#appointment-scheduling)
+  - [RSS Readers](#rss-readers)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -87,6 +88,8 @@ Want to contribute? See [Contributing](#contributing).
 - [Outdoor & Recreation](#outdoor--recreation)
   - [Hiking & Route Planning](#hiking--route-planning)
   - [Travel Planner & Tracker](#travel-planner--tracker)
+- [Project Management](#project-management)
+  - [Task Management](#task-management)
 - [Image Hosting](#image-hosting)
   - [Meme Tools](#meme-tools)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
@@ -289,6 +292,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Bonjourr](https://openaltfinder.com/tools/bonjourr) - Bonjourr is a minimalist and lightweight startpage inspired by iOS for Chrome, Firefox, Edge, and Safari. Customize backgrounds, links, and widgets to launch your day beautifully.
 - [Bookmark It.](https://openaltfinder.com/tools/bmrk-cc) - Open-source self-hostable bookmark manager to organize, discover, and personalize your saved links.
+- [Bowrd](https://openaltfinder.com/tools/bowrd) - Open-source visual bookmarking: save images to boards, follow Fediverse accounts, and share collections — no ads, no algorithm.
 - [Briefkasten](https://openaltfinder.com/tools/briefkasten) - Open-source, self-hosted bookmark manager with browser extension support, automatic metadata extraction, and full-text search.
 - [Buku](https://openaltfinder.com/tools/buku) - Privacy-focused, command-line bookmark manager that stores links in a local encrypted SQLite database with full-text search.
 - [Faved](https://openaltfinder.com/tools/faved) - Free open-source self-hosted bookmark manager with customizable nested tags, fast search, and local data storage.
@@ -469,6 +473,15 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [calrs](https://openaltfinder.com/tools/calrs) - A fast, self-hostable scheduling platform written in Rust, like Cal.com but without Node.js or a database server.
+
+
+#### RSS Readers
+
+
+- [CommaFeed](https://openaltfinder.com/tools/commafeed) - Self-hosted RSS reader inspired by Google Reader — organize, read and subscribe to your favorite feeds on your own server.
+- [eilmeldung](https://openaltfinder.com/tools/eilmeldung) - A fast, vim-inspired terminal RSS reader with a powerful query language, zen mode, and support for Feedly, Inoreader, Miniflux, FreshRSS and more.
+- [Refeed](https://openaltfinder.com/tools/refeed) - Modern self-hosted RSS reader with timed bookmarks, smart filters, in-article notes, and a built-in newsletter-to-RSS converter.
+- [Tiny Tiny RSS](https://openaltfinder.com/tools/tiny-tiny-rss) - Long-running self-hosted RSS/Atom feed reader and aggregator, originally created in 2005 and now maintained at github.com/tt-rss/tt-rss.
 
 
 ### Food & Cooking
@@ -789,6 +802,15 @@ Want to contribute? See [Contributing](#contributing).
 - [AdventureLog](https://openaltfinder.com/tools/adventurelog) - Self-hostable travel tracker and trip planner with interactive world map, itineraries, GPX trails, and Immich/Strava integrations.
 
 
+### Project Management
+
+
+#### Task Management
+
+
+- [Vikunja](https://openaltfinder.com/tools/vikunja) - Self-hosted, open-source task manager with lists, kanban boards, Gantt charts, reminders, and CalDAV — a free alternative to Todoist.
+
+
 ### Image Hosting
 
 
@@ -843,6 +865,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Social Networking
 
 
+- [Bowrd](https://openaltfinder.com/tools/bowrd) - Open-source visual bookmarking: save images to boards, follow Fediverse accounts, and share collections — no ads, no algorithm.
 - [textlog](https://openaltfinder.com/tools/textlog) - A small, open-source microblogging platform for short notes, following people and hashtags, without engagement tricks.
 
 
