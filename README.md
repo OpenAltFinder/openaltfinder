@@ -40,6 +40,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Web Browsers](#web-browsers)
   - [Appointment Scheduling](#appointment-scheduling)
   - [RSS Readers](#rss-readers)
+  - [Mind Mapping](#mind-mapping)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -184,6 +185,7 @@ Want to contribute? See [Contributing](#contributing).
 - [OpenStatus](https://openaltfinder.com/tools/openstatus) - Open-source uptime monitoring and status page platform with synthetic checks from 28 global regions and multi-channel alerting.
 - [Pingflare](https://openaltfinder.com/tools/pingflare) - Pingflare is a self-hosted uptime monitoring stack built natively for Cloudflare Workers. Get fast global checks, instant alerts, and a beautiful status page on your own domain.
 - [ReJourney](https://openaltfinder.com/tools/rejourney) - Lightweight open-source observability tool with pixel-perfect session replay, real-time error detection, and journey mapping for web and mobile apps.
+- [Rootprint](https://openaltfinder.com/tools/rootprint) - Open-source, self-hosted log management with full-text search on object storage, OpenTelemetry ingestion, and team access control.
 - [SigNoz](https://openaltfinder.com/tools/signoz) - Open-source observability platform with logs, traces, and metrics — an alternative to Datadog and New Relic.
 - [Uptime Kuma](https://openaltfinder.com/tools/uptime-kuma) - Self-hosted uptime monitoring tool with a polished UI, 90+ notification integrations, and built-in public status pages.
 - [UptimeKit](https://openaltfinder.com/tools/uptimekit) - UptimeKit is a distributed monitoring and status page platform with fault-tolerant architecture. Watch services worldwide and keep users informed at a glance with clean public pages.
@@ -482,6 +484,12 @@ Want to contribute? See [Contributing](#contributing).
 - [eilmeldung](https://openaltfinder.com/tools/eilmeldung) - A fast, vim-inspired terminal RSS reader with a powerful query language, zen mode, and support for Feedly, Inoreader, Miniflux, FreshRSS and more.
 - [Refeed](https://openaltfinder.com/tools/refeed) - Modern self-hosted RSS reader with timed bookmarks, smart filters, in-article notes, and a built-in newsletter-to-RSS converter.
 - [Tiny Tiny RSS](https://openaltfinder.com/tools/tiny-tiny-rss) - Long-running self-hosted RSS/Atom feed reader and aggregator, originally created in 2005 and now maintained at github.com/tt-rss/tt-rss.
+
+
+#### Mind Mapping
+
+
+- [Freeplane](https://openaltfinder.com/tools/freeplane) - Free, open source mind mapping and knowledge management desktop app for Windows, macOS and Linux with scripting, LaTeX and add-ons.
 
 
 ### Food & Cooking
