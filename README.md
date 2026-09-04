@@ -245,6 +245,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Music Player
 
 
+- [DroppedNeedle](https://openaltfinder.com/tools/droppedneedle) - Self-hosted music request and discovery server that drives your own download clients, verifies every file, and shelves it in a library you own.
 - [Meelo](https://openaltfinder.com/tools/meelo) - Self-hosted music server focused on metadata integration and UI, with music videos as first-class citizens and mobile apps for Android and iOS.
 - [Noctis](https://openaltfinder.com/tools/noctis) - Cross-platform lossless music player with rich library management, synced lyrics, and gapless playback for Windows, macOS, and Linux.
 - [Sunoh](https://openaltfinder.com/tools/sunoh) - Android music app that plays YouTube Music, Gaana and Saavn plus your local files through one ad-free interface.
@@ -254,6 +255,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Aurral](https://openaltfinder.com/tools/aurral) - Open-source self-hosted music discovery and playlist companion for Lidarr with personalised recommendations, playlist automation, and multi-user support.
+- [DroppedNeedle](https://openaltfinder.com/tools/droppedneedle) - Self-hosted music request and discovery server that drives your own download clients, verifies every file, and shelves it in a library you own.
 
 
 ### Productivity & Utilities
