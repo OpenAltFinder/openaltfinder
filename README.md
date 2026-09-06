@@ -209,19 +209,23 @@ Want to contribute? See [Contributing](#contributing).
 - [Better-PaaS](https://openaltfinder.com/tools/better-paas) - Self-hostable PaaS for deploying full-stack apps and databases with zero downtime, auto HTTPS, and Docker support.
 - [CapRover](https://openaltfinder.com/tools/caprover) - CapRover is a scalable self-hosted PaaS with one-click apps, Docker Swarm clustering, automatic TLS, and a friendly web UI for deploying apps and databases in seconds.
 - [celld](https://openaltfinder.com/tools/celld) - Open-source daemon that runs Cloudflare Workers and Durable Objects on your own machines, with state stored in an S3-compatible bucket.
+- [Cloud in a Bottle](https://openaltfinder.com/tools/cloud-in-a-bottle) - Open-source platform that turns a server you control into a personal app cloud, deploying Git repos as containerized apps on your own domain.
 - [Coolify](https://openaltfinder.com/tools/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
 - [Dokku](https://openaltfinder.com/tools/dokku) - Docker-powered PaaS implementing the Heroku git-push workflow on your own server.
 - [Dokploy](https://openaltfinder.com/tools/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. 
 - [Kamal](https://openaltfinder.com/tools/kamal) - CLI deployment tool from 37signals for zero-downtime Docker container deployments.
 - [Komodo](https://openaltfinder.com/tools/komodo) - Open-source deployment and server management platform for running apps across many servers. Self-hostable alternative to Heroku, Vercel, and Railway.
+- [SelfPrivacy](https://openaltfinder.com/tools/selfprivacy) - Free app that turns a Hetzner or DigitalOcean VPS into your own private cloud, deploying email, Nextcloud, VPN, and more from Android or desktop.
 
 
 #### Personal Cloud
 
 
+- [Cloud in a Bottle](https://openaltfinder.com/tools/cloud-in-a-bottle) - Open-source platform that turns a server you control into a personal app cloud, deploying Git repos as containerized apps on your own domain.
 - [Foldergram](https://openaltfinder.com/tools/foldergram) - A self-hosted, Instagram-style photo and video gallery that serves your local folders as a beautiful feed.
 - [Olares](https://openaltfinder.com/tools/olares) - Olares is an open-source personal cloud OS to help you reclaim your data. Self-host apps, files, and AI services right on your own hardware with ease.
 - [OpenCloud](https://openaltfinder.com/tools/opencloud) - OpenCloud is an open-source platform for file management, sharing, and team collaboration. It's easy to deploy, fully self-hostable, and built for modern, privacy-first workflows.
+- [SelfPrivacy](https://openaltfinder.com/tools/selfprivacy) - Free app that turns a Hetzner or DigitalOcean VPS into your own private cloud, deploying email, Nextcloud, VPN, and more from Android or desktop.
 
 
 #### Search Tools
