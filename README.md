@@ -416,6 +416,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Clipboard Managers
 
 
+- [Clipboard Router](https://openaltfinder.com/tools/clipboard-router) - Open-source macOS clipboard manager with searchable history, ordered Paste Stack, text transforms, and an encrypted Vault for sensitive clips.
 - [Clipfield](https://openaltfinder.com/tools/clipfield) - A beautiful open source clipboard manager for macOS.
 
 
@@ -635,6 +636,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [AnyHabit](https://openaltfinder.com/tools/anyhabit) - A universal habit and tracking dashboard tailored for Raspberry Pi and Docker with a modern React frontend.
+- [Kadō](https://openaltfinder.com/tools/kado) - A privacy-first open source habit tracker for iPhone and iPad with a non-binary habit score, optional iCloud sync, and no account or subscription.
 - [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 - [Streak](https://openaltfinder.com/tools/streak) - Minimal, private, ad-free habit tracker for Android with streak tracking, focus sessions, and GitHub-style activity grids.
 
