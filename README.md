@@ -124,6 +124,7 @@ Want to contribute? See [Contributing](#contributing).
   - [App Analytics](#app-analytics)
   - [Data Visualization](#data-visualization)
   - [Web Analytics](#web-analytics)
+  - [Business Intelligence](#business-intelligence)
 - [Time & Task Management Tools](#time--task-management-tools)
   - [Self-Hosted Maps](#self-hosted-maps)
 
@@ -225,6 +226,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Foldergram](https://openaltfinder.com/tools/foldergram) - A self-hosted, Instagram-style photo and video gallery that serves your local folders as a beautiful feed.
 - [Olares](https://openaltfinder.com/tools/olares) - Olares is an open-source personal cloud OS to help you reclaim your data. Self-host apps, files, and AI services right on your own hardware with ease.
 - [OpenCloud](https://openaltfinder.com/tools/opencloud) - OpenCloud is an open-source platform for file management, sharing, and team collaboration. It's easy to deploy, fully self-hostable, and built for modern, privacy-first workflows.
+- [Runtipi](https://openaltfinder.com/tools/runtipi) - Open-source homeserver orchestrator that turns any Linux server or Raspberry Pi into a personal cloud with one-click installs for 270+ self-hosted apps.
 - [SelfPrivacy](https://openaltfinder.com/tools/selfprivacy) - Free app that turns a Hetzner or DigitalOcean VPS into your own private cloud, deploying email, Nextcloud, VPN, and more from Android or desktop.
 
 
@@ -1000,6 +1002,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Juggler](https://openaltfinder.com/tools/juggler) - A self-hostable, GUI-first AI coding agent with editable conversation trees, plugin-based tools, and multi-client sessions.
 - [MiMoCode](https://openaltfinder.com/tools/mimocode) - An open-source terminal-native AI coding agent with cross-session memory, multiple agents, and support for any LLM provider.
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
+- [Oh My Pi](https://openaltfinder.com/tools/oh-my-pi) - Open-source terminal coding agent with IDE intelligence — LSP renames, live debugging, and 60+ AI providers under an MIT license.
 - [Open Code Review](https://openaltfinder.com/tools/open-code-review) - Battle-tested AI code review agent with deterministic pipelines + LLM, fine-tuned security rules, and line-level comments.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is a powerful open-source AI coding agent that runs in your terminal, IDE, or desktop. It supports any model with full LSP integration, multi-session replay, and team-friendly workflows.
 - [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Open-source AI agent toolkit with an interactive coding agent CLI, unified multi-provider LLM API, and TUI libraries.
@@ -1067,6 +1070,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Draw.io](https://openaltfinder.com/tools/draw-io) -  draw.io is a JavaScript, client-side editor for general diagramming. 
 - [ExcaliDash](https://openaltfinder.com/tools/excali-dash) -  A self hosted dashboard and organizer for Excalidraw with live collaboration. 
+- [Metabase](https://openaltfinder.com/tools/metabase) - Open-source business intelligence tool for dashboards, self-serve analytics, and embedded analytics on top of your company databases.
 
 
 #### Web Analytics
@@ -1088,6 +1092,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Umami](https://openaltfinder.com/tools/umami) - Umami is a modern, privacy-focused alternative to Google Analytics. 
 - [Vemetric](https://openaltfinder.com/tools/vemetric) -  Simple, yet powerful Web- & Product Analytics. 
 - [Vince](https://openaltfinder.com/tools/vince) -  Self Hosted Alternative To Google Analytics 
+
+
+#### Business Intelligence
+
+
+- [Metabase](https://openaltfinder.com/tools/metabase) - Open-source business intelligence tool for dashboards, self-serve analytics, and embedded analytics on top of your company databases.
 
 
 ### Time & Task Management Tools
