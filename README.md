@@ -1,4 +1,4 @@
-# Open source alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Open source alternatives
 
 The contents of this repository are auto-generated daily from data provided by [OpenAltFinder](https://openaltfinder.com). Updates are performed automatically to ensure the list stays current with the latest tracked alternatives.
 
