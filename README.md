@@ -106,11 +106,14 @@ Want to contribute? See [Contributing](#contributing).
   - [Customer Relationship Management Tools](#customer-relationship-management-tools)
   - [Ecommerce software](#ecommerce-software)
   - [Event Management](#event-management)
+  - [ERP & Business Management](#erp--business-management)
 - [Video Editing Tools](#video-editing-tools)
   - [Video Subtitle Editors](#video-subtitle-editors)
   - [Web-based Video Editors](#web-based-video-editors)
 - [Authentication & Identity](#authentication--identity)
   - [Single Sign-On](#single-sign-on)
+- [Customer Communication Platforms](#customer-communication-platforms)
+  - [Changelog & Release Notes](#changelog--release-notes)
 - [Developer Tools](#developer-tools)
   - [API Development & Testing Tools](#api-development--testing-tools)
   - [AI Coding Agents](#ai-coding-agents)
@@ -125,8 +128,6 @@ Want to contribute? See [Contributing](#contributing).
   - [Data Visualization](#data-visualization)
   - [Web Analytics](#web-analytics)
   - [Business Intelligence](#business-intelligence)
-- [Time & Task Management Tools](#time--task-management-tools)
-  - [Self-Hosted Maps](#self-hosted-maps)
 
 
 ## Software
@@ -933,6 +934,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Comp AI](https://openaltfinder.com/tools/compai-crm) - Open-source, agentic-first CRM with a built-in research agent that books follow-ups, enriches contacts, and keeps your pipeline up to date.
 - [Dolibarr](https://openaltfinder.com/tools/dolibarr) - A free and open-source ERP and CRM platform for businesses, foundations, and freelancers of any size.
 - [EspoCRM](https://openaltfinder.com/tools/espocrm) - Open source CRM platform for managing contacts, leads, sales pipelines, and customer relationships.
+- [Ever Gauzy](https://openaltfinder.com/tools/ever-gauzy) - Open source ERP/CRM/HRM platform with time tracking, invoicing, payroll, and project management for teams and freelance networks.
 - [Frappe CRM](https://openaltfinder.com/tools/frappe-crm) - A modern, open-source CRM by the Frappe team, built for sales teams to manage leads and deals efficiently.
 - [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [Krayin CRM](https://openaltfinder.com/tools/krayin-crm) - A free and open-source Laravel CRM for SMEs and enterprises with full customer lifecycle management.
@@ -953,6 +955,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Chobble Tickets](https://openaltfinder.com/tools/chobble-tickets) - Open source ticketing system with zero per-attendee fees. Self-hostable on Deno with Stripe, Square, or SumUp, and end-to-end encrypted attendee data.
+
+
+#### ERP & Business Management
+
+
+- [Ever Gauzy](https://openaltfinder.com/tools/ever-gauzy) - Open source ERP/CRM/HRM platform with time tracking, invoicing, payroll, and project management for teams and freelance networks.
 
 
 ### Video Editing Tools
@@ -977,6 +985,15 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Authentik](https://openaltfinder.com/tools/authentik) - Open source identity provider and SSO solution that replaces Auth0 and Okta with a self-hostable, flexible authentication platform.
+
+
+### Customer Communication Platforms
+
+
+#### Changelog & Release Notes
+
+
+- [Openchangelog](https://openaltfinder.com/tools/openchangelog) - Self-hostable changelog website that renders your Markdown release notes from GitHub, GitLab, or Forgejo into a searchable product-updates site.
 
 
 ### Developer Tools
@@ -1098,17 +1115,6 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Metabase](https://openaltfinder.com/tools/metabase) - Open-source business intelligence tool for dashboards, self-serve analytics, and embedded analytics on top of your company databases.
-
-
-### Time & Task Management Tools
-
-
-#### Self-Hosted Maps
-
-
-- [CoMaps](https://openaltfinder.com/tools/comaps) - A community-led fork of Organic Maps. Free offline maps for Android and iOS with no ads, no tracking, and no data collection.
-- [Dawarich Atlas](https://openaltfinder.com/tools/dawarich-atlas) - Self-hostable OpenStreetMap stack with search, routing, POIs, and transit — a privacy-first Google Maps Platform alternative that runs on your own hardware.
-- [Organic Maps](https://openaltfinder.com/tools/organic-maps) - Free offline maps app for travelers, hikers, and cyclists using OpenStreetMap data. No ads, no tracking.
 
 
 
