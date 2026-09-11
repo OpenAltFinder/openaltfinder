@@ -41,6 +41,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Appointment Scheduling](#appointment-scheduling)
   - [RSS Readers](#rss-readers)
   - [Mind Mapping](#mind-mapping)
+  - [Time Tracking Software](#time-tracking-software)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -98,6 +99,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
   - [Social Networking](#social-networking)
+  - [Forums & Q&A](#forums--qa)
 - [Content & Publishing Tools](#content--publishing-tools)
   - [Internal Knowledge Base](#internal-knowledge-base)
   - [Wiki Software](#wiki-software)
@@ -253,6 +255,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [DroppedNeedle](https://openaltfinder.com/tools/droppedneedle) - Self-hosted music request and discovery server that drives your own download clients, verifies every file, and shelves it in a library you own.
+- [Helix](https://openaltfinder.com/tools/helix) - Self-hosted music player with Pandora-style stations, shared listening lobbies, and playlist imports, built on a Subsonic-compatible library.
 - [Meelo](https://openaltfinder.com/tools/meelo) - Self-hosted music server focused on metadata integration and UI, with music videos as first-class citizens and mobile apps for Android and iOS.
 - [Noctis](https://openaltfinder.com/tools/noctis) - Cross-platform lossless music player with rich library management, synced lyrics, and gapless playback for Windows, macOS, and Linux.
 - [Sunoh](https://openaltfinder.com/tools/sunoh) - Android music app that plays YouTube Music, Gaana and Saavn plus your local files through one ad-free interface.
@@ -263,6 +266,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Aurral](https://openaltfinder.com/tools/aurral) - Open-source self-hosted music discovery and playlist companion for Lidarr with personalised recommendations, playlist automation, and multi-user support.
 - [DroppedNeedle](https://openaltfinder.com/tools/droppedneedle) - Self-hosted music request and discovery server that drives your own download clients, verifies every file, and shelves it in a library you own.
+- [Helix](https://openaltfinder.com/tools/helix) - Self-hosted music player with Pandora-style stations, shared listening lobbies, and playlist imports, built on a Subsonic-compatible library.
 
 
 ### Productivity & Utilities
@@ -500,6 +504,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Freeplane](https://openaltfinder.com/tools/freeplane) - Free, open source mind mapping and knowledge management desktop app for Windows, macOS and Linux with scripting, LaTeX and add-ons.
+
+
+#### Time Tracking Software
+
+
+- [Dayflow](https://openaltfinder.com/tools/dayflow) - AI-powered Mac app that privately turns your screen activity into an automatic work journal and daily timeline.
 
 
 ### Food & Cooking
@@ -853,6 +863,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [AFFiNE](https://openaltfinder.com/tools/affine) - Open-source knowledge base combining note-taking, whiteboard, and project planning in one workspace.
+- [Apache Answer](https://openaltfinder.com/tools/apache-answer) - Open-source Q&A platform for communities, help centers, and internal team knowledge bases, with voting, reputation, and a plugin system.
 - [Focalboard](https://openaltfinder.com/tools/focalboard) - Focalboard is an open-source, self-hosted project management tool — a free alternative to Trello, Notion, and Asana for boards, docs, and team planning across every workflow.
 - [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model, connect your tools, and unify all your team's knowledge.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
@@ -888,12 +899,19 @@ Want to contribute? See [Contributing](#contributing).
 - [textlog](https://openaltfinder.com/tools/textlog) - A small, open-source microblogging platform for short notes, following people and hashtags, without engagement tricks.
 
 
+#### Forums & Q&A
+
+
+- [Apache Answer](https://openaltfinder.com/tools/apache-answer) - Open-source Q&A platform for communities, help centers, and internal team knowledge bases, with voting, reputation, and a plugin system.
+
+
 ### Content & Publishing Tools
 
 
 #### Internal Knowledge Base
 
 
+- [Apache Answer](https://openaltfinder.com/tools/apache-answer) - Open-source Q&A platform for communities, help centers, and internal team knowledge bases, with voting, reputation, and a plugin system.
 - [Docmost](https://openaltfinder.com/tools/docmost) - Open-source collaborative wiki and documentation platform, an alternative to Confluence and Notion.
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js is a modern, powerful open-source wiki app built on Node.js. Versioned, searchable, beautiful, and self-hosted — a knowledge base for any team, big or small.
 
