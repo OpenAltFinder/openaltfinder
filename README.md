@@ -109,6 +109,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Ecommerce software](#ecommerce-software)
   - [Event Management](#event-management)
   - [ERP & Business Management](#erp--business-management)
+  - [Employee Shift Scheduling](#employee-shift-scheduling)
 - [Video Editing Tools](#video-editing-tools)
   - [Video Subtitle Editors](#video-subtitle-editors)
   - [Web-based Video Editors](#web-based-video-editors)
@@ -120,6 +121,7 @@ Want to contribute? See [Contributing](#contributing).
   - [API Development & Testing Tools](#api-development--testing-tools)
   - [AI Coding Agents](#ai-coding-agents)
   - [Source Code Management](#source-code-management)
+  - [Code Editors & IDEs](#code-editors--ides)
 - [Podcasting](#podcasting)
   - [Podcast Apps](#podcast-apps)
 - [Marketing & Branding Tools](#marketing--branding-tools)
@@ -981,6 +983,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Ever Gauzy](https://openaltfinder.com/tools/ever-gauzy) - Open source ERP/CRM/HRM platform with time tracking, invoicing, payroll, and project management for teams and freelance networks.
 
 
+#### Employee Shift Scheduling
+
+
+- [BetterShift](https://openaltfinder.com/tools/bettershift) - Self-hosted shift management for teams: unlimited calendars, one-click shifts, sharing, external calendar sync, and ICS/PDF export.
+
+
 ### Video Editing Tools
 
 
@@ -1050,6 +1058,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Forgejo](https://openaltfinder.com/tools/forgejo) - A community-driven self-hosted Git forge, forked from Gitea, focused on software freedom and federation.
 - [Gitea](https://openaltfinder.com/tools/gitea) - Painless self-hosted all-in-one software development service with Git hosting, code review, CI/CD, and package registry.
+
+
+#### Code Editors & IDEs
+
+
+- [Rune](https://openaltfinder.com/tools/rune) - A fast, keyboard-driven, GPU-rendered IDE for macOS and Linux with terminals, LSP intelligence, debugging, and a built-in AI coding agent.
 
 
 ### Podcasting
