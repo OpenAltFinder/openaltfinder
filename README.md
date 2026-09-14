@@ -345,6 +345,7 @@ Want to contribute? See [Contributing](#contributing).
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [OpenKnowledge](https://openaltfinder.com/tools/openknowledge) - AI-native, local-first markdown editor and LLM wiki with built-in integrations for Claude, Codex, and other agents.
+- [Puppyone](https://openaltfinder.com/tools/puppyone) - Open source local-first editor for Markdown, docs, rich files, and AI agents — with built-in terminal and Git review.
 - [Quillpad](https://openaltfinder.com/tools/quillpad) - A free, open-source Android app for markdown notes and task lists with reminders, file attachments, and optional Nextcloud sync.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Scratch](https://openaltfinder.com/tools/scratch) - Scratch is a minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux. Plain text files, keyboard-driven, with no cloud lock-in or account required.
@@ -387,7 +388,9 @@ Want to contribute? See [Contributing](#contributing).
 - [ezBookkeeping](https://openaltfinder.com/tools/ezbookkeeping) - Lightweight, self-hosted personal finance and bookkeeping app with a mobile-friendly UI — an open alternative to Mint and YNAB.
 - [FinTrack](https://openaltfinder.com/tools/fintrack) - Open source personal finance platform for tracking accounts, transactions, and monthly budgets, with CSV imports. Self-host via Docker or AWS.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
+- [Renewlet](https://openaltfinder.com/tools/renewlet) - Self-hosted subscription tracker with timezone-aware reminders, budgets, spending insights, and ten notification channels.
 - [Securo](https://openaltfinder.com/tools/securo) - Open-source self-hosted personal finance manager with bank sync, multi-currency budgets, investments, splits, and an optional self-hosted AI assistant.
+- [Wallos](https://openaltfinder.com/tools/wallos) - Open-source, self-hosted subscription tracker for visualizing recurring expenses, managing budgets, and saving money.
 
 
 #### Ebook & Comic Readers
