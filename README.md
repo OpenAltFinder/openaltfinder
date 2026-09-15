@@ -390,6 +390,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
 - [Renewlet](https://openaltfinder.com/tools/renewlet) - Self-hosted subscription tracker with timezone-aware reminders, budgets, spending insights, and ten notification channels.
 - [Securo](https://openaltfinder.com/tools/securo) - Open-source self-hosted personal finance manager with bank sync, multi-currency budgets, investments, splits, and an optional self-hosted AI assistant.
+- [Sure](https://openaltfinder.com/tools/sure) - A community-maintained open-source personal finance app for tracking accounts, investments, budgets, and net worth.
 - [Wallos](https://openaltfinder.com/tools/wallos) - Open-source, self-hosted subscription tracker for visualizing recurring expenses, managing budgets, and saving money.
 
 
