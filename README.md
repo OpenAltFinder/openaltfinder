@@ -100,6 +100,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Team Chat & Messaging Tools](#team-chat--messaging-tools)
   - [Social Networking](#social-networking)
   - [Forums & Q&A](#forums--qa)
+  - [Phone & Dialer](#phone--dialer)
 - [Content & Publishing Tools](#content--publishing-tools)
   - [Internal Knowledge Base](#internal-knowledge-base)
   - [Wiki Software](#wiki-software)
@@ -909,6 +910,13 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Apache Answer](https://openaltfinder.com/tools/apache-answer) - Open-source Q&A platform for communities, help centers, and internal team knowledge bases, with voting, reputation, and a plugin system.
+
+
+#### Phone & Dialer
+
+
+- [Fossify Phone](https://openaltfinder.com/tools/fossify-phone) - Privacy-first Android dialer with call blocking, multi-SIM support, and no ads or tracking.
+- [NovaDial](https://openaltfinder.com/tools/novadial) - Modern Android dialer with built-in contacts, AMOLED themes, QR sharing, and dual-SIM support.
 
 
 ### Content & Publishing Tools
