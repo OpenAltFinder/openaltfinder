@@ -928,6 +928,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Apache Answer](https://openaltfinder.com/tools/apache-answer) - Open-source Q&A platform for communities, help centers, and internal team knowledge bases, with voting, reputation, and a plugin system.
 - [Docmost](https://openaltfinder.com/tools/docmost) - Open-source collaborative wiki and documentation platform, an alternative to Confluence and Notion.
 - [Wiki.js](https://openaltfinder.com/tools/wiki-js) - Wiki.js is a modern, powerful open-source wiki app built on Node.js. Versioned, searchable, beautiful, and self-hosted — a knowledge base for any team, big or small.
+- [XWiki](https://openaltfinder.com/tools/xwiki) - Open-source wiki platform for teams and enterprises, offering structured content, apps, and custom page development.
 
 
 #### Wiki Software
