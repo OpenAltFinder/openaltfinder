@@ -162,6 +162,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [BluFiles](https://openaltfinder.com/tools/blufiles) - Self-hosted file sharing and management platform with file transfers, pastes, collections, and a REST API.
+- [Cloudreve](https://openaltfinder.com/tools/cloudreve) - Self-hosted file management and sharing platform that unifies local disk and multiple cloud storage providers behind one web interface.
 - [Lychee](https://openaltfinder.com/tools/lychee) - Beautiful self-hosted photo management tool with a stunning web interface.
 - [Nextcloud](https://openaltfinder.com/tools/nextcloud) - The most popular self-hosted cloud platform for file storage, collaboration, and communication.
 - [OpenCloud](https://openaltfinder.com/tools/opencloud) - OpenCloud is an open-source platform for file management, sharing, and team collaboration. It's easy to deploy, fully self-hostable, and built for modern, privacy-first workflows.
@@ -679,6 +680,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Image Editing
 
 
+- [Compositor](https://openaltfinder.com/tools/compositor) - Compositor is a free, open-source Photoshop-style image editor built in Swift, native to macOS.
 - [Darktable](https://openaltfinder.com/tools/darktable) - Open source photography workflow application and raw developer for organizing, editing, and exporting large photo libraries.
 - [FerrumPix](https://openaltfinder.com/tools/ferrumpix) - Desktop photo manager and image editor for Linux, Windows, and macOS with RAW development, batch processing, and Immich/Nextcloud integration.
 - [GIMP](https://openaltfinder.com/tools/gimp) - GNU Image Manipulation Program — the venerable free, open source image editor and Adobe Photoshop alternative.
