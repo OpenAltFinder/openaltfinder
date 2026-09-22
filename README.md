@@ -42,6 +42,7 @@ Want to contribute? See [Contributing](#contributing).
   - [RSS Readers](#rss-readers)
   - [Mind Mapping](#mind-mapping)
   - [Time Tracking Software](#time-tracking-software)
+  - [Price Tracking](#price-tracking)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -56,6 +57,7 @@ Want to contribute? See [Contributing](#contributing).
   - [2FA Authentication](#2fa-authentication)
   - [Metadata Removal](#metadata-removal)
   - [Virtual Private Network](#virtual-private-network)
+  - [Spam & Bot Protection](#spam--bot-protection)
 - [Content Management System (CMS)](#content-management-system-cms)
   - [Headless CMS](#headless-cms)
   - [Page Builders](#page-builders)
@@ -520,6 +522,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Dayflow](https://openaltfinder.com/tools/dayflow) - AI-powered Mac app that privately turns your screen activity into an automatic work journal and daily timeline.
 
 
+#### Price Tracking
+
+
+- [PriceBuddy](https://openaltfinder.com/tools/pricebuddy) - Self-hosted price tracker that watches products from any store and alerts you when prices drop or stock returns.
+
+
 ### Food & Cooking
 
 
@@ -533,6 +541,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [CookTrace](https://openaltfinder.com/tools/cooktrace) - Self-hosted recipe, pantry, and cooking tracker with a PWA and native Android app — no telemetry, no cloud lock-in.
+- [Mealie](https://openaltfinder.com/tools/mealie) - Self-hosted recipe manager and meal planner that imports recipes from any URL and generates shopping lists.
 - [Tandoor Recipes](https://openaltfinder.com/tools/tandoor-recipes) - Self-hosted recipe manager for managing your digital recipe collection. Import, plan meals, build shopping lists, and collaborate with family.
 
 
@@ -611,6 +620,13 @@ Want to contribute? See [Contributing](#contributing).
 - [NetBird](https://openaltfinder.com/tools/netbird) - Self-hostable, zero-trust overlay network that combines a WireGuard-based mesh VPN with SSO, MFA, and granular access controls.
 - [OpenVPN](https://openaltfinder.com/tools/open-vpn) - OpenVPN is an open source VPN daemon 
 - [wg-easy](https://openaltfinder.com/tools/wg-easy) - The easiest way to run a self-hosted WireGuard VPN with a web-based admin UI, automatic client management, and one-liner deployment.
+
+
+#### Spam & Bot Protection
+
+
+- [ALTCHA](https://openaltfinder.com/tools/altcha) - Self-hosted, GDPR-compliant CAPTCHA alternative that stops spam with privacy-friendly proof-of-work challenges.
+- [Anubis](https://openaltfinder.com/tools/anubis) - Self-hosted reverse proxy that blocks AI scraper bots with a lightweight proof-of-work challenge.
 
 
 ### Content Management System (CMS)
