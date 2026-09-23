@@ -43,6 +43,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Mind Mapping](#mind-mapping)
   - [Time Tracking Software](#time-tracking-software)
   - [Price Tracking](#price-tracking)
+  - [Dictionaries & Translation Tools](#dictionaries--translation-tools)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -265,6 +266,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Meelo](https://openaltfinder.com/tools/meelo) - Self-hosted music server focused on metadata integration and UI, with music videos as first-class citizens and mobile apps for Android and iOS.
 - [Noctis](https://openaltfinder.com/tools/noctis) - Cross-platform lossless music player with rich library management, synced lyrics, and gapless playback for Windows, macOS, and Linux.
 - [Sunoh](https://openaltfinder.com/tools/sunoh) - Android music app that plays YouTube Music, Gaana and Saavn plus your local files through one ad-free interface.
+- [Yuzic](https://openaltfinder.com/tools/yuzic) - A free, open-source cross-platform music player for Navidrome, Jellyfin, Plex and other Subsonic-compatible servers.
 
 
 #### Music Discovery
@@ -528,6 +530,12 @@ Want to contribute? See [Contributing](#contributing).
 - [PriceBuddy](https://openaltfinder.com/tools/pricebuddy) - Self-hosted price tracker that watches products from any store and alerts you when prices drop or stock returns.
 
 
+#### Dictionaries & Translation Tools
+
+
+- [ODict](https://openaltfinder.com/tools/odict) - An open-source dictionary file format and toolchain with instant offline lookups, full-text search, and APIs for Rust, Python, and JavaScript.
+
+
 ### Food & Cooking
 
 
@@ -590,6 +598,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [NetBird](https://openaltfinder.com/tools/netbird) - Self-hostable, zero-trust overlay network that combines a WireGuard-based mesh VPN with SSO, MFA, and granular access controls.
+- [Obscura VPN](https://openaltfinder.com/tools/obscura-vpn) - Open-source two-party VPN that cryptographically prevents both Obscura and its exit hop from seeing your traffic.
 - [Pangolin](https://openaltfinder.com/tools/pangolin) - Self-hosted identity-aware reverse proxy that securely exposes private services via encrypted tunnels without opening inbound ports.
 - [Proxly](https://openaltfinder.com/tools/proxly) - A self-hosted tunneling tool — like ngrok, but on your own domain. Expose local dev servers through subdomains on your VPS. 
 
