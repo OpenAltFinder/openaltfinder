@@ -243,6 +243,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Search Tools
 
 
+- [4get](https://openaltfinder.com/tools/4get) - A self-hostable proxy search engine that queries DuckDuckGo, Brave, Google, Yandex and more without tracking.
 - [degoog](https://openaltfinder.com/tools/degoog) - Open-source, self-hosted search engine aggregator with a comprehensive plugin system.
 - [Langfuse](https://openaltfinder.com/tools/langfuse) - Open source LLM engineering platform for tracing, evaluating, monitoring, and managing prompts as an alternative to LangSmith and Helicone.
 - [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model, connect your tools, and unify all your team's knowledge.
@@ -533,6 +534,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Dictionaries & Translation Tools
 
 
+- [English Dictionary OpenSource](https://openaltfinder.com/tools/english-dictionary-opensource) - An open, queryable English dictionary dataset with 176,023 definitions in CSV, SQLite3, and MySQL formats.
 - [ODict](https://openaltfinder.com/tools/odict) - An open-source dictionary file format and toolchain with instant offline lookups, full-text search, and APIs for Rust, Python, and JavaScript.
 
 
@@ -671,7 +673,7 @@ Want to contribute? See [Contributing](#contributing).
 - [GymMane](https://openaltfinder.com/tools/gymmane) - Offline gym log for Android with a tap-the-muscle body map, 500+ animated exercises, rest timers, and no internet permission at all.
 - [LiftTrace](https://openaltfinder.com/tools/lifttrace) - LiftTrace is a self-hosted weightlifting tracker that runs in a single Docker container. AGPL-3.0, no telemetry, no cloud sync — your lifting data stays on your own hardware.
 - [OpenTracks](https://openaltfinder.com/tools/opentracks) - A privacy-focused sport tracking application for Android that records GPS tracks and supports Bluetooth sensors without any internet access or ads.
-- [RunnerUp](https://openaltfinder.com/tools/runnerup) - An open source run tracker for Android.
+- [RunnerUp](https://openaltfinder.com/tools/runnerup) - RunnerUp is a free, open source GPS run tracker for Android with audio cues, interval workouts, heart rate zones — no accounts or ads.
 - [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Track meals, workouts, water, and health metrics with AI-powered insights for the whole family. SparkyFitness is a self-hosted, privacy-friendly fitness tracker that puts you in control.
 - [Stronk](https://openaltfinder.com/tools/stronk) - Open-source weightlifting tracker — log workouts, sets, and reps with data stored locally. Free, privacy-respecting alternative to Hevy and Strong.
