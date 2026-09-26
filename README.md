@@ -714,6 +714,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Inkscape](https://openaltfinder.com/tools/inkscape) - Free, open source vector graphics editor for illustrations, logos, icons, and technical drawings — a strong alternative to Adobe Illustrator.
 - [Krita](https://openaltfinder.com/tools/krita) - Free, open source digital painting and illustration application that is a popular alternative to Photoshop and Procreate.
 - [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
+- [PhotoSuite](https://openaltfinder.com/tools/photosuite) - A free, open-source desktop image editor that replicates the Photoshop interface with 1:1 native PSD/PSB file compatibility.
 - [PixiEditor](https://openaltfinder.com/tools/pixieditor) - PixiEditor is a universal open-source 2D editor for pixel art, painting, vector graphics, and animation. Powerful tools wrapped in a modern, friendly interface for every creator.
 - [RawTherapee](https://openaltfinder.com/tools/rawtherapee) - Powerful, cross-platform open source raw photo processing program and a strong alternative to Adobe Lightroom.
 
