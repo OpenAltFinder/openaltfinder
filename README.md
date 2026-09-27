@@ -53,6 +53,7 @@ Want to contribute? See [Contributing](#contributing).
   - [LLM Fine-Tuning](#llm-fine-tuning)
   - [AI Summarization](#ai-summarization)
   - [AI Gateways & Model Routing](#ai-gateways--model-routing)
+  - [Voice AI & Speech Tools](#voice-ai--speech-tools)
 - [Security & Privacy Tools](#security--privacy-tools)
   - [Secure Tunnels](#secure-tunnels)
   - [2FA Authentication](#2fa-authentication)
@@ -591,6 +592,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Experiential](https://openaltfinder.com/tools/experiential) - Open source AI gateway and router that exposes hosted, BYOK, local, and custom models through one OpenAI-compatible API.
+
+
+#### Voice AI & Speech Tools
+
+
+- [VoiceStudio](https://openaltfinder.com/tools/voicestudio) - Fully local voice cloning, dubbing, dictation, and transcription in one desktop app - an open-source ElevenLabs replacement.
 
 
 ### Security & Privacy Tools
