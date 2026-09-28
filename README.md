@@ -291,6 +291,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Keeweb](https://openaltfinder.com/tools/keeweb) - Free cross-platform password manager compatible with KeePass, available as a desktop and web app.
 - [Passbolt](https://openaltfinder.com/tools/passbolt) - Open-source, security-first password manager designed for teams. End-to-end encryption, granular access control, and self-hostable.
 - [PearPass](https://openaltfinder.com/tools/pearpass) - Privacy-first, peer-to-peer password manager with end-to-end encryption and no central servers.
+- [RavenPass](https://openaltfinder.com/tools/ravenpass) - Local-first, end-to-end encrypted password manager with passkeys, TOTP codes and native autofill. No account required, no telemetry.
 - [TeamPass](https://openaltfinder.com/tools/teampass) - Self-hosted collaborative password manager for teams. Organize and share credentials with role-based access control.
 - [Vaultwarden](https://openaltfinder.com/tools/vaultwarden) - Vaultwarden is an unofficial, Bitwarden-compatible server written in Rust. Self-host your password vault with low resource use and full compatibility with all Bitwarden clients.
 
@@ -620,6 +621,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Ente](https://openaltfinder.com/tools/ente) - Open-source, end-to-end encrypted cloud for photos, videos, and 2FA secrets — a privacy-first Google Photos and iCloud Photos alternative.
 - [Open Authenticator](https://openaltfinder.com/tools/open-authenticator) - Free, open-source cross-platform TOTP authenticator with self-hostable sync backend, built with Flutter.
 - [OTPHub](https://openaltfinder.com/tools/otphub) - Simple OTP app for desktop and mobile.
+- [RavenPass](https://openaltfinder.com/tools/ravenpass) - Local-first, end-to-end encrypted password manager with passkeys, TOTP codes and native autofill. No account required, no telemetry.
 - [Toofer](https://openaltfinder.com/tools/toofer) - Toofer is a local-first, web-based two-factor authentication app that stores your TOTP secrets directly in your browser. Private, simple, fully offline.
 - [Trezur](https://openaltfinder.com/tools/trezur) - Fast, secure, light-weight web-app to generate TOTP and HOTP tokens.
 
