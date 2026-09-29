@@ -302,7 +302,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Apache Airflow](https://openaltfinder.com/tools/apache-airflow) - Apache Airflow is a platform to programmatically author, schedule, and monitor complex workflows. Build pipelines as code and orchestrate your data jobs with rich observability.
 - [Automa](https://openaltfinder.com/tools/automa) - Browser extension that automates repetitive web tasks by visually connecting blocks — no code required.
 - [Automatisch](https://openaltfinder.com/tools/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. 
-- [Flowise](https://openaltfinder.com/tools/flowise) - Flowise is an open-source, visual, low-code/no-code tool designed to help users build AI agents and sophisticated LLM-powered workflows through a drag-and-drop interface. It features a Node.js backend and a React frontend, along with modular components for integrations and API documentation—making it accessible to both developers and non-technical users.
+- [Flowise](https://openaltfinder.com/tools/flowise) - Open source, drag-and-drop builder for AI agents and LLM workflows. Now archived (EOL Aug 2026) — the Apache 2.0 code lives on for forks and self-hosters.
 - [Huginn](https://openaltfinder.com/tools/huginn) - Self-hosted automation platform for building agents that monitor and act on your behalf — a hackable, open source alternative to IFTTT and Zapier.
 - [Kestra](https://openaltfinder.com/tools/kestra) - Event-driven workflow orchestration platform with a YAML-based pipeline DSL, 500+ plugins, and a built-in UI editor.
 - [Lightpanda](https://openaltfinder.com/tools/lightpanda) - A headless browser built from scratch in Zig, optimised for AI agents and automation with 9x less memory and 11x faster execution than Chrome.
@@ -573,7 +573,9 @@ Want to contribute? See [Contributing](#contributing).
 #### AI Agent Builders
 
 
+- [Dify](https://openaltfinder.com/tools/dify) - Open LLM app platform with visual workflows, RAG pipeline, agents and model management. Deploy self-hosted, in your VPC, or on Dify Cloud.
 - [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
+- [Langflow](https://openaltfinder.com/tools/langflow) - Visually build and deploy AI agents and workflows in Python, with built-in API and MCP servers. MIT-licensed and backed by DataStax.
 - [Sim](https://openaltfinder.com/tools/sim) - Sim is an open-source workspace to build, deploy, and orchestrate AI agents and agentic workflows. Visually connect LLMs, tools, and data sources without giving up control.
 
 
