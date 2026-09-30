@@ -17,6 +17,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Personal Cloud](#personal-cloud)
   - [Search Tools](#search-tools)
   - [Web Servers](#web-servers)
+  - [Private Cloud Platforms](#private-cloud-platforms)
 - [Media Players](#media-players)
   - [Music Player](#music-player)
   - [Music Discovery](#music-discovery)
@@ -255,6 +256,13 @@ Want to contribute? See [Contributing](#contributing).
 #### Web Servers
 
 
+
+
+#### Private Cloud Platforms
+
+
+- [Olares](https://openaltfinder.com/tools/olares) - Olares is an open-source personal cloud OS to help you reclaim your data. Self-host apps, files, and AI services right on your own hardware with ease.
+- [Spinifex](https://openaltfinder.com/tools/spinifex) - Open-source AWS-compatible cloud platform that runs EC2, S3, EBS, VPC, and IAM APIs on your own bare-metal servers.
 
 
 ### Media Players
