@@ -357,6 +357,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Jotty](https://openaltfinder.com/tools/jotty) - Lightweight self-hosted app for managing personal file-based notes and checklists.
 - [Journal](https://openaltfinder.com/tools/journal) - Journal is a simple self-hosted journal and blog API written in Go, using SQLite for storage. Build custom clients, capture daily entries, and own your writing on your own server.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
+- [LaTeX Autofill](https://openaltfinder.com/tools/latex-autofill) - An Obsidian plugin that provides IDE-style LaTeX autocomplete with English and Chinese keyword search for math formulas.
 - [Many Notes](https://openaltfinder.com/tools/many-notes) - A Markdown note-taking web application designed for simplicity with vaults, collaboration, and PWA support.
 - [memos](https://openaltfinder.com/tools/memos) - Privacy-first, self-hosted note-taking platform with markdown support, tagging, and built-in AI — a lightweight alternative to Notion and Obsidian.
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
@@ -936,6 +937,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Delta Chat](https://openaltfinder.com/tools/delta-chat) - Decentralized private messenger using email infrastructure for secure, end-to-end encrypted communication.
 - [Discourse](https://openaltfinder.com/tools/discourse) - Open source community forum platform combining long-form discussion, real-time chat, and strong moderation. Self-host it or use managed hosting.
 - [Element](https://openaltfinder.com/tools/element) - Open-source Matrix client for secure, decentralized messaging, voice, and video — runs on your own server.
+- [Fluxer](https://openaltfinder.com/tools/fluxer) - A free and open source instant messaging and VoIP chat app for friends, groups, and communities.
 - [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [Linen](https://openaltfinder.com/tools/linen) - Lightweight, Google-searchable open source Slack and Discord alternative designed for online communities.
 - [Mattermost](https://openaltfinder.com/tools/mattermost) -  Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. 
