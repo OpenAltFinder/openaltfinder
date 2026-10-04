@@ -119,6 +119,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Video Editing Tools](#video-editing-tools)
   - [Video Subtitle Editors](#video-subtitle-editors)
   - [Web-based Video Editors](#web-based-video-editors)
+  - [Video Cutters & Splitters](#video-cutters--splitters)
 - [Authentication & Identity](#authentication--identity)
   - [Single Sign-On](#single-sign-on)
 - [Customer Communication Platforms](#customer-communication-platforms)
@@ -1066,6 +1067,13 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [tscaps](https://openaltfinder.com/tools/tscaps) - Open-source, in-browser video editor focused on subtitles and short-form content. Transcribe with Whisper, style with CSS, export burned-in captions.
+
+
+#### Video Cutters & Splitters
+
+
+- [Chop Chop Splitter](https://openaltfinder.com/tools/chop-chop-splitter) - Frame-accurate video cutter and splitter for Ubuntu and Windows that re-encodes only a few frames per cut.
+- [LosslessCut](https://openaltfinder.com/tools/losslesscut) - Cross-platform FFmpeg GUI for lossless video and audio cutting, merging and remuxing — no re-encoding, no quality loss.
 
 
 ### Authentication & Identity
