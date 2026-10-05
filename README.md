@@ -18,6 +18,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Search Tools](#search-tools)
   - [Web Servers](#web-servers)
   - [Private Cloud Platforms](#private-cloud-platforms)
+  - [IT Asset Management](#it-asset-management)
 - [Media Players](#media-players)
   - [Music Player](#music-player)
   - [Music Discovery](#music-discovery)
@@ -74,6 +75,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Marketing & Branding Tools](#marketing--branding-tools)
   - [Social Media Content Creation](#social-media-content-creation)
   - [Video Editing Tools](#video-editing-tools)
+  - [Desktop Publishing](#desktop-publishing)
 - [Image Editing](#image-editing)
   - [Background Removal](#background-removal)
 - [Finance & Investing Tools](#finance--investing-tools)
@@ -120,6 +122,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Video Subtitle Editors](#video-subtitle-editors)
   - [Web-based Video Editors](#web-based-video-editors)
   - [Video Cutters & Splitters](#video-cutters--splitters)
+  - [Motion Graphics](#motion-graphics)
 - [Authentication & Identity](#authentication--identity)
   - [Single Sign-On](#single-sign-on)
 - [Customer Communication Platforms](#customer-communication-platforms)
@@ -266,6 +269,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Spinifex](https://openaltfinder.com/tools/spinifex) - Open-source AWS-compatible cloud platform that runs EC2, S3, EBS, VPC, and IAM APIs on your own bare-metal servers.
 
 
+#### IT Asset Management
+
+
+- [LicenseTrack](https://openaltfinder.com/tools/licensetrack) - Self-hosted software license procurement and lifecycle tracking: requests, quotes, purchases, renewals, vendors, documents, and audit history.
+
+
 ### Media Players
 
 
@@ -384,6 +393,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Koodo Reader](https://openaltfinder.com/tools/koodo-reader) - Cross-platform ebook reader supporting PDF, EPUB, MOBI, comics and more, with sync across Windows, macOS, Linux, Android, iOS, and Web.
 - [Logseq](https://openaltfinder.com/tools/logseq) - Privacy-first, open source knowledge management and note-taking platform that is a powerful Roam Research and Obsidian alternative.
 - [PdfDing](https://openaltfinder.com/tools/pdfding) - Self-hosted PDF manager, viewer, and editor with multi-device sync, tagging, and an in-browser reader; deployable via Docker.
+- [PrintCraft](https://openaltfinder.com/tools/printcraft) - Open-source PDF workbench in pure Rust — read, organize, combine, split, comment and secure PDFs.
 - [Pympress](https://openaltfinder.com/tools/pympress) - Lightweight GTK PDF presenter for dual-screen setups, showing current slide, next slide, and presenter notes on separate displays.
 - [Sioyek](https://openaltfinder.com/tools/sioyek) - Cross-platform PDF viewer focused on textbooks and research papers with smart navigation, marks, bookmarks, and bibliography jumping.
 - [Standard Notes](https://openaltfinder.com/tools/standard-notes) - End-to-end encrypted, open source notes app that is a privacy-focused alternative to Evernote, Notion, and Apple Notes.
@@ -734,10 +744,13 @@ Want to contribute? See [Contributing](#contributing).
 - [GIMP](https://openaltfinder.com/tools/gimp) - GNU Image Manipulation Program — the venerable free, open source image editor and Adobe Photoshop alternative.
 - [Inkscape](https://openaltfinder.com/tools/inkscape) - Free, open source vector graphics editor for illustrations, logos, icons, and technical drawings — a strong alternative to Adobe Illustrator.
 - [Krita](https://openaltfinder.com/tools/krita) - Free, open source digital painting and illustration application that is a popular alternative to Photoshop and Procreate.
+- [LightCraft](https://openaltfinder.com/tools/lightcraft) - Open-source, clean-room reimplementation of Adobe Lightroom in Rust — photo library and raw development, local-first.
 - [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
+- [PhotoCraft](https://openaltfinder.com/tools/photocraft) - Open-source, clean-room reimplementation of Adobe Photoshop in pure Rust — layers, masks, adjustments and real PSD files.
 - [PhotoSuite](https://openaltfinder.com/tools/photosuite) - A free, open-source desktop image editor that replicates the Photoshop interface with 1:1 native PSD/PSB file compatibility.
 - [PixiEditor](https://openaltfinder.com/tools/pixieditor) - PixiEditor is a universal open-source 2D editor for pixel art, painting, vector graphics, and animation. Powerful tools wrapped in a modern, friendly interface for every creator.
 - [RawTherapee](https://openaltfinder.com/tools/rawtherapee) - Powerful, cross-platform open source raw photo processing program and a strong alternative to Adobe Lightroom.
+- [VectorCraft](https://openaltfinder.com/tools/vectorcraft) - Open-source, clean-room take on the Adobe Illustrator workflow, built in pure Rust for desktop and web.
 
 
 #### Marketing & Branding Tools
@@ -759,6 +772,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Drift](https://openaltfinder.com/tools/drift) - Free, open-source desktop video editor for Linux, Windows, and macOS built with Qt 6 and FFmpeg.
 - [FableCut](https://openaltfinder.com/tools/fablecut) - FableCut is a zero-dependency, browser-based video editor designed for humans and AI agents. Drive edits via JSON timelines, the MCP protocol, or a clean REST API on any platform.
+- [FilmCraft](https://openaltfinder.com/tools/filmcraft) - Open-source, clean-room reimplementation of Adobe Premiere Pro in Rust — editing, colour, captions and export.
 - [Kdenlive](https://openaltfinder.com/tools/kdenlive) - Free and open source multi-track video editor built on MLT Framework and KDE technologies.
 - [Olive](https://openaltfinder.com/tools/olive) - Free open-source non-linear video editor with hardware-accelerated compositing and cross-platform support.
 - [Open Video Craft](https://openaltfinder.com/tools/open-video-craft) - Open-source, local-first screen recorder and timeline video editor for macOS and Windows with AI subtitle generation.
@@ -766,6 +780,12 @@ Want to contribute? See [Contributing](#contributing).
 - [OpenShot Video Editor](https://openaltfinder.com/tools/openshot) - OpenShot is a free, open-source video editor for Linux, macOS, and Windows with unlimited tracks, keyframe animation, and 3D titles.
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 - [WolfCut](https://openaltfinder.com/tools/wolfcut) - An open-source desktop video editor that mirrors the CapCut workflow without watermarks, paywalls, or account requirements.
+
+
+#### Desktop Publishing
+
+
+- [DesignCraft](https://openaltfinder.com/tools/designcraft) - Open-source, clean-room reimplementation of Adobe InDesign in Rust — page layout and publishing.
 
 
 ### Image Editing
@@ -1074,6 +1094,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Chop Chop Splitter](https://openaltfinder.com/tools/chop-chop-splitter) - Frame-accurate video cutter and splitter for Ubuntu and Windows that re-encodes only a few frames per cut.
 - [LosslessCut](https://openaltfinder.com/tools/losslesscut) - Cross-platform FFmpeg GUI for lossless video and audio cutting, merging and remuxing — no re-encoding, no quality loss.
+
+
+#### Motion Graphics
+
+
+- [EffectCraft](https://openaltfinder.com/tools/effectcraft) - Open-source motion graphics and VFX compositor in Rust — a clean-room challenger to Adobe After Effects.
 
 
 ### Authentication & Identity
