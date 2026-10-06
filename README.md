@@ -19,6 +19,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Web Servers](#web-servers)
   - [Private Cloud Platforms](#private-cloud-platforms)
   - [IT Asset Management](#it-asset-management)
+  - [Secrets Management](#secrets-management)
 - [Media Players](#media-players)
   - [Music Player](#music-player)
   - [Music Discovery](#music-discovery)
@@ -118,6 +119,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Event Management](#event-management)
   - [ERP & Business Management](#erp--business-management)
   - [Employee Shift Scheduling](#employee-shift-scheduling)
+  - [Ticketing](#ticketing)
 - [Video Editing Tools](#video-editing-tools)
   - [Video Subtitle Editors](#video-subtitle-editors)
   - [Web-based Video Editors](#web-based-video-editors)
@@ -273,6 +275,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [LicenseTrack](https://openaltfinder.com/tools/licensetrack) - Self-hosted software license procurement and lifecycle tracking: requests, quotes, purchases, renewals, vendors, documents, and audit history.
+
+
+#### Secrets Management
+
+
+- [Sealed Secrets](https://openaltfinder.com/tools/sealed-secrets) - Encrypt Kubernetes Secrets into SealedSecrets that are safe to store in Git, decrypted only by a controller in your cluster.
 
 
 ### Media Players
@@ -1060,6 +1068,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Chobble Tickets](https://openaltfinder.com/tools/chobble-tickets) - Open source ticketing system with zero per-attendee fees. Self-hostable on Deno with Stripe, Square, or SumUp, and end-to-end encrypted attendee data.
+- [Event Schedule](https://openaltfinder.com/tools/event-schedule) - Open-source event calendar and ticketing platform with no platform fees on ticket sales.
 
 
 #### ERP & Business Management
@@ -1072,6 +1081,13 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [BetterShift](https://openaltfinder.com/tools/bettershift) - Self-hosted shift management for teams: unlimited calendars, one-click shifts, sharing, external calendar sync, and ICS/PDF export.
+
+
+#### Ticketing
+
+
+- [Chobble Tickets](https://openaltfinder.com/tools/chobble-tickets) - Open source ticketing system with zero per-attendee fees. Self-hostable on Deno with Stripe, Square, or SumUp, and end-to-end encrypted attendee data.
+- [Event Schedule](https://openaltfinder.com/tools/event-schedule) - Open-source event calendar and ticketing platform with no platform fees on ticket sales.
 
 
 ### Video Editing Tools
