@@ -385,7 +385,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Quillpad](https://openaltfinder.com/tools/quillpad) - A free, open-source Android app for markdown notes and task lists with reminders, file attachments, and optional Nextcloud sync.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Scratch](https://openaltfinder.com/tools/scratch) - Scratch is a minimalist, offline-first markdown note-taking app for macOS, Windows, and Linux. Plain text files, keyboard-driven, with no cloud lock-in or account required.
-- [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Markdown-based note-taking app with powerful live queries, templates, and a pluggable scripting system for power users.
+- [SilverBullet](https://openaltfinder.com/tools/silverbullet) - Self-hosted, programmable knowledge base: plain Markdown notes with live queries, backlinks, and an embedded Lua scripting runtime.
 - [Speakr](https://openaltfinder.com/tools/speakr) - Self-hosted AI transcription and intelligent note-taking platform that turns audio recordings into organized, searchable notes with speaker identification.
 - [TriliumNext Notes](https://openaltfinder.com/tools/trilium-next-notes) - Hierarchical personal knowledge base with powerful note-taking, rich text editing, and scripting capabilities.
 
@@ -773,13 +773,14 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. It's a privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports you can run anywhere.
+- [OpenPost](https://openaltfinder.com/tools/openpost) - Open-source social media manager for writing, designing, scheduling, and tracking posts — an alternative to Buffer, Canva, and CapCut.
 
 
 #### Video Editing Tools
 
 
 - [Drift](https://openaltfinder.com/tools/drift) - Free, open-source desktop video editor for Linux, Windows, and macOS built with Qt 6 and FFmpeg.
-- [FableCut](https://openaltfinder.com/tools/fablecut) - FableCut is a zero-dependency, browser-based video editor designed for humans and AI agents. Drive edits via JSON timelines, the MCP protocol, or a clean REST API on any platform.
+- [FableCut](https://openaltfinder.com/tools/fablecut) - A browser-based video editor built for humans and AI agents. Edit with a drag-and-drop UI, a JSON timeline, MCP tools, or its REST API.
 - [FilmCraft](https://openaltfinder.com/tools/filmcraft) - Open-source, clean-room reimplementation of Adobe Premiere Pro in Rust — editing, colour, captions and export.
 - [Kdenlive](https://openaltfinder.com/tools/kdenlive) - Free and open source multi-track video editor built on MLT Framework and KDE technologies.
 - [Olive](https://openaltfinder.com/tools/olive) - Free open-source non-linear video editor with hardware-accelerated compositing and cross-platform support.
@@ -1102,6 +1103,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Web-based Video Editors
 
 
+- [OpenPost](https://openaltfinder.com/tools/openpost) - Open-source social media manager for writing, designing, scheduling, and tracking posts — an alternative to Buffer, Canva, and CapCut.
 - [tscaps](https://openaltfinder.com/tools/tscaps) - Open-source, in-browser video editor focused on subtitles and short-form content. Transcribe with Whisper, style with CSS, export burned-in captions.
 
 
@@ -1212,6 +1214,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Forms.md](https://openaltfinder.com/tools/forms-md) - Developer-first open source Typeform alternative (formerly Blocks.md) with Markdown-defined forms and native Google Sheets integration.
 - [Mautic](https://openaltfinder.com/tools/mautic) - Open-source marketing automation platform with email campaigns, lead management, and multi-channel marketing.
+- [OpenPost](https://openaltfinder.com/tools/openpost) - Open-source social media manager for writing, designing, scheduling, and tracking posts — an alternative to Buffer, Canva, and CapCut.
 - [Postiz](https://openaltfinder.com/tools/postiz) - Open-source social media scheduler with AI assistance, cross-platform posting, and team collaboration — self-hostable alternative to Buffer and Hootsuite.
 - [Quill Forms](https://openaltfinder.com/tools/quillforms) - Open source React-based Typeform alternative for building conversational multi-step forms, surveys, and quizzes.
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
