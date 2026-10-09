@@ -406,6 +406,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Sioyek](https://openaltfinder.com/tools/sioyek) - Cross-platform PDF viewer focused on textbooks and research papers with smart navigation, marks, bookmarks, and bibliography jumping.
 - [Standard Notes](https://openaltfinder.com/tools/standard-notes) - End-to-end encrypted, open source notes app that is a privacy-focused alternative to Evernote, Notion, and Apple Notes.
 - [SumatraPDF](https://openaltfinder.com/tools/sumatrapdf) - Lightweight, free PDF, eBook, and comic reader for Windows that launches instantly and stays out of the way; multi-format support with minimal interface.
+- [word-sys PDF Editor](https://openaltfinder.com/tools/word-sys-pdf-editor) - A free, open-source PDF editor for Linux that lets you edit text, images and objects, merge documents, and export to DOCX, PPTX and more.
 
 
 #### Game Management Tools
@@ -605,6 +606,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
 - [Langflow](https://openaltfinder.com/tools/langflow) - Visually build and deploy AI agents and workflows in Python, with built-in API and MCP servers. MIT-licensed and backed by DataStax.
 - [Sim](https://openaltfinder.com/tools/sim) - Sim is an open-source workspace to build, deploy, and orchestrate AI agents and agentic workflows. Visually connect LLMs, tools, and data sources without giving up control.
+- [Tale](https://openaltfinder.com/tools/tale) - Open-source workspace where teams and AI agents plan tasks, run them in sandboxes, and review results together.
 
 
 #### LLM Fine-Tuning
@@ -924,6 +926,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Task Management
 
 
+- [Tale](https://openaltfinder.com/tools/tale) - Open-source workspace where teams and AI agents plan tasks, run them in sandboxes, and review results together.
 - [Vikunja](https://openaltfinder.com/tools/vikunja) - Self-hosted, open-source task manager with lists, kanban boards, Gantt charts, reminders, and CalDAV — a free alternative to Todoist.
 
 
