@@ -47,6 +47,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Time Tracking Software](#time-tracking-software)
   - [Price Tracking](#price-tracking)
   - [Dictionaries & Translation Tools](#dictionaries--translation-tools)
+  - [Study & Flashcard Tools](#study--flashcard-tools)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -378,6 +379,7 @@ Want to contribute? See [Contributing](#contributing).
 - [LaTeX Autofill](https://openaltfinder.com/tools/latex-autofill) - An Obsidian plugin that provides IDE-style LaTeX autocomplete with English and Chinese keyword search for math formulas.
 - [Many Notes](https://openaltfinder.com/tools/many-notes) - A Markdown note-taking web application designed for simplicity with vaults, collaboration, and PWA support.
 - [memos](https://openaltfinder.com/tools/memos) - Privacy-first, self-hosted note-taking platform with markdown support, tagging, and built-in AI — a lightweight alternative to Notion and Obsidian.
+- [Mnemo](https://openaltfinder.com/tools/mnemo) - Mnemo is a free, open-source desktop study app combining block-based notes, FSRS flashcards, and mind maps with no accounts or tracking.
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [OpenKnowledge](https://openaltfinder.com/tools/openknowledge) - AI-native, local-first markdown editor and LLM wiki with built-in integrations for Claude, Codex, and other agents.
@@ -396,6 +398,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Anytype](https://openaltfinder.com/tools/anytype) - Local-first, end-to-end encrypted alternative to Notion that lets you build a private knowledge base, docs, and tasks with no central server.
 - [AppFlowy](https://openaltfinder.com/tools/appflowy) - Open source Notion alternative that brings projects, wikis, and teams together with AI while keeping you in control of your data.
 - [Colanode](https://openaltfinder.com/tools/colanode) - Open source, local-first Slack and Notion alternative that puts you in control of your data with offline support and end-to-end encryption.
+- [DartPDF](https://openaltfinder.com/tools/dartpdf) - A free, local PDF editor for mobile, desktop, and web. Annotate, fill forms, sign, and redact with no account or uploads.
 - [EmbedPDF](https://openaltfinder.com/tools/embed-pdf) - A PDF viewer that seamlessly integrates with any JavaScript project 
 - [KillerPDF](https://openaltfinder.com/tools/killerpdf) - KillerPDF is a lightweight, fully portable PDF editor for Windows. Edit, merge, annotate, and sign PDFs locally with no subscription, accounts, or hidden telemetry anywhere on your computer.
 - [Koodo Reader](https://openaltfinder.com/tools/koodo-reader) - Cross-platform ebook reader supporting PDF, EPUB, MOBI, comics and more, with sync across Windows, macOS, Linux, Android, iOS, and Web.
@@ -426,6 +429,7 @@ Want to contribute? See [Contributing](#contributing).
 - [ezBookkeeping](https://openaltfinder.com/tools/ezbookkeeping) - Lightweight, self-hosted personal finance and bookkeeping app with a mobile-friendly UI — an open alternative to Mint and YNAB.
 - [FinTrack](https://openaltfinder.com/tools/fintrack) - Open source personal finance platform for tracking accounts, transactions, and monthly budgets, with CSV imports. Self-host via Docker or AWS.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
+- [FlyBudget](https://openaltfinder.com/tools/flybudget) - A free, local-first budgeting app with zero-based planning, bank sync, and desktop and self-hosted apps.
 - [Renewlet](https://openaltfinder.com/tools/renewlet) - Self-hosted subscription tracker with timezone-aware reminders, budgets, spending insights, and ten notification channels.
 - [Securo](https://openaltfinder.com/tools/securo) - Open-source self-hosted personal finance manager with bank sync, multi-currency budgets, investments, splits, and an optional self-hosted AI assistant.
 - [Sure](https://openaltfinder.com/tools/sure) - A community-maintained open-source personal finance app for tracking accounts, investments, budgets, and net worth.
@@ -548,6 +552,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Freeplane](https://openaltfinder.com/tools/freeplane) - Free, open source mind mapping and knowledge management desktop app for Windows, macOS and Linux with scripting, LaTeX and add-ons.
+- [Mnemo](https://openaltfinder.com/tools/mnemo) - Mnemo is a free, open-source desktop study app combining block-based notes, FSRS flashcards, and mind maps with no accounts or tracking.
 
 
 #### Time Tracking Software
@@ -567,6 +572,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [English Dictionary OpenSource](https://openaltfinder.com/tools/english-dictionary-opensource) - An open, queryable English dictionary dataset with 176,023 definitions in CSV, SQLite3, and MySQL formats.
 - [ODict](https://openaltfinder.com/tools/odict) - An open-source dictionary file format and toolchain with instant offline lookups, full-text search, and APIs for Rust, Python, and JavaScript.
+
+
+#### Study & Flashcard Tools
+
+
+- [Mnemo](https://openaltfinder.com/tools/mnemo) - Mnemo is a free, open-source desktop study app combining block-based notes, FSRS flashcards, and mind maps with no accounts or tracking.
 
 
 ### Food & Cooking
