@@ -140,6 +140,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Marketing & Branding Tools](#marketing--branding-tools)
   - [Email Marketing & Newsletters Tools](#email-marketing--newsletters-tools)
   - [Marketing Automation](#marketing-automation)
+  - [App Store Screenshot Tools](#app-store-screenshot-tools)
 - [Data & Analytics](#data--analytics)
   - [App Analytics](#app-analytics)
   - [Data Visualization](#data-visualization)
@@ -1234,6 +1235,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
 - [TellForm](https://openaltfinder.com/tools/tellform) - Open source Typeform and Google Forms alternative for building beautiful conversational forms and surveys.
 - [TryPost](https://openaltfinder.com/tools/trypost) - Open-source social media scheduling platform — a self-hosted alternative to Buffer, Hootsuite, and Later for agencies and creators.
+
+
+#### App Store Screenshot Tools
+
+
+- [App Store Screenshots Generator](https://openaltfinder.com/tools/app-store-screenshots) - An open-source AI agent skill that builds a local Next.js editor for App Store and Google Play screenshots with device frames and store-size exports.
 
 
 ### Data & Analytics
