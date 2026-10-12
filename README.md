@@ -48,6 +48,8 @@ Want to contribute? See [Contributing](#contributing).
   - [Price Tracking](#price-tracking)
   - [Dictionaries & Translation Tools](#dictionaries--translation-tools)
   - [Study & Flashcard Tools](#study--flashcard-tools)
+  - [Word Processing](#word-processing)
+  - [Spreadsheets](#spreadsheets)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -404,8 +406,8 @@ Want to contribute? See [Contributing](#contributing).
 - [KillerPDF](https://openaltfinder.com/tools/killerpdf) - KillerPDF is a lightweight, fully portable PDF editor for Windows. Edit, merge, annotate, and sign PDFs locally with no subscription, accounts, or hidden telemetry anywhere on your computer.
 - [Koodo Reader](https://openaltfinder.com/tools/koodo-reader) - Cross-platform ebook reader supporting PDF, EPUB, MOBI, comics and more, with sync across Windows, macOS, Linux, Android, iOS, and Web.
 - [Logseq](https://openaltfinder.com/tools/logseq) - Privacy-first, open source knowledge management and note-taking platform that is a powerful Roam Research and Obsidian alternative.
+- [PdfCraft](https://openaltfinder.com/tools/pdfcraft) - Open-source PDF workbench in pure Rust — read, organize, combine, split, comment and secure PDFs.
 - [PdfDing](https://openaltfinder.com/tools/pdfding) - Self-hosted PDF manager, viewer, and editor with multi-device sync, tagging, and an in-browser reader; deployable via Docker.
-- [PrintCraft](https://openaltfinder.com/tools/printcraft) - Open-source PDF workbench in pure Rust — read, organize, combine, split, comment and secure PDFs.
 - [Pympress](https://openaltfinder.com/tools/pympress) - Lightweight GTK PDF presenter for dual-screen setups, showing current slide, next slide, and presenter notes on separate displays.
 - [Sioyek](https://openaltfinder.com/tools/sioyek) - Cross-platform PDF viewer focused on textbooks and research papers with smart navigation, marks, bookmarks, and bibliography jumping.
 - [Standard Notes](https://openaltfinder.com/tools/standard-notes) - End-to-end encrypted, open source notes app that is a privacy-focused alternative to Evernote, Notion, and Apple Notes.
@@ -579,6 +581,18 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Mnemo](https://openaltfinder.com/tools/mnemo) - Mnemo is a free, open-source desktop study app combining block-based notes, FSRS flashcards, and mind maps with no accounts or tracking.
+
+
+#### Word Processing
+
+
+- [WordCraft](https://openaltfinder.com/tools/wordcraft) - Open-source Word-style word processor in pure Rust — ribbon, styles, tables, track changes and mail merge.
+
+
+#### Spreadsheets
+
+
+- [GridCraft](https://openaltfinder.com/tools/gridcraft) - Open-source Excel-style spreadsheet in pure Rust — formulas, dynamic arrays, PivotTables, charts and XLSX round-trip.
 
 
 ### Food & Cooking
@@ -1234,7 +1248,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Quill Forms](https://openaltfinder.com/tools/quillforms) - Open source React-based Typeform alternative for building conversational multi-step forms, surveys, and quizzes.
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
 - [TellForm](https://openaltfinder.com/tools/tellform) - Open source Typeform and Google Forms alternative for building beautiful conversational forms and surveys.
-- [TryPost](https://openaltfinder.com/tools/trypost) - Open-source social media scheduling platform — a self-hosted alternative to Buffer, Hootsuite, and Later for agencies and creators.
+- [TryPost](https://openaltfinder.com/tools/trypost) - Open-source social media scheduler. Self-hosted Buffer alternative with AI agents, native publishing to 12 networks, and first-class MCP support.
 
 
 #### App Store Screenshot Tools
