@@ -178,6 +178,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [BluFiles](https://openaltfinder.com/tools/blufiles) - Self-hosted file sharing and management platform with file transfers, pastes, collections, and a REST API.
 - [Cloudreve](https://openaltfinder.com/tools/cloudreve) - Self-hosted file management and sharing platform that unifies local disk and multiple cloud storage providers behind one web interface.
+- [FileBrowser Quantum](https://openaltfinder.com/tools/filebrowser-quantum) - A fast, self-hosted web file manager with multi-source browsing, granular permissions, and WebDAV access to your own storage.
 - [Lychee](https://openaltfinder.com/tools/lychee) - Beautiful self-hosted photo management tool with a stunning web interface.
 - [Nextcloud](https://openaltfinder.com/tools/nextcloud) - The most popular self-hosted cloud platform for file storage, collaboration, and communication.
 - [OpenCloud](https://openaltfinder.com/tools/opencloud) - OpenCloud is an open-source platform for file management, sharing, and team collaboration. It's easy to deploy, fully self-hostable, and built for modern, privacy-first workflows.
@@ -496,6 +497,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Kanboard](https://openaltfinder.com/tools/kanboard) - Free, open source Kanban project management software focused on simplicity and visual task tracking.
 - [Kaneo](https://openaltfinder.com/tools/kaneo) - Minimal self-hosted project management with kanban boards and issue tracking — no bloat, no subscriptions.
 - [Mindwtr](https://openaltfinder.com/tools/mindwtr) - Open-source Getting Things Done (GTD) app for desktop and mobile — capture every task, then focus on the next action.
+- [Mitra](https://openaltfinder.com/tools/mitra) - A self-hosted calendar and task planner in one, with two-way CalDAV, Google Calendar, and Apple Calendar sync.
 - [OpenProject](https://openaltfinder.com/tools/openproject) - OpenProject is open-source project management software for agile teams. A powerful alternative to Jira, Asana, Trello, and Monday.com — fully self-hosted and free to use.
 - [Plane](https://openaltfinder.com/tools/plane) - Open-source project management platform — an alternative to Jira, Linear, Monday, and ClickUp.
 - [Scrumboy](https://openaltfinder.com/tools/scrumboy) - Self-hosted Kanban and scrum project management tool with real-time collaboration, sprints, and anonymous shareable boards.
@@ -1244,7 +1246,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Forms.md](https://openaltfinder.com/tools/forms-md) - Developer-first open source Typeform alternative (formerly Blocks.md) with Markdown-defined forms and native Google Sheets integration.
 - [Mautic](https://openaltfinder.com/tools/mautic) - Open-source marketing automation platform with email campaigns, lead management, and multi-channel marketing.
 - [OpenPost](https://openaltfinder.com/tools/openpost) - Open-source social media manager for writing, designing, scheduling, and tracking posts — an alternative to Buffer, Canva, and CapCut.
-- [Postiz](https://openaltfinder.com/tools/postiz) - Open-source social media scheduler with AI assistance, cross-platform posting, and team collaboration — self-hostable alternative to Buffer and Hootsuite.
+- [Postiz](https://openaltfinder.com/tools/postiz) - Agentic open-source social media scheduler: AI agents plan, generate, and post to 30+ networks from one calendar. Self-hostable Buffer/Hootsuite alternative.
 - [Quill Forms](https://openaltfinder.com/tools/quillforms) - Open source React-based Typeform alternative for building conversational multi-step forms, surveys, and quizzes.
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
 - [TellForm](https://openaltfinder.com/tools/tellform) - Open source Typeform and Google Forms alternative for building beautiful conversational forms and surveys.
