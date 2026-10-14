@@ -50,6 +50,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Study & Flashcard Tools](#study--flashcard-tools)
   - [Word Processing](#word-processing)
   - [Spreadsheets](#spreadsheets)
+  - [Inventory Management](#inventory-management)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -66,6 +67,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Metadata Removal](#metadata-removal)
   - [Virtual Private Network](#virtual-private-network)
   - [Spam & Bot Protection](#spam--bot-protection)
+  - [Penetration Testing](#penetration-testing)
 - [Content Management System (CMS)](#content-management-system-cms)
   - [Headless CMS](#headless-cms)
   - [Page Builders](#page-builders)
@@ -234,7 +236,7 @@ Want to contribute? See [Contributing](#contributing).
 - [CapRover](https://openaltfinder.com/tools/caprover) - CapRover is a scalable self-hosted PaaS with one-click apps, Docker Swarm clustering, automatic TLS, and a friendly web UI for deploying apps and databases in seconds.
 - [celld](https://openaltfinder.com/tools/celld) - Open-source daemon that runs Cloudflare Workers and Durable Objects on your own machines, with state stored in an S3-compatible bucket.
 - [Cloud in a Bottle](https://openaltfinder.com/tools/cloud-in-a-bottle) - Open-source platform that turns a server you control into a personal app cloud, deploying Git repos as containerized apps on your own domain.
-- [Coolify](https://openaltfinder.com/tools/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
+- [Coolify](https://openaltfinder.com/tools/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify — deploy apps, databases and one-click services on your own servers.
 - [Dokku](https://openaltfinder.com/tools/dokku) - Docker-powered PaaS implementing the Heroku git-push workflow on your own server.
 - [Dokploy](https://openaltfinder.com/tools/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. 
 - [Kamal](https://openaltfinder.com/tools/kamal) - CLI deployment tool from 37signals for zero-downtime Docker container deployments.
@@ -551,6 +553,7 @@ Want to contribute? See [Contributing](#contributing).
 - [eilmeldung](https://openaltfinder.com/tools/eilmeldung) - A fast, vim-inspired terminal RSS reader with a powerful query language, zen mode, and support for Feedly, Inoreader, Miniflux, FreshRSS and more.
 - [Refeed](https://openaltfinder.com/tools/refeed) - Modern self-hosted RSS reader with timed bookmarks, smart filters, in-article notes, and a built-in newsletter-to-RSS converter.
 - [Tiny Tiny RSS](https://openaltfinder.com/tools/tiny-tiny-rss) - Long-running self-hosted RSS/Atom feed reader and aggregator, originally created in 2005 and now maintained at github.com/tt-rss/tt-rss.
+- [WyrmRSS](https://openaltfinder.com/tools/wyrmrss) - Self-hosted RSS reader with feed discovery, YouTube support, folders, filters and webhooks. Self-host on web, or use the native desktop app.
 
 
 #### Mind Mapping
@@ -595,6 +598,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [GridCraft](https://openaltfinder.com/tools/gridcraft) - Open-source Excel-style spreadsheet in pure Rust — formulas, dynamic arrays, PivotTables, charts and XLSX round-trip.
+
+
+#### Inventory Management
+
+
+- [OpenInvento](https://openaltfinder.com/tools/openinvento) - Self-hosted inventory manager for households, homelabs, and small businesses. Free for non-commercial use.
 
 
 ### Food & Cooking
@@ -707,6 +716,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [ALTCHA](https://openaltfinder.com/tools/altcha) - Self-hosted, GDPR-compliant CAPTCHA alternative that stops spam with privacy-friendly proof-of-work challenges.
 - [Anubis](https://openaltfinder.com/tools/anubis) - Self-hosted reverse proxy that blocks AI scraper bots with a lightweight proof-of-work challenge.
+
+
+#### Penetration Testing
+
+
+- [Strix](https://openaltfinder.com/tools/strix) - Open-source AI pentest agents that run real attacks to find, validate, and fix vulnerabilities in your apps.
 
 
 ### Content Management System (CMS)
