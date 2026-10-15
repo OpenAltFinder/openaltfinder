@@ -752,6 +752,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [CubeTrek](https://openaltfinder.com/tools/cubetrek) - Open-source GPS track manager with 3D topography visualization for outdoor activities.
+- [Dreeve](https://openaltfinder.com/tools/dreeve) - Self-hosted dashboard that turns your Strava and FIT/TCX/GPX activity data into deep stats, heatmaps and gear tracking.
 - [Endurain](https://openaltfinder.com/tools/endurain) - Self-hosted fitness tracking service for running, cycling, and more with full data control.
 - [Geo Activity Playground](https://openaltfinder.com/tools/geo-activity-playground) - Geo Activity Playground is a self-hosted data analysis and visualization tool for GPS-tracked outdoor activities. Explore routes, heatmaps, and detailed stats from every device.
 - [GymMane](https://openaltfinder.com/tools/gymmane) - Offline gym log for Android with a tap-the-muscle body map, 500+ animated exercises, rest timers, and no internet permission at all.
@@ -817,6 +818,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Social Media Content Creation
 
 
+- [Doory](https://openaltfinder.com/tools/doory) - Open-source browser design editor for posters, social posts and slides, with templates, real-time co-editing and PNG, SVG, PDF and video exports.
 - [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. It's a privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports you can run anywhere.
 - [OpenPost](https://openaltfinder.com/tools/openpost) - Open-source social media manager for writing, designing, scheduling, and tracking posts — an alternative to Buffer, Canva, and CapCut.
 
@@ -840,6 +842,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [DesignCraft](https://openaltfinder.com/tools/designcraft) - Open-source, clean-room reimplementation of Adobe InDesign in Rust — page layout and publishing.
+- [Doory](https://openaltfinder.com/tools/doory) - Open-source browser design editor for posters, social posts and slides, with templates, real-time co-editing and PNG, SVG, PDF and video exports.
 
 
 ### Image Editing
