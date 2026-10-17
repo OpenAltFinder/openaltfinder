@@ -620,7 +620,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [CookTrace](https://openaltfinder.com/tools/cooktrace) - Self-hosted recipe, pantry, and cooking tracker with a PWA and native Android app — no telemetry, no cloud lock-in.
 - [Mealie](https://openaltfinder.com/tools/mealie) - Self-hosted recipe manager and meal planner that imports recipes from any URL and generates shopping lists.
-- [Tandoor Recipes](https://openaltfinder.com/tools/tandoor-recipes) - Self-hosted recipe manager for managing your digital recipe collection. Import, plan meals, build shopping lists, and collaborate with family.
+- [Tandoor Recipes](https://openaltfinder.com/tools/tandoor-recipes) - Open-source, self-hosted recipe manager — import from any website, plan meals, build shopping lists and cook with family. Free alternative to Paprika.
 
 
 ### AI & Machine Learning
@@ -761,7 +761,7 @@ Want to contribute? See [Contributing](#contributing).
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - RunnerUp is a free, open source GPS run tracker for Android with audio cues, interval workouts, heart rate zones — no accounts or ads.
 - [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Track meals, workouts, water, and health metrics with AI-powered insights for the whole family. SparkyFitness is a self-hosted, privacy-friendly fitness tracker that puts you in control.
-- [Stronk](https://openaltfinder.com/tools/stronk) - Open-source weightlifting tracker — log workouts, sets, and reps with data stored locally. Free, privacy-respecting alternative to Hevy and Strong.
+- [Stronk](https://openaltfinder.com/tools/stronk) - Free, open-source weightlifting tracker for logging lifts, sets and reps — a private, installable web app and alternative to Hevy and Strong.
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
 
 
@@ -819,6 +819,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Doory](https://openaltfinder.com/tools/doory) - Open-source browser design editor for posters, social posts and slides, with templates, real-time co-editing and PNG, SVG, PDF and video exports.
+- [HyCanvas](https://openaltfinder.com/tools/hycanvas) - Open-source AI-native design platform for social graphics, presentations, video, and whiteboards. Self-hosted, with no paywalls or watermarks.
 - [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. It's a privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports you can run anywhere.
 - [OpenPost](https://openaltfinder.com/tools/openpost) - Open-source social media manager for writing, designing, scheduling, and tracking posts — an alternative to Buffer, Canva, and CapCut.
 
