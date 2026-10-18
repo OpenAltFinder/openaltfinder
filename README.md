@@ -504,6 +504,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Plane](https://openaltfinder.com/tools/plane) - Open-source project management platform — an alternative to Jira, Linear, Monday, and ClickUp.
 - [Scrumboy](https://openaltfinder.com/tools/scrumboy) - Self-hosted Kanban and scrum project management tool with real-time collaboration, sprints, and anonymous shareable boards.
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
+- [Super Productivity](https://openaltfinder.com/tools/super-productivity) - Open-source to-do list and time tracker with timeboxing, a daily planner, Pomodoro focus sessions, and integrations for Jira, GitHub, and GitLab.
 - [TaskTrove](https://openaltfinder.com/tools/task-trove) - Take Back Control of Your Productivity
 - [TaskView](https://openaltfinder.com/tools/taskview) - Self-hosted project and task management platform with Kanban boards, sprints, time tracking, and AI/MCP integrations for software teams.
 - [tududi](https://openaltfinder.com/tools/tududi) - Self-hosted task management that combines personal todo lists with powerful project organization. Built for individuals and teams who value privacy and control.
@@ -517,6 +518,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 - [Kimai](https://openaltfinder.com/tools/kimai) - Open source time-tracking application for freelancers, teams, and organisations, with timesheets, invoicing, and detailed reports.
 - [Solidtime](https://openaltfinder.com/tools/solidtime) - Modern, open source time-tracking app for freelancers and teams with project, client, task, and reporting features.
+- [Super Productivity](https://openaltfinder.com/tools/super-productivity) - Open-source to-do list and time tracker with timeboxing, a daily planner, Pomodoro focus sessions, and integrations for Jira, GitHub, and GitLab.
 - [TimeTracker](https://openaltfinder.com/tools/time-tracker) - A robust, self-hosted time tracking application designed for teams and freelancers who need reliable time management without cloud dependencies. Built with Flask and optimized for Raspberry Pi deployment, TimeTracker provides persistent timers, comprehensive reporting, and a modern web interface.
 
 
@@ -973,6 +975,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Task Management
 
 
+- [Super Productivity](https://openaltfinder.com/tools/super-productivity) - Open-source to-do list and time tracker with timeboxing, a daily planner, Pomodoro focus sessions, and integrations for Jira, GitHub, and GitLab.
 - [Tale](https://openaltfinder.com/tools/tale) - Open-source workspace where teams and AI agents plan tasks, run them in sandboxes, and review results together.
 - [Vikunja](https://openaltfinder.com/tools/vikunja) - Self-hosted, open-source task manager with lists, kanban boards, Gantt charts, reminders, and CalDAV — a free alternative to Todoist.
 
