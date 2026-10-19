@@ -68,6 +68,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Virtual Private Network](#virtual-private-network)
   - [Spam & Bot Protection](#spam--bot-protection)
   - [Penetration Testing](#penetration-testing)
+  - [AI Agent Security](#ai-agent-security)
 - [Content Management System (CMS)](#content-management-system-cms)
   - [Headless CMS](#headless-cms)
   - [Page Builders](#page-builders)
@@ -82,6 +83,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Social Media Content Creation](#social-media-content-creation)
   - [Video Editing Tools](#video-editing-tools)
   - [Desktop Publishing](#desktop-publishing)
+  - [UI & UX Design Tools](#ui--ux-design-tools)
 - [Image Editing](#image-editing)
   - [Background Removal](#background-removal)
 - [Finance & Investing Tools](#finance--investing-tools)
@@ -726,6 +728,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Strix](https://openaltfinder.com/tools/strix) - Open-source AI pentest agents that run real attacks to find, validate, and fix vulnerabilities in your apps.
 
 
+#### AI Agent Security
+
+
+- [HOL Guard](https://openaltfinder.com/tools/hol-guard) - Local-first antivirus for AI agents that blocks risky commands, secret access, prompt injection, malicious packages, and MCP threats at runtime.
+
+
 ### Content Management System (CMS)
 
 
@@ -733,8 +741,8 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [CometCMS](https://openaltfinder.com/tools/cometcms) - Headless, simple CMS with a PHP backend and a convenient Vue admin frontend.
-- [Directus](https://openaltfinder.com/tools/directus) -  The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. 
-- [Payload](https://openaltfinder.com/tools/payload) - Payload is an open-source, TypeScript-first headless CMS and application framework built on Next.js, Express, and React.
+- [Directus](https://openaltfinder.com/tools/directus) - Source-available headless CMS and backend that turns any SQL database into REST and GraphQL APIs with a no-code admin Studio.
+- [Payload](https://openaltfinder.com/tools/payload) - Open-source, TypeScript-first headless CMS and app framework that runs natively in Next.js with a code-defined backend and admin UI.
 - [Strapi](https://openaltfinder.com/tools/strapi) - Open-source headless CMS built with JavaScript and TypeScript — fully customizable and developer-first. Self-hostable alternative to WordPress and Contentful.
 - [TinaCMS](https://openaltfinder.com/tools/tinacms) - A fully open-source headless CMS with Git support, Markdown editing, and live visual preview for React-based sites.
 - [WollyCMS](https://openaltfinder.com/tools/wollycms) - Self-hosted, open-source headless CMS built specifically for Astro.js with a block-based page builder.
@@ -846,6 +854,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [DesignCraft](https://openaltfinder.com/tools/designcraft) - Open-source, clean-room reimplementation of Adobe InDesign in Rust — page layout and publishing.
 - [Doory](https://openaltfinder.com/tools/doory) - Open-source browser design editor for posters, social posts and slides, with templates, real-time co-editing and PNG, SVG, PDF and video exports.
+
+
+#### UI & UX Design Tools
+
+
+- [Penpot](https://openaltfinder.com/tools/penpot) - Open-source design and prototyping platform with native design tokens, real CSS layouts and self-hosting — a strong Figma alternative.
 
 
 ### Image Editing
@@ -975,6 +989,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Task Management
 
 
+- [Doska](https://openaltfinder.com/tools/doska) - Local-first kanban app with Markdown cards, offline support, and an optional self-hosted sync server with SSO and MCP.
 - [Super Productivity](https://openaltfinder.com/tools/super-productivity) - Open-source to-do list and time tracker with timeboxing, a daily planner, Pomodoro focus sessions, and integrations for Jira, GitHub, and GitLab.
 - [Tale](https://openaltfinder.com/tools/tale) - Open-source workspace where teams and AI agents plan tasks, run them in sandboxes, and review results together.
 - [Vikunja](https://openaltfinder.com/tools/vikunja) - Self-hosted, open-source task manager with lists, kanban boards, Gantt charts, reminders, and CalDAV — a free alternative to Todoist.
@@ -1309,7 +1324,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Open Web Analytics](https://openaltfinder.com/tools/open-web-analytics) - Self-hosted web analytics platform for tracking website traffic without compromising user privacy.
 - [OpenPanel](https://openaltfinder.com/tools/open-panel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. 
 - [OpenReplay](https://openaltfinder.com/tools/openreplay) - Self-hostable session replay, cobrowsing, and product analytics platform that is a strong open source alternative to Hotjar and FullStory.
-- [Plausible](https://openaltfinder.com/tools/plausible) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. 
+- [Plausible](https://openaltfinder.com/tools/plausible) - Privacy-first, open-source web analytics with a cookieless script under 1 KB and EU hosting — a simpler Google Analytics alternative.
 - [PostHog](https://openaltfinder.com/tools/posthog) - Open-source product analytics with session recording, feature flags, and A/B testing — self-hostable. Replaces Google Analytics, Mixpanel, and Amplitude.
 - [Prisme Analytics](https://openaltfinder.com/tools/prisme-analytics) - High-perfomance, self-hosted and privacy-focused web analytics service. 
 - [Rybbit](https://openaltfinder.com/tools/rybbit) - Privacy-friendly, open-source web analytics platform that is a simpler alternative to Google Analytics.
