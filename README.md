@@ -1117,7 +1117,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Dolibarr](https://openaltfinder.com/tools/dolibarr) - A free and open-source ERP and CRM platform for businesses, foundations, and freelancers of any size.
 - [EspoCRM](https://openaltfinder.com/tools/espocrm) - Open source CRM platform for managing contacts, leads, sales pipelines, and customer relationships.
 - [Ever Gauzy](https://openaltfinder.com/tools/ever-gauzy) - Open source ERP/CRM/HRM platform with time tracking, invoicing, payroll, and project management for teams and freelance networks.
-- [Frappe CRM](https://openaltfinder.com/tools/frappe-crm) - A modern, open-source CRM by the Frappe team, built for sales teams to manage leads and deals efficiently.
+- [Frappe CRM](https://openaltfinder.com/tools/frappe-crm) - Open source CRM with unlimited users, built by the Frappe team for lead, deal and sales pipeline management.
 - [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [Krayin CRM](https://openaltfinder.com/tools/krayin-crm) - A free and open-source Laravel CRM for SMEs and enterprises with full customer lifecycle management.
 - [Relaticle](https://openaltfinder.com/tools/relaticle) - Open-source CRM with native AI agent support, 30 MCP tools, REST API, and self-hosting capabilities.
