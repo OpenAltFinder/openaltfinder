@@ -381,7 +381,7 @@ Want to contribute? See [Contributing](#contributing).
 - [HelixNotes](https://openaltfinder.com/tools/helixnotes) - A fast, privacy-first local markdown note-taking app built with Tauri and SvelteKit. Your notes stay as plain .md files on your device.
 - [Joplin](https://openaltfinder.com/tools/joplin) - Privacy-focused, open-source note-taking and to-do app with end-to-end encryption and multi-device sync.
 - [Jotted](https://openaltfinder.com/tools/jotted) - Self-hosted tasks and notes management with offline support, push reminders, and full-text search in a single Docker container.
-- [Jotty](https://openaltfinder.com/tools/jotty) - Lightweight self-hosted app for managing personal file-based notes and checklists.
+- [Jotty](https://openaltfinder.com/tools/jotty) - Self-hosted notes and checklists with markdown files, Kanban task projects, SSO, PGP encryption, and a REST API.
 - [Journal](https://openaltfinder.com/tools/journal) - Journal is a simple self-hosted journal and blog API written in Go, using SQLite for storage. Build custom clients, capture daily entries, and own your writing on your own server.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
 - [LaTeX Autofill](https://openaltfinder.com/tools/latex-autofill) - An Obsidian plugin that provides IDE-style LaTeX autocomplete with English and Chinese keyword search for math formulas.
@@ -431,9 +431,9 @@ Want to contribute? See [Contributing](#contributing).
 #### Budgeting Apps
 
 
-- [Actual Budget](https://openaltfinder.com/tools/actual-budget) - Fast, privacy-focused local-first personal finance app using zero-sum budgeting, with optional self-hosted sync.
+- [Actual Budget](https://openaltfinder.com/tools/actual-budget) - Local-first, open-source budgeting app with envelope budgets, bank imports, custom reports and optional self-hosted sync — free, no lock-in.
 - [Budget Board](https://openaltfinder.com/tools/budget-board) - Self-hosted budgeting app for tracking accounts, spending, and financial goals, with bank syncing via SimpleFIN and ML-powered auto-categorization.
-- [BudgetBee](https://openaltfinder.com/tools/budgetbee) - BudgetBee is a Docker-based, self-hosted personal finance manager. Track expenses, budgets, accounts, savings goals, and net worth with full data ownership and zero subscriptions.
+- [BudgetBee](https://openaltfinder.com/tools/budgetbee) - Self-hosted personal finance manager with budgets, expense tracking, net-worth reports, bank imports and auto-categorisation — all in Docker.
 - [ezBookkeeping](https://openaltfinder.com/tools/ezbookkeeping) - Lightweight, self-hosted personal finance and bookkeeping app with a mobile-friendly UI — an open alternative to Mint and YNAB.
 - [FinTrack](https://openaltfinder.com/tools/fintrack) - Open source personal finance platform for tracking accounts, transactions, and monthly budgets, with CSV imports. Self-host via Docker or AWS.
 - [Firefly III](https://openaltfinder.com/tools/firefly-iii) - Free and open-source personal finance manager with double-entry bookkeeping, budgets, and bank import support.
@@ -472,7 +472,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Personal CRM & Contact Management
 
 
-- [Meerkat CRM](https://openaltfinder.com/tools/meerkat-crm) - A lightweight, self-hosted CRM designed for personal life and relationship management.
+- [Meerkat CRM](https://openaltfinder.com/tools/meerkat-crm) - Self-hosted personal CRM for tracking contacts, relationships, birthdays, and reminders, built with Go and React.
 - [Monica](https://openaltfinder.com/tools/monica) - Personal CRM. Remember everything about your friends, family and business relationships. 
 
 
@@ -752,6 +752,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Craft.js](https://openaltfinder.com/tools/craft-js) - React framework for building extensible drag-and-drop page editors. Headless, framework-based approach with full plugin support.
+- [Frappe Builder](https://openaltfinder.com/tools/frappe-builder) - Open-source visual website builder with a Figma-like canvas, built-in Frappe CMS, one-click publishing and an AI page agent.
 - [Puck](https://openaltfinder.com/tools/puck) - Open-source visual editor for React. Drag-and-drop page builder with a component-based architecture and MIT license.
 
 
@@ -1042,7 +1043,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Mumble](https://openaltfinder.com/tools/mumble) - Low-latency, open-source voice chat built for gaming — self-host your own server with no subscription required.
 - [Quiet](https://openaltfinder.com/tools/quiet) - Private, peer-to-peer Slack and Discord alternative built on Tor and IPFS that needs no servers and no accounts.
 - [Raven](https://openaltfinder.com/tools/raven) -  Simple, open source team messaging platform 
-- [Rocket.Chat](https://openaltfinder.com/tools/rocket-chat) - The communications platform that puts data protection first. 
+- [Rocket.Chat](https://openaltfinder.com/tools/rocket-chat) - Self-hosted team chat with channels, threads, voice and video calls, federation, plus desktop and mobile apps.
 - [Sharkord](https://openaltfinder.com/tools/sharkord) - Self-hosted chat server with voice, video, text, and screen sharing — Discord-like features on your own infrastructure.
 - [Tinode](https://openaltfinder.com/tools/tinode) - Instant messaging platform with self-hosted backend in Go and clients for iOS, Android, web, and command line.
 - [Zulip](https://openaltfinder.com/tools/zulip) - Open-source team chat with a unique topic-based threading model that makes it easy to follow multiple conversations.
@@ -1112,17 +1113,17 @@ Want to contribute? See [Contributing](#contributing).
 #### Customer Relationship Management Tools
 
 
-- [Atomic CRM](https://openaltfinder.com/tools/atomic-crm) - A full-featured open-source CRM built with React, shadcn/ui, and Supabase for managing contacts, deals, tasks, and notes.
+- [Atomic CRM](https://openaltfinder.com/tools/atomic-crm) - Open source CRM built with React, Supabase, and shadcn/ui for contacts, deals, tasks, notes, and email capture.
 - [Comp AI](https://openaltfinder.com/tools/compai-crm) - Open-source, agentic-first CRM with a built-in research agent that books follow-ups, enriches contacts, and keeps your pipeline up to date.
 - [Dolibarr](https://openaltfinder.com/tools/dolibarr) - A free and open-source ERP and CRM platform for businesses, foundations, and freelancers of any size.
-- [EspoCRM](https://openaltfinder.com/tools/espocrm) - Open source CRM platform for managing contacts, leads, sales pipelines, and customer relationships.
+- [EspoCRM](https://openaltfinder.com/tools/espocrm) - Free, open source CRM for managing leads, contacts, sales pipelines, email campaigns, and customer support on your own servers.
 - [Ever Gauzy](https://openaltfinder.com/tools/ever-gauzy) - Open source ERP/CRM/HRM platform with time tracking, invoicing, payroll, and project management for teams and freelance networks.
 - [Frappe CRM](https://openaltfinder.com/tools/frappe-crm) - Open source CRM with unlimited users, built by the Frappe team for lead, deal and sales pipeline management.
 - [Huly](https://openaltfinder.com/tools/huly) - All-in-one open source platform that combines project management, CRM, chat, HR, and wiki as an alternative to Linear, Jira, Slack, and Notion.
 - [Krayin CRM](https://openaltfinder.com/tools/krayin-crm) - A free and open-source Laravel CRM for SMEs and enterprises with full customer lifecycle management.
 - [Relaticle](https://openaltfinder.com/tools/relaticle) - Open-source CRM with native AI agent support, 30 MCP tools, REST API, and self-hosting capabilities.
 - [SuiteCRM](https://openaltfinder.com/tools/suitecrm) - A fully featured open-source enterprise CRM built as a community fork of SugarCRM.
-- [Twenty](https://openaltfinder.com/tools/twenty) - A modern, open-source CRM built as a community-driven alternative to Salesforce.
+- [Twenty](https://openaltfinder.com/tools/twenty) - An open-source, code-first CRM you can customize, version, and self-host — an alternative to Salesforce and HubSpot.
 
 
 #### Ecommerce software
@@ -1231,8 +1232,8 @@ Want to contribute? See [Contributing](#contributing).
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
 - [Oh My Pi](https://openaltfinder.com/tools/oh-my-pi) - Open-source terminal coding agent with IDE intelligence — LSP renames, live debugging, and 60+ AI providers under an MIT license.
 - [Open Code Review](https://openaltfinder.com/tools/open-code-review) - Battle-tested AI code review agent with deterministic pipelines + LLM, fine-tuned security rules, and line-level comments.
-- [OpenCode](https://openaltfinder.com/tools/open-code) - OpenCode is a powerful open-source AI coding agent that runs in your terminal, IDE, or desktop. It supports any model with full LSP integration, multi-session replay, and team-friendly workflows.
-- [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Open-source AI agent toolkit with an interactive coding agent CLI, unified multi-provider LLM API, and TUI libraries.
+- [OpenCode](https://openaltfinder.com/tools/open-code) - Open-source AI coding agent with a terminal UI, desktop and web apps, bring-your-own models, agents, plugins, and MCP support.
+- [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Minimal, extensible open-source coding agent CLI with a multi-provider LLM API, packages, MCP support, and a TypeScript SDK.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
 
