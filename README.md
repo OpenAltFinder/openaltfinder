@@ -69,9 +69,11 @@ Want to contribute? See [Contributing](#contributing).
   - [Spam & Bot Protection](#spam--bot-protection)
   - [Penetration Testing](#penetration-testing)
   - [AI Agent Security](#ai-agent-security)
+  - [OSINT Tools](#osint-tools)
 - [Content Management System (CMS)](#content-management-system-cms)
   - [Headless CMS](#headless-cms)
   - [Page Builders](#page-builders)
+  - [Self-Hosted CMS](#self-hosted-cms)
 - [Health & Fitness Tools](#health--fitness-tools)
   - [Fitness tracking Tools](#fitness-tracking-tools)
   - [Habit Trackers](#habit-trackers)
@@ -136,6 +138,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Single Sign-On](#single-sign-on)
 - [Customer Communication Platforms](#customer-communication-platforms)
   - [Changelog & Release Notes](#changelog--release-notes)
+  - [Help Desk & Ticketing Software](#help-desk--ticketing-software)
 - [Developer Tools](#developer-tools)
   - [API Development & Testing Tools](#api-development--testing-tools)
   - [AI Coding Agents](#ai-coding-agents)
@@ -143,6 +146,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Code Editors & IDEs](#code-editors--ides)
 - [Podcasting](#podcasting)
   - [Podcast Apps](#podcast-apps)
+  - [Podcast Hosting](#podcast-hosting)
 - [Marketing & Branding Tools](#marketing--branding-tools)
   - [Email Marketing & Newsletters Tools](#email-marketing--newsletters-tools)
   - [Marketing Automation](#marketing-automation)
@@ -210,11 +214,13 @@ Want to contribute? See [Contributing](#contributing).
 - [Healthchecks](https://openaltfinder.com/tools/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django 
 - [Kuvasz](https://openaltfinder.com/tools/kuvasz) - Open-source uptime and SSL monitoring service with status pages, multiple notification channels, and Prometheus integration.
 - [Lunalytics](https://openaltfinder.com/tools/lunalytics) - Lunalytics is an open-source, self-hosted monitoring tool built with Node.js and React that supports HTTP(S), TCP, ping, Docker, and more. It offers customizable dashboards, status pages, incident management, multi-user access control, and integrations with popular notification services, making it a modern, developer-friendly solution for monitoring uptime and system health.
+- [OneUptime](https://openaltfinder.com/tools/oneuptime) - Open-source observability platform combining uptime monitoring, incidents, on-call, status pages, logs, traces, and metrics.
 - [OpenStatus](https://openaltfinder.com/tools/openstatus) - Open-source uptime monitoring and status page platform with synthetic checks from 28 global regions and multi-channel alerting.
 - [Pingflare](https://openaltfinder.com/tools/pingflare) - Pingflare is a self-hosted uptime monitoring stack built natively for Cloudflare Workers. Get fast global checks, instant alerts, and a beautiful status page on your own domain.
 - [ReJourney](https://openaltfinder.com/tools/rejourney) - Lightweight open-source observability tool with pixel-perfect session replay, real-time error detection, and journey mapping for web and mobile apps.
 - [Rootprint](https://openaltfinder.com/tools/rootprint) - Open-source, self-hosted log management with full-text search on object storage, OpenTelemetry ingestion, and team access control.
-- [SigNoz](https://openaltfinder.com/tools/signoz) - Open-source observability platform with logs, traces, and metrics — an alternative to Datadog and New Relic.
+- [Sentry](https://openaltfinder.com/tools/sentry) - Self-hosted error tracking and performance monitoring: issues, traces, replays, logs, and cron monitors on your own infrastructure.
+- [SigNoz](https://openaltfinder.com/tools/signoz) - OpenTelemetry-native observability platform for logs, metrics, traces, alerts, and exceptions — a self-hostable Datadog and New Relic alternative.
 - [Uptime Kuma](https://openaltfinder.com/tools/uptime-kuma) - Self-hosted uptime monitoring tool with a polished UI, 90+ notification integrations, and built-in public status pages.
 - [UptimeKit](https://openaltfinder.com/tools/uptimekit) - UptimeKit is a distributed monitoring and status page platform with fault-tolerant architecture. Watch services worldwide and keep users informed at a glance with clean public pages.
 
@@ -265,7 +271,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Langfuse](https://openaltfinder.com/tools/langfuse) - Open source LLM engineering platform for tracing, evaluating, monitoring, and managing prompts as an alternative to LangSmith and Helicone.
 - [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model, connect your tools, and unify all your team's knowledge.
 - [SearXNG](https://openaltfinder.com/tools/searxng) - A free internet metasearch engine which aggregates results from various search services without tracking or profiling users.
-- [Typesense](https://openaltfinder.com/tools/typesense) - Fast, typo-tolerant open-source search engine and a simpler, cheaper alternative to Algolia.
+- [Typesense](https://openaltfinder.com/tools/typesense) - Fast, typo-tolerant open-source search engine with vector, hybrid and semantic search — a simpler, cheaper alternative to Algolia.
 
 
 #### Web Servers
@@ -503,7 +509,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Mindwtr](https://openaltfinder.com/tools/mindwtr) - Open-source Getting Things Done (GTD) app for desktop and mobile — capture every task, then focus on the next action.
 - [Mitra](https://openaltfinder.com/tools/mitra) - A self-hosted calendar and task planner in one, with two-way CalDAV, Google Calendar, and Apple Calendar sync.
 - [OpenProject](https://openaltfinder.com/tools/openproject) - OpenProject is open-source project management software for agile teams. A powerful alternative to Jira, Asana, Trello, and Monday.com — fully self-hosted and free to use.
-- [Plane](https://openaltfinder.com/tools/plane) - Open-source project management platform — an alternative to Jira, Linear, Monday, and ClickUp.
+- [Plane](https://openaltfinder.com/tools/plane) - Open-source, AI-native project management platform — a self-hostable alternative to Jira, Linear, Monday, and ClickUp.
 - [Scrumboy](https://openaltfinder.com/tools/scrumboy) - Self-hosted Kanban and scrum project management tool with real-time collaboration, sprints, and anonymous shareable boards.
 - [Someday](https://openaltfinder.com/tools/someday) - Free, self-hostable meeting scheduler built on Google Apps Script — a Cal.com and Calendly alternative for Gmail users.
 - [Super Productivity](https://openaltfinder.com/tools/super-productivity) - Open-source to-do list and time tracker with timeboxing, a daily planner, Pomodoro focus sessions, and integrations for Jira, GitHub, and GitLab.
@@ -557,6 +563,7 @@ Want to contribute? See [Contributing](#contributing).
 - [eilmeldung](https://openaltfinder.com/tools/eilmeldung) - A fast, vim-inspired terminal RSS reader with a powerful query language, zen mode, and support for Feedly, Inoreader, Miniflux, FreshRSS and more.
 - [Refeed](https://openaltfinder.com/tools/refeed) - Modern self-hosted RSS reader with timed bookmarks, smart filters, in-article notes, and a built-in newsletter-to-RSS converter.
 - [Tiny Tiny RSS](https://openaltfinder.com/tools/tiny-tiny-rss) - Long-running self-hosted RSS/Atom feed reader and aggregator, originally created in 2005 and now maintained at github.com/tt-rss/tt-rss.
+- [Upvote RSS](https://openaltfinder.com/tools/upvote-rss) - Self-hosted PHP app that turns Reddit, Hacker News, Lemmy, Lobsters, PieFed, Mbin and GitHub into filtered RSS feeds of their most popular posts.
 - [WyrmRSS](https://openaltfinder.com/tools/wyrmrss) - Self-hosted RSS reader with feed discovery, YouTube support, folders, filters and webhooks. Self-host on web, or use the native desktop app.
 
 
@@ -646,6 +653,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Dify](https://openaltfinder.com/tools/dify) - Open LLM app platform with visual workflows, RAG pipeline, agents and model management. Deploy self-hosted, in your VPC, or on Dify Cloud.
 - [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
 - [Langflow](https://openaltfinder.com/tools/langflow) - Visually build and deploy AI agents and workflows in Python, with built-in API and MCP servers. MIT-licensed and backed by DataStax.
+- [Omnara](https://openaltfinder.com/tools/omnara) - Open-source managed agent platform for running AI agents on any model and any machine, self-hostable via Docker.
 - [Sim](https://openaltfinder.com/tools/sim) - Sim is an open-source workspace to build, deploy, and orchestrate AI agents and agentic workflows. Visually connect LLMs, tools, and data sources without giving up control.
 - [Tale](https://openaltfinder.com/tools/tale) - Open-source workspace where teams and AI agents plan tasks, run them in sandboxes, and review results together.
 
@@ -671,6 +679,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Voice AI & Speech Tools
 
 
+- [Audicle](https://openaltfinder.com/tools/audicle) - Self-hosted service that turns saved articles and documents into a private podcast feed with cloned-voice narration.
 - [VoiceStudio](https://openaltfinder.com/tools/voicestudio) - Fully local voice cloning, dubbing, dictation, and transcription in one desktop app - an open-source ElevenLabs replacement.
 
 
@@ -734,6 +743,12 @@ Want to contribute? See [Contributing](#contributing).
 - [HOL Guard](https://openaltfinder.com/tools/hol-guard) - Local-first antivirus for AI agents that blocks risky commands, secret access, prompt injection, malicious packages, and MCP threats at runtime.
 
 
+#### OSINT Tools
+
+
+- [Velocity](https://openaltfinder.com/tools/velocity) - Self-hosted, keyless flight, ship and satellite tracker that keeps a replayable history you own, with source provenance on every contact.
+
+
 ### Content Management System (CMS)
 
 
@@ -743,7 +758,7 @@ Want to contribute? See [Contributing](#contributing).
 - [CometCMS](https://openaltfinder.com/tools/cometcms) - Headless, simple CMS with a PHP backend and a convenient Vue admin frontend.
 - [Directus](https://openaltfinder.com/tools/directus) - Source-available headless CMS and backend that turns any SQL database into REST and GraphQL APIs with a no-code admin Studio.
 - [Payload](https://openaltfinder.com/tools/payload) - Open-source, TypeScript-first headless CMS and app framework that runs natively in Next.js with a code-defined backend and admin UI.
-- [Strapi](https://openaltfinder.com/tools/strapi) - Open-source headless CMS built with JavaScript and TypeScript — fully customizable and developer-first. Self-hostable alternative to WordPress and Contentful.
+- [Strapi](https://openaltfinder.com/tools/strapi) - Open-source headless CMS on Node.js and TypeScript: visual content-type builder, auto-generated REST and GraphQL APIs, RBAC, i18n and plugins.
 - [TinaCMS](https://openaltfinder.com/tools/tinacms) - A fully open-source headless CMS with Git support, Markdown editing, and live visual preview for React-based sites.
 - [WollyCMS](https://openaltfinder.com/tools/wollycms) - Self-hosted, open-source headless CMS built specifically for Astro.js with a block-based page builder.
 
@@ -754,6 +769,15 @@ Want to contribute? See [Contributing](#contributing).
 - [Craft.js](https://openaltfinder.com/tools/craft-js) - React framework for building extensible drag-and-drop page editors. Headless, framework-based approach with full plugin support.
 - [Frappe Builder](https://openaltfinder.com/tools/frappe-builder) - Open-source visual website builder with a Figma-like canvas, built-in Frappe CMS, one-click publishing and an AI page agent.
 - [Puck](https://openaltfinder.com/tools/puck) - Open-source visual editor for React. Drag-and-drop page builder with a component-based architecture and MIT license.
+
+
+#### Self-Hosted CMS
+
+
+- [Concrete CMS](https://openaltfinder.com/tools/concrete-cms) - Self-hosted PHP CMS with in-context page editing, drag-and-drop blocks, granular permissions and a marketplace of themes and add-ons. MIT licensed.
+- [EmDash](https://openaltfinder.com/tools/emdash) - A full-stack TypeScript CMS built on Astro and Cloudflare, reimagining WordPress with serverless, type-safe foundations.
+- [Golocron](https://openaltfinder.com/tools/golocron) - Golocron is a plug-and-play blogging and wiki system designed for Go backends. Markdown support, live preview, and a clean UI for quick content sites.
+- [WollyCMS](https://openaltfinder.com/tools/wollycms) - Self-hosted, open-source headless CMS built specifically for Astro.js with a block-based page builder.
 
 
 ### Health & Fitness Tools
@@ -1101,13 +1125,9 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Bolnee Chat](https://openaltfinder.com/tools/bolnee-chat) - Self-hosted RAG chatbot platform that answers visitor questions from your website and PDFs, with a two-line embeddable widget and citations.
-- [Bytedesk](https://openaltfinder.com/tools/bytedesk) - Open source AI-powered omnichannel customer service platform that combines live chat, ticketing, and team collaboration as an alternative to Slack, Zendesk, Intercom, and HubSpot.
 - [Dittofeed](https://openaltfinder.com/tools/dittofeed) -  Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 
 - [Fider](https://openaltfinder.com/tools/fider) - Open source customer feedback platform to collect, organize, and prioritize feature requests from users.
-- [LibreDesk](https://openaltfinder.com/tools/libredesk) - Open-source, self-hosted customer support desk in a single binary. Omnichannel inbox with email and live chat, plus a built-in help center.
 - [OpenCan](https://openaltfinder.com/tools/opencan) - Self-hosted, open-source customer feedback management — collect feature requests, vote, and close the loop with a public roadmap and changelog.
-- [osTicket](https://openaltfinder.com/tools/osticket) - Open-source help desk ticketing system. Routes emails, web forms, and phone requests into a unified agent workspace. Self-hosted, PHP, GPL-2.0.
-- [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
 
 
 #### Customer Relationship Management Tools
@@ -1207,6 +1227,15 @@ Want to contribute? See [Contributing](#contributing).
 - [Openchangelog](https://openaltfinder.com/tools/openchangelog) - Self-hostable changelog website that renders your Markdown release notes from GitHub, GitLab, or Forgejo into a searchable product-updates site.
 
 
+#### Help Desk & Ticketing Software
+
+
+- [Bytedesk](https://openaltfinder.com/tools/bytedesk) - Open source AI-powered omnichannel customer service platform that combines live chat, ticketing, and team collaboration as an alternative to Slack, Zendesk, Intercom, and HubSpot.
+- [LibreDesk](https://openaltfinder.com/tools/libredesk) - Open-source, self-hosted customer support desk in a single binary. Omnichannel inbox with email and live chat, plus a built-in help center.
+- [osTicket](https://openaltfinder.com/tools/osticket) - Open-source help desk ticketing system. Routes emails, web forms, and phone requests into a unified agent workspace. Self-hosted, PHP, GPL-2.0.
+- [Peppermint](https://openaltfinder.com/tools/peppermint) - Open source help desk and issue management platform — a self-hostable alternative to Zendesk and Jira for support teams.
+
+
 ### Developer Tools
 
 
@@ -1260,6 +1289,12 @@ Want to contribute? See [Contributing](#contributing).
 - [MinusPod](https://openaltfinder.com/tools/minuspod) - Self-hosted podcast server that uses AI to automatically remove ads from episodes before you hit play.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [podgrab](https://openaltfinder.com/tools/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
+
+
+#### Podcast Hosting
+
+
+- [Audicle](https://openaltfinder.com/tools/audicle) - Self-hosted service that turns saved articles and documents into a private podcast feed with cloned-voice narration.
 
 
 ### Marketing & Branding Tools
@@ -1319,7 +1354,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Databuddy](https://openaltfinder.com/tools/databuddy) - Databuddy is a privacy-first analytics platform with a focus on user experience, with it's foundation built on privacy, it ensures complete compliance with most major data privacy laws out of the box 
 - [Dub](https://openaltfinder.com/tools/dub) - The open-source link attribution platform for short links, conversion tracking, and affiliate programs.
-- [GoatCounter](https://openaltfinder.com/tools/goatcounter) - Easy web analytics. No tracking of personal data. 
+- [GoatCounter](https://openaltfinder.com/tools/goatcounter) - Privacy-friendly web analytics with no cookies or personal data, shipped as a single Go binary you can self-host.
 - [Liwan](https://openaltfinder.com/tools/liwan) - A lightweight, privacy-first web analytics platform written in Rust. No cookies, no database, under 1KB tracking script.
 - [Matomo](https://openaltfinder.com/tools/matomo) - Open-source web analytics platform with SEO keyword and search performance reporting.
 - [Open Web Analytics](https://openaltfinder.com/tools/open-web-analytics) - Self-hosted web analytics platform for tracking website traffic without compromising user privacy.
@@ -1330,7 +1365,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Prisme Analytics](https://openaltfinder.com/tools/prisme-analytics) - High-perfomance, self-hosted and privacy-focused web analytics service. 
 - [Rybbit](https://openaltfinder.com/tools/rybbit) - Privacy-friendly, open-source web analytics platform that is a simpler alternative to Google Analytics.
 - [Swetrix](https://openaltfinder.com/tools/swetrix) - Privacy-first, cookie-less web analytics with speed monitoring and error tracking.
-- [Umami](https://openaltfinder.com/tools/umami) - Umami is a modern, privacy-focused alternative to Google Analytics. 
+- [Umami](https://openaltfinder.com/tools/umami) - Privacy-first web and product analytics with traffic, funnels, retention, journeys and revenue, all without cookies.
 - [Vemetric](https://openaltfinder.com/tools/vemetric) -  Simple, yet powerful Web- & Product Analytics. 
 - [Vince](https://openaltfinder.com/tools/vince) -  Self Hosted Alternative To Google Analytics 
 
