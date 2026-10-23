@@ -195,6 +195,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Piwigo](https://openaltfinder.com/tools/piwigo) - Open-source photo gallery and management software for individuals and teams.
 - [SafeBucket](https://openaltfinder.com/tools/safebucket) - Self-hosted file sharing platform with direct S3 uploads, SSO, and role-based access control.
 - [Seafile](https://openaltfinder.com/tools/seafile) - Seafile is a high-performance open-source file sync and share platform for teams. Fast syncing, end-to-end encryption, and reliable cross-device collaboration across all your devices.
+- [syncspirit](https://openaltfinder.com/tools/syncspirit) - Continuous peer-to-peer file synchronization that speaks the Syncthing BEP protocol and needs no cloud account.
 - [Syncthing](https://openaltfinder.com/tools/syncthing) - Continuous file synchronization program that syncs files directly between your devices — no cloud required.
 - [Twake Drive](https://openaltfinder.com/tools/twake-drive) -  The open-source alternative to Google Drive. 
 
@@ -741,6 +742,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [HOL Guard](https://openaltfinder.com/tools/hol-guard) - Local-first antivirus for AI agents that blocks risky commands, secret access, prompt injection, malicious packages, and MCP threats at runtime.
+- [OpenShell](https://openaltfinder.com/tools/openshell) - NVIDIA's open-source runtime that runs AI agents in kernel-isolated sandboxes with policy-enforced file, network, and credential access.
 
 
 #### OSINT Tools
@@ -990,6 +992,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [OpenRCT2](https://openaltfinder.com/tools/openrct2) - An open-source reimplementation of RollerCoaster Tycoon 2 that expands the original with new features, rides, and multiplayer.
+- [OpenSC2K](https://openaltfinder.com/tools/opensc2k) - An open-source remake of SimCity 2000 built with Rust and Godot, adding larger cities, mods and HD graphics packs.
 - [OpenTTD](https://openaltfinder.com/tools/openttd) - An open-source simulation game based on Transport Tycoon Deluxe, letting you build and manage a vast transport empire.
 
 
@@ -1262,6 +1265,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Oh My Pi](https://openaltfinder.com/tools/oh-my-pi) - Open-source terminal coding agent with IDE intelligence — LSP renames, live debugging, and 60+ AI providers under an MIT license.
 - [Open Code Review](https://openaltfinder.com/tools/open-code-review) - Battle-tested AI code review agent with deterministic pipelines + LLM, fine-tuned security rules, and line-level comments.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - Open-source AI coding agent with a terminal UI, desktop and web apps, bring-your-own models, agents, plugins, and MCP support.
+- [Orbi](https://openaltfinder.com/tools/orbi) - Self-hosted coding factory that turns labeled GitHub Issues into independently reviewed, merged PRs and releases.
 - [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Minimal, extensible open-source coding agent CLI with a multi-provider LLM API, packages, MCP support, and a TypeScript SDK.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
