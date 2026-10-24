@@ -793,6 +793,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Endurain](https://openaltfinder.com/tools/endurain) - Self-hosted fitness tracking service for running, cycling, and more with full data control.
 - [Geo Activity Playground](https://openaltfinder.com/tools/geo-activity-playground) - Geo Activity Playground is a self-hosted data analysis and visualization tool for GPS-tracked outdoor activities. Explore routes, heatmaps, and detailed stats from every device.
 - [GymMane](https://openaltfinder.com/tools/gymmane) - Offline gym log for Android with a tap-the-muscle body map, 500+ animated exercises, rest timers, and no internet permission at all.
+- [HealthCoach](https://openaltfinder.com/tools/healthcoach) - Local-first desktop and Android app for food journaling, weight tracking, and blood pressure monitoring, with no cloud account required.
 - [LiftTrace](https://openaltfinder.com/tools/lifttrace) - LiftTrace is a self-hosted weightlifting tracker that runs in a single Docker container. AGPL-3.0, no telemetry, no cloud sync — your lifting data stays on your own hardware.
 - [OpenTracks](https://openaltfinder.com/tools/opentracks) - A privacy-focused sport tracking application for Android that records GPS tracks and supports Bluetooth sensors without any internet access or ads.
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - RunnerUp is a free, open source GPS run tracker for Android with audio cues, interval workouts, heart rate zones — no accounts or ads.
@@ -814,12 +815,14 @@ Want to contribute? See [Contributing](#contributing).
 #### Health monitoring Tools
 
 
+- [HealthCoach](https://openaltfinder.com/tools/healthcoach) - Local-first desktop and Android app for food journaling, weight tracking, and blood pressure monitoring, with no cloud account required.
 - [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Track meals, workouts, water, and health metrics with AI-powered insights for the whole family. SparkyFitness is a self-hosted, privacy-friendly fitness tracker that puts you in control.
 
 
 #### Nutrition & Diet Trackers
 
 
+- [HealthCoach](https://openaltfinder.com/tools/healthcoach) - Local-first desktop and Android app for food journaling, weight tracking, and blood pressure monitoring, with no cloud account required.
 - [NutriTrace](https://openaltfinder.com/tools/nutritrace) - Self-hosted personal nutrition tracker with PWA and Android app. No telemetry, no cloud sync, full data ownership.
 
 
