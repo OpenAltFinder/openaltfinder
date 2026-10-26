@@ -129,6 +129,7 @@ Want to contribute? See [Contributing](#contributing).
   - [ERP & Business Management](#erp--business-management)
   - [Employee Shift Scheduling](#employee-shift-scheduling)
   - [Ticketing](#ticketing)
+  - [Accounting Software](#accounting-software)
 - [Video Editing Tools](#video-editing-tools)
   - [Video Subtitle Editors](#video-subtitle-editors)
   - [Web-based Video Editors](#web-based-video-editors)
@@ -144,6 +145,7 @@ Want to contribute? See [Contributing](#contributing).
   - [AI Coding Agents](#ai-coding-agents)
   - [Source Code Management](#source-code-management)
   - [Code Editors & IDEs](#code-editors--ides)
+  - [Localization & Translation Management](#localization--translation-management)
 - [Podcasting](#podcasting)
   - [Podcast Apps](#podcast-apps)
   - [Podcast Hosting](#podcast-hosting)
@@ -615,6 +617,8 @@ Want to contribute? See [Contributing](#contributing).
 #### Inventory Management
 
 
+- [Bigcapital](https://openaltfinder.com/tools/bigcapital) - Open-source double-entry accounting and inventory platform for small businesses, with invoicing, bank feeds, and reports.
+- [InvenTree](https://openaltfinder.com/tools/inventree) - Open-source inventory management for parts, stock, BOMs, and builds, aimed at electronics makers, SMEs, and hobbyists.
 - [OpenInvento](https://openaltfinder.com/tools/openinvento) - Self-hosted inventory manager for households, homelabs, and small businesses. Free for non-commercial use.
 
 
@@ -851,7 +855,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Dub](https://openaltfinder.com/tools/dub) - The open-source link attribution platform for short links, conversion tracking, and affiliate programs.
-- [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. It's a privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports you can run anywhere.
+- [OpenCut](https://openaltfinder.com/tools/open-cut) - Open-source CapCut alternative: a privacy-first browser video editor with a timeline, effects, and local editing.
 - [Syano](https://openaltfinder.com/tools/syano) - Self-hosted URL shortener with analytics, QR codes, and link-in-bio pages. A privacy-first open source alternative to Bitly.
 
 
@@ -860,7 +864,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Doory](https://openaltfinder.com/tools/doory) - Open-source browser design editor for posters, social posts and slides, with templates, real-time co-editing and PNG, SVG, PDF and video exports.
 - [HyCanvas](https://openaltfinder.com/tools/hycanvas) - Open-source AI-native design platform for social graphics, presentations, video, and whiteboards. Self-hosted, with no paywalls or watermarks.
-- [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. It's a privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports you can run anywhere.
+- [OpenCut](https://openaltfinder.com/tools/open-cut) - Open-source CapCut alternative: a privacy-first browser video editor with a timeline, effects, and local editing.
 - [OpenPost](https://openaltfinder.com/tools/openpost) - Open-source social media manager for writing, designing, scheduling, and tracking posts — an alternative to Buffer, Canva, and CapCut.
 
 
@@ -873,7 +877,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Kdenlive](https://openaltfinder.com/tools/kdenlive) - Free and open source multi-track video editor built on MLT Framework and KDE technologies.
 - [Olive](https://openaltfinder.com/tools/olive) - Free open-source non-linear video editor with hardware-accelerated compositing and cross-platform support.
 - [Open Video Craft](https://openaltfinder.com/tools/open-video-craft) - Open-source, local-first screen recorder and timeline video editor for macOS and Windows with AI subtitle generation.
-- [OpenCut](https://openaltfinder.com/tools/open-cut) - OpenCut is a free, open-source video editor for the web. It's a privacy-friendly CapCut alternative with a full timeline, effects, transitions, and easy exports you can run anywhere.
+- [OpenCut](https://openaltfinder.com/tools/open-cut) - Open-source CapCut alternative: a privacy-first browser video editor with a timeline, effects, and local editing.
 - [OpenShot Video Editor](https://openaltfinder.com/tools/openshot) - OpenShot is a free, open-source video editor for Linux, macOS, and Windows with unlimited tracks, keyframe animation, and 3D titles.
 - [Shotcut](https://openaltfinder.com/tools/shotcut) - Cross-platform open-source video editor built on the MLT framework with a wide format support and no import required.
 - [WolfCut](https://openaltfinder.com/tools/wolfcut) - An open-source desktop video editor that mirrors the CapCut workflow without watermarks, paywalls, or account requirements.
@@ -1186,6 +1190,12 @@ Want to contribute? See [Contributing](#contributing).
 - [Event Schedule](https://openaltfinder.com/tools/event-schedule) - Open-source event calendar and ticketing platform with no platform fees on ticket sales.
 
 
+#### Accounting Software
+
+
+- [Bigcapital](https://openaltfinder.com/tools/bigcapital) - Open-source double-entry accounting and inventory platform for small businesses, with invoicing, bank feeds, and reports.
+
+
 ### Video Editing Tools
 
 
@@ -1285,6 +1295,13 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Rune](https://openaltfinder.com/tools/rune) - A fast, keyboard-driven, GPU-rendered IDE for macOS and Linux with terminals, LSP intelligence, debugging, and a built-in AI coding agent.
+
+
+#### Localization & Translation Management
+
+
+- [Accent](https://openaltfinder.com/tools/accent) - Developer-first, open-source translation management with CLI file sync, a collaborative editor, and a GraphQL API.
+- [Tolgee](https://openaltfinder.com/tools/tolgee) - Developer-friendly, open-source localization platform with in-context editing, SDKs, and machine translation.
 
 
 ### Podcasting
