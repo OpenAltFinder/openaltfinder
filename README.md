@@ -508,7 +508,6 @@ Want to contribute? See [Contributing](#contributing).
 - [Jotted](https://openaltfinder.com/tools/jotted) - Self-hosted tasks and notes management with offline support, push reminders, and full-text search in a single Docker container.
 - [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 - [Kanboard](https://openaltfinder.com/tools/kanboard) - Free, open source Kanban project management software focused on simplicity and visual task tracking.
-- [Kaneo](https://openaltfinder.com/tools/kaneo) - Minimal self-hosted project management with kanban boards and issue tracking — no bloat, no subscriptions.
 - [Mindwtr](https://openaltfinder.com/tools/mindwtr) - Open-source Getting Things Done (GTD) app for desktop and mobile — capture every task, then focus on the next action.
 - [Mitra](https://openaltfinder.com/tools/mitra) - A self-hosted calendar and task planner in one, with two-way CalDAV, Google Calendar, and Apple Calendar sync.
 - [OpenProject](https://openaltfinder.com/tools/openproject) - OpenProject is open-source project management software for agile teams. A powerful alternative to Jira, Asana, Trello, and Monday.com — fully self-hosted and free to use.
@@ -645,6 +644,7 @@ Want to contribute? See [Contributing](#contributing).
 #### AI Chat
 
 
+- [Hob](https://openaltfinder.com/tools/hob) - Free, MIT-licensed desktop AI assistant that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows, and Linux.
 - [Lobe Chat](https://openaltfinder.com/tools/lobe-chat) - Open-source AI chat and agent platform with multi-provider support, RAG, plugins, and an agent marketplace — self-hostable ChatGPT alternative.
 - [Ollama](https://openaltfinder.com/tools/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. 
 - [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model, connect your tools, and unify all your team's knowledge.
@@ -1025,6 +1025,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Doska](https://openaltfinder.com/tools/doska) - Local-first kanban app with Markdown cards, offline support, and an optional self-hosted sync server with SSO and MCP.
+- [Kaneo](https://openaltfinder.com/tools/kaneo) - Open source project management with kanban boards, issue tracking, time tracking, and a self-hosted single-container install.
 - [Super Productivity](https://openaltfinder.com/tools/super-productivity) - Open-source to-do list and time tracker with timeboxing, a daily planner, Pomodoro focus sessions, and integrations for Jira, GitHub, and GitLab.
 - [Tale](https://openaltfinder.com/tools/tale) - Open-source workspace where teams and AI agents plan tasks, run them in sandboxes, and review results together.
 - [Vikunja](https://openaltfinder.com/tools/vikunja) - Self-hosted, open-source task manager with lists, kanban boards, Gantt charts, reminders, and CalDAV — a free alternative to Todoist.
@@ -1266,7 +1267,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
 - [Scalar](https://openaltfinder.com/tools/scalar) -  Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support 
 - [Voiden](https://openaltfinder.com/tools/voiden) - Design, test and document APIs in plain Markdown with a git-native, offline-first approach.
-- [Yaak](https://openaltfinder.com/tools/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 
+- [Yaak](https://openaltfinder.com/tools/yaak) - Local-first desktop API client for REST, GraphQL, gRPC, WebSocket, and SSE — Git-friendly collections, a CLI, and no cloud lock-in.
 
 
 #### AI Coding Agents
