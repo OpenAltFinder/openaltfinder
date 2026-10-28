@@ -51,6 +51,8 @@ Want to contribute? See [Contributing](#contributing).
   - [Word Processing](#word-processing)
   - [Spreadsheets](#spreadsheets)
   - [Inventory Management](#inventory-management)
+  - [Research & Archival Tools](#research--archival-tools)
+  - [Photo Management](#photo-management)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -111,6 +113,8 @@ Want to contribute? See [Contributing](#contributing).
   - [Task Management](#task-management)
 - [Image Hosting](#image-hosting)
   - [Meme Tools](#meme-tools)
+- [File Sharing](#file-sharing)
+  - [BitTorrent Clients](#bittorrent-clients)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
   - [Email Servers](#email-servers)
   - [Knowledge Management Tools](#knowledge-management-tools)
@@ -153,11 +157,6 @@ Want to contribute? See [Contributing](#contributing).
   - [Email Marketing & Newsletters Tools](#email-marketing--newsletters-tools)
   - [Marketing Automation](#marketing-automation)
   - [App Store Screenshot Tools](#app-store-screenshot-tools)
-- [Data & Analytics](#data--analytics)
-  - [App Analytics](#app-analytics)
-  - [Data Visualization](#data-visualization)
-  - [Web Analytics](#web-analytics)
-  - [Business Intelligence](#business-intelligence)
 
 
 ## Software
@@ -189,7 +188,7 @@ Want to contribute? See [Contributing](#contributing).
 - [BluFiles](https://openaltfinder.com/tools/blufiles) - Self-hosted file sharing and management platform with file transfers, pastes, collections, and a REST API.
 - [Cloudreve](https://openaltfinder.com/tools/cloudreve) - Self-hosted file management and sharing platform that unifies local disk and multiple cloud storage providers behind one web interface.
 - [FileBrowser Quantum](https://openaltfinder.com/tools/filebrowser-quantum) - A fast, self-hosted web file manager with multi-source browsing, granular permissions, and WebDAV access to your own storage.
-- [Lychee](https://openaltfinder.com/tools/lychee) - Beautiful self-hosted photo management tool with a stunning web interface.
+- [Lychee](https://openaltfinder.com/tools/lychee) - Self-hosted photo and video gallery for uploading, organizing, and sharing your library.
 - [Nextcloud](https://openaltfinder.com/tools/nextcloud) - The most popular self-hosted cloud platform for file storage, collaboration, and communication.
 - [OpenCloud](https://openaltfinder.com/tools/opencloud) - OpenCloud is an open-source platform for file management, sharing, and team collaboration. It's easy to deploy, fully self-hostable, and built for modern, privacy-first workflows.
 - [ownCloud](https://openaltfinder.com/tools/owncloud) - ownCloud is the pioneering open-source file sync and sharing platform. Self-host your cloud for files, calendars, contacts, and collaboration — your data.
@@ -621,6 +620,18 @@ Want to contribute? See [Contributing](#contributing).
 - [OpenInvento](https://openaltfinder.com/tools/openinvento) - Self-hosted inventory manager for households, homelabs, and small businesses. Free for non-commercial use.
 
 
+#### Research & Archival Tools
+
+
+- [Tropy](https://openaltfinder.com/tools/tropy) - Desktop app for organising, describing and annotating photographs of archival research material.
+
+
+#### Photo Management
+
+
+- [TagStudio](https://openaltfinder.com/tools/tagstudio) - Tag and organize photos and files in place, with a tag library stored next to your folders instead of a proprietary catalog.
+
+
 ### Food & Cooking
 
 
@@ -1040,6 +1051,15 @@ Want to contribute? See [Contributing](#contributing).
 - [Meme Search](https://openaltfinder.com/tools/meme-search) - Self-hosted AI-powered meme search engine that uses vision-language models to auto-caption and semantically search your local meme library.
 
 
+### File Sharing
+
+
+#### BitTorrent Clients
+
+
+- [Transmission](https://openaltfinder.com/tools/transmission) - Lightweight open source BitTorrent client with native desktop apps, a headless daemon and a built-in web UI.
+
+
 ### Collaboration & Communication Tools
 
 
@@ -1355,50 +1375,6 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [App Store Screenshots Generator](https://openaltfinder.com/tools/app-store-screenshots) - An open-source AI agent skill that builds a local Next.js editor for App Store and Google Play screenshots with device frames and store-size exports.
-
-
-### Data & Analytics
-
-
-#### App Analytics
-
-
-- [Aptabase](https://openaltfinder.com/tools/aptabase) - Open-source, privacy-first analytics for mobile, desktop, and web apps. Anonymous event tracking, no cookies or device IDs, GDPR-compliant by default.
-
-
-#### Data Visualization
-
-
-- [Draw.io](https://openaltfinder.com/tools/draw-io) -  draw.io is a JavaScript, client-side editor for general diagramming. 
-- [ExcaliDash](https://openaltfinder.com/tools/excali-dash) -  A self hosted dashboard and organizer for Excalidraw with live collaboration. 
-- [Metabase](https://openaltfinder.com/tools/metabase) - Open-source business intelligence tool for dashboards, self-serve analytics, and embedded analytics on top of your company databases.
-
-
-#### Web Analytics
-
-
-- [Databuddy](https://openaltfinder.com/tools/databuddy) - Databuddy is a privacy-first analytics platform with a focus on user experience, with it's foundation built on privacy, it ensures complete compliance with most major data privacy laws out of the box 
-- [Dub](https://openaltfinder.com/tools/dub) - The open-source link attribution platform for short links, conversion tracking, and affiliate programs.
-- [GoatCounter](https://openaltfinder.com/tools/goatcounter) - Privacy-friendly web analytics with no cookies or personal data, shipped as a single Go binary you can self-host.
-- [Liwan](https://openaltfinder.com/tools/liwan) - A lightweight, privacy-first web analytics platform written in Rust. No cookies, no database, under 1KB tracking script.
-- [Matomo](https://openaltfinder.com/tools/matomo) - Open-source web analytics platform with SEO keyword and search performance reporting.
-- [Open Web Analytics](https://openaltfinder.com/tools/open-web-analytics) - Self-hosted web analytics platform for tracking website traffic without compromising user privacy.
-- [OpenPanel](https://openaltfinder.com/tools/open-panel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. 
-- [OpenReplay](https://openaltfinder.com/tools/openreplay) - Self-hostable session replay, cobrowsing, and product analytics platform that is a strong open source alternative to Hotjar and FullStory.
-- [Plausible](https://openaltfinder.com/tools/plausible) - Privacy-first, open-source web analytics with a cookieless script under 1 KB and EU hosting — a simpler Google Analytics alternative.
-- [PostHog](https://openaltfinder.com/tools/posthog) - Open-source product analytics with session recording, feature flags, and A/B testing — self-hostable. Replaces Google Analytics, Mixpanel, and Amplitude.
-- [Prisme Analytics](https://openaltfinder.com/tools/prisme-analytics) - High-perfomance, self-hosted and privacy-focused web analytics service. 
-- [Rybbit](https://openaltfinder.com/tools/rybbit) - Privacy-friendly, open-source web analytics platform that is a simpler alternative to Google Analytics.
-- [Swetrix](https://openaltfinder.com/tools/swetrix) - Privacy-first, cookie-less web analytics with speed monitoring and error tracking.
-- [Umami](https://openaltfinder.com/tools/umami) - Privacy-first web and product analytics with traffic, funnels, retention, journeys and revenue, all without cookies.
-- [Vemetric](https://openaltfinder.com/tools/vemetric) -  Simple, yet powerful Web- & Product Analytics. 
-- [Vince](https://openaltfinder.com/tools/vince) -  Self Hosted Alternative To Google Analytics 
-
-
-#### Business Intelligence
-
-
-- [Metabase](https://openaltfinder.com/tools/metabase) - Open-source business intelligence tool for dashboards, self-serve analytics, and embedded analytics on top of your company databases.
 
 
 
