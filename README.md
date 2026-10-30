@@ -458,7 +458,8 @@ Want to contribute? See [Contributing](#contributing).
 - [BookOrbit](https://openaltfinder.com/tools/bookorbit) - Self-hosted library and reading platform for ebooks, audiobooks, PDFs, and comics with built-in web readers and Kobo/KOReader sync.
 - [Bookshelf](https://openaltfinder.com/tools/bookshelf) - A self-hosted ebook library that runs on Cloudflare R2 or a local Node server, with in-browser EPUB and PDF readers and per-profile reading positions.
 - [BookWyrm](https://openaltfinder.com/tools/bookwyrm) - Federated, self-hostable social network for readers — book shelves, reviews, and reading status, decentralized via ActivityPub.
-- [Kavita](https://openaltfinder.com/tools/kavita) - Self-hosted, cross-platform reading server for manga, comics, and ebooks with responsive web readers and an OPDS feed.
+- [Grimmory](https://openaltfinder.com/tools/grimmory) - Self-hosted library for ebooks, comics, and audiobooks with built-in readers, metadata lookup, and Kobo and OPDS sync.
+- [Kavita](https://openaltfinder.com/tools/kavita) - Self-hosted reading server for manga, comics, and ebooks with responsive web readers, smart filters, and an OPDS feed.
 - [Koodo Reader](https://openaltfinder.com/tools/koodo-reader) - Cross-platform ebook reader supporting PDF, EPUB, MOBI, comics and more, with sync across Windows, macOS, Linux, Android, iOS, and Web.
 - [Kumiho](https://openaltfinder.com/tools/kumiho) - A self-hosted, lightweight web media server for streaming your personal comics, manga, ebooks, and audiobooks.
 - [openreads](https://openaltfinder.com/tools/openreads) - Privacy-respecting mobile book tracker for iOS and Android, built with Flutter — your library lives on your device.
@@ -646,6 +647,7 @@ Want to contribute? See [Contributing](#contributing).
 
 - [CookTrace](https://openaltfinder.com/tools/cooktrace) - Self-hosted recipe, pantry, and cooking tracker with a PWA and native Android app — no telemetry, no cloud lock-in.
 - [Mealie](https://openaltfinder.com/tools/mealie) - Self-hosted recipe manager and meal planner that imports recipes from any URL and generates shopping lists.
+- [Norish](https://openaltfinder.com/tools/norish) - Realtime, self-hosted recipe app for households: import recipes from anywhere, plan meals, share groceries and cook together.
 - [Tandoor Recipes](https://openaltfinder.com/tools/tandoor-recipes) - Open-source, self-hosted recipe manager — import from any website, plan meals, build shopping lists and cook with family. Free alternative to Paprika.
 
 
@@ -813,7 +815,7 @@ Want to contribute? See [Contributing](#contributing).
 - [OpenTracks](https://openaltfinder.com/tools/opentracks) - A privacy-focused sport tracking application for Android that records GPS tracks and supports Bluetooth sensors without any internet access or ads.
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - RunnerUp is a free, open source GPS run tracker for Android with audio cues, interval workouts, heart rate zones — no accounts or ads.
 - [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
-- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Track meals, workouts, water, and health metrics with AI-powered insights for the whole family. SparkyFitness is a self-hosted, privacy-friendly fitness tracker that puts you in control.
+- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Self-hosted fitness and health tracker for meals, workouts, water, sleep and body metrics, with family sharing and optional AI coaching.
 - [Stronk](https://openaltfinder.com/tools/stronk) - Free, open-source weightlifting tracker for logging lifts, sets and reps — a private, installable web app and alternative to Hevy and Strong.
 - [wger](https://openaltfinder.com/tools/wger) - Self-hosted workout and fitness manager with nutrition tracking and mobile apps.
 
@@ -831,7 +833,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [HealthCoach](https://openaltfinder.com/tools/healthcoach) - Local-first desktop and Android app for food journaling, weight tracking, and blood pressure monitoring, with no cloud account required.
-- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Track meals, workouts, water, and health metrics with AI-powered insights for the whole family. SparkyFitness is a self-hosted, privacy-friendly fitness tracker that puts you in control.
+- [SparkyFitness](https://openaltfinder.com/tools/sparky-fitness) - Self-hosted fitness and health tracker for meals, workouts, water, sleep and body metrics, with family sharing and optional AI coaching.
 
 
 #### Nutrition & Diet Trackers
