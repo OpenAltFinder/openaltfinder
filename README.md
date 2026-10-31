@@ -157,6 +157,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Email Marketing & Newsletters Tools](#email-marketing--newsletters-tools)
   - [Marketing Automation](#marketing-automation)
   - [App Store Screenshot Tools](#app-store-screenshot-tools)
+  - [App Store Optimization (ASO) Tools](#app-store-optimization-aso-tools)
 
 
 ## Software
@@ -1377,6 +1378,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [App Store Screenshots Generator](https://openaltfinder.com/tools/app-store-screenshots) - An open-source AI agent skill that builds a local Next.js editor for App Store and Google Play screenshots with device frames and store-size exports.
+
+
+#### App Store Optimization (ASO) Tools
+
+
+- [AsoBeast](https://openaltfinder.com/tools/asobeast) - Self-hosted App Store Optimization tool and keyword rank tracker for the Apple App Store and Google Play, with a built-in MCP server.
 
 
 
