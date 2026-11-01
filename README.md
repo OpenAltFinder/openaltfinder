@@ -809,6 +809,7 @@ Want to contribute? See [Contributing](#contributing).
 - [CubeTrek](https://openaltfinder.com/tools/cubetrek) - Open-source GPS track manager with 3D topography visualization for outdoor activities.
 - [Dreeve](https://openaltfinder.com/tools/dreeve) - Self-hosted dashboard that turns your Strava and FIT/TCX/GPX activity data into deep stats, heatmaps and gear tracking.
 - [Endurain](https://openaltfinder.com/tools/endurain) - Self-hosted fitness tracking service for running, cycling, and more with full data control.
+- [Flex](https://openaltfinder.com/tools/flex) - Offline-first workout tracker for strength training and cardio with progress graphs, background rest timers and a local database.
 - [Geo Activity Playground](https://openaltfinder.com/tools/geo-activity-playground) - Geo Activity Playground is a self-hosted data analysis and visualization tool for GPS-tracked outdoor activities. Explore routes, heatmaps, and detailed stats from every device.
 - [GymMane](https://openaltfinder.com/tools/gymmane) - Offline gym log for Android with a tap-the-muscle body map, 500+ animated exercises, rest timers, and no internet permission at all.
 - [HealthCoach](https://openaltfinder.com/tools/healthcoach) - Local-first desktop and Android app for food journaling, weight tracking, and blood pressure monitoring, with no cloud account required.
