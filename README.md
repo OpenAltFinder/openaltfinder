@@ -392,6 +392,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Jotted](https://openaltfinder.com/tools/jotted) - Self-hosted tasks and notes management with offline support, push reminders, and full-text search in a single Docker container.
 - [Jotty](https://openaltfinder.com/tools/jotty) - Self-hosted notes and checklists with markdown files, Kanban task projects, SSO, PGP encryption, and a REST API.
 - [Journal](https://openaltfinder.com/tools/journal) - Journal is a simple self-hosted journal and blog API written in Go, using SQLite for storage. Build custom clients, capture daily entries, and own your writing on your own server.
+- [Kept](https://openaltfinder.com/tools/kept) - A self-hosted, Google Keep-style notes app with native iOS and Android apps, reminders, and sync.
 - [kuku](https://openaltfinder.com/tools/kuku) - Open-source local-first Markdown workspace for macOS with wiki, AI editing, and encrypted sync.
 - [LaTeX Autofill](https://openaltfinder.com/tools/latex-autofill) - An Obsidian plugin that provides IDE-style LaTeX autocomplete with English and Chinese keyword search for math formulas.
 - [Many Notes](https://openaltfinder.com/tools/many-notes) - A Markdown note-taking web application designed for simplicity with vaults, collaboration, and PWA support.
