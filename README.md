@@ -632,6 +632,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Photo Management
 
 
+- [Stash](https://openaltfinder.com/tools/stash) - Self-hosted media organizer and server that tags, scrapes metadata for, and streams your video and image collection, including NSFW content.
 - [TagStudio](https://openaltfinder.com/tools/tagstudio) - Tag and organize photos and files in place, with a tag library stored next to your folders instead of a proprietary catalog.
 
 
