@@ -150,6 +150,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Source Code Management](#source-code-management)
   - [Code Editors & IDEs](#code-editors--ides)
   - [Localization & Translation Management](#localization--translation-management)
+  - [Feature Flag & Experimentation Tools](#feature-flag--experimentation-tools)
 - [Podcasting](#podcasting)
   - [Podcast Apps](#podcast-apps)
   - [Podcast Hosting](#podcast-hosting)
@@ -1308,6 +1309,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Orbi](https://openaltfinder.com/tools/orbi) - Self-hosted coding factory that turns labeled GitHub Issues into independently reviewed, merged PRs and releases.
 - [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Minimal, extensible open-source coding agent CLI with a multi-provider LLM API, packages, MCP support, and a TypeScript SDK.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
+- [Verde](https://openaltfinder.com/tools/verde) - Native, local-first desktop workspace for running Claude Code, Codex, Cursor and other AI agents side by side in tiled panes.
 - [Warp](https://openaltfinder.com/tools/warp) - An agentic development environment built on a modern Rust terminal emulator with AI-powered coding features.
 
 
@@ -1329,6 +1331,13 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Accent](https://openaltfinder.com/tools/accent) - Developer-first, open-source translation management with CLI file sync, a collaborative editor, and a GraphQL API.
 - [Tolgee](https://openaltfinder.com/tools/tolgee) - Developer-friendly, open-source localization platform with in-context editing, SDKs, and machine translation.
+
+
+#### Feature Flag & Experimentation Tools
+
+
+- [flagd](https://openaltfinder.com/tools/flagd) - OpenFeature-compliant feature flag daemon that evaluates flags from files, HTTP, gRPC, Kubernetes, or cloud storage over HTTP and gRPC.
+- [Unleash](https://openaltfinder.com/tools/unleash) - Open-source feature management platform for feature flags, gradual rollouts, kill switches, and A/B testing on your own infrastructure.
 
 
 ### Podcasting
