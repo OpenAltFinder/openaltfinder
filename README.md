@@ -862,6 +862,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Krita](https://openaltfinder.com/tools/krita) - Free, open source digital painting and illustration application that is a popular alternative to Photoshop and Procreate.
 - [LightCraft](https://openaltfinder.com/tools/lightcraft) - Open-source, clean-room reimplementation of Adobe Lightroom in Rust — photo library and raw development, local-first.
 - [miniPaint](https://openaltfinder.com/tools/minipaint) - Online image editor with layers, filters, and effects that runs entirely in the browser. An open source Photoshop alternative with no ads or account required.
+- [PeerBrush](https://openaltfinder.com/tools/peerbrush) - Open-source desktop image editor where you and MCP-connected AI agents edit the same layered PSD project side by side.
 - [PhotoCraft](https://openaltfinder.com/tools/photocraft) - Open-source, clean-room reimplementation of Adobe Photoshop in pure Rust — layers, masks, adjustments and real PSD files.
 - [PhotoSuite](https://openaltfinder.com/tools/photosuite) - A free, open-source desktop image editor that replicates the Photoshop interface with 1:1 native PSD/PSB file compatibility.
 - [PixiEditor](https://openaltfinder.com/tools/pixieditor) - PixiEditor is a universal open-source 2D editor for pixel art, painting, vector graphics, and animation. Powerful tools wrapped in a modern, friendly interface for every creator.
