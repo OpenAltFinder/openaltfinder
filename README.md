@@ -53,6 +53,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Inventory Management](#inventory-management)
   - [Research & Archival Tools](#research--archival-tools)
   - [Photo Management](#photo-management)
+  - [Window Management](#window-management)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -635,6 +636,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [Stash](https://openaltfinder.com/tools/stash) - Self-hosted media organizer and server that tags, scrapes metadata for, and streams your video and image collection, including NSFW content.
 - [TagStudio](https://openaltfinder.com/tools/tagstudio) - Tag and organize photos and files in place, with a tag library stored next to your folders instead of a proprietary catalog.
+
+
+#### Window Management
+
+
+- [AltTab](https://openaltfinder.com/tools/alt-tab) - Free, open-source macOS window switcher with Windows-style Alt-Tab and live previews of every window.
 
 
 ### Food & Cooking
