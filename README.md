@@ -352,7 +352,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Huginn](https://openaltfinder.com/tools/huginn) - Self-hosted automation platform for building agents that monitor and act on your behalf — a hackable, open source alternative to IFTTT and Zapier.
 - [Kestra](https://openaltfinder.com/tools/kestra) - Event-driven workflow orchestration platform with a YAML-based pipeline DSL, 500+ plugins, and a built-in UI editor.
 - [Lightpanda](https://openaltfinder.com/tools/lightpanda) - A headless browser built from scratch in Zig, optimised for AI agents and automation with 9x less memory and 11x faster execution than Chrome.
-- [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
+- [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, monitoring and AI data extraction.
 - [n8n](https://openaltfinder.com/tools/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
 - [Stream32](https://openaltfinder.com/tools/stream32) - Open-source ESP32-powered stream deck with a cross-platform Electron companion app for launching apps, hotkeys, and multi-step actions.
@@ -1299,7 +1299,7 @@ Want to contribute? See [Contributing](#contributing).
 - [HTTPie](https://openaltfinder.com/tools/httpie) - Open-source command-line and desktop HTTP client with intuitive syntax, JSON support, and built-in auth — a developer-friendly Postman alternative.
 - [Hurl](https://openaltfinder.com/tools/hurl) - Run and test HTTP requests with plain text — a simple yet powerful command-line tool for API testing.
 - [Insomnia](https://openaltfinder.com/tools/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. 
-- [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, search and AI data extraction.
+- [Maxun](https://openaltfinder.com/tools/maxun) - Open-source no-code platform for web scraping, crawling, monitoring and AI data extraction.
 - [Scalar](https://openaltfinder.com/tools/scalar) -  Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support 
 - [Voiden](https://openaltfinder.com/tools/voiden) - Design, test and document APIs in plain Markdown with a git-native, offline-first approach.
 - [Yaak](https://openaltfinder.com/tools/yaak) - Local-first desktop API client for REST, GraphQL, gRPC, WebSocket, and SSE — Git-friendly collections, a CLI, and no cloud lock-in.
