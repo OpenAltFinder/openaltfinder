@@ -274,9 +274,11 @@ Want to contribute? See [Contributing](#contributing).
 - [4get](https://openaltfinder.com/tools/4get) - A self-hostable proxy search engine that queries DuckDuckGo, Brave, Google, Yandex and more without tracking.
 - [degoog](https://openaltfinder.com/tools/degoog) - Open-source, self-hosted search engine aggregator with a comprehensive plugin system.
 - [Langfuse](https://openaltfinder.com/tools/langfuse) - Open source LLM engineering platform for tracing, evaluating, monitoring, and managing prompts as an alternative to LangSmith and Helicone.
+- [Marginalia Search](https://openaltfinder.com/tools/marginalia-search) - Self-hostable internet search engine that indexes the small, old and non-commercial web instead of ranking the biggest sites.
 - [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model, connect your tools, and unify all your team's knowledge.
 - [SearXNG](https://openaltfinder.com/tools/searxng) - A free internet metasearch engine which aggregates results from various search services without tracking or profiling users.
 - [Typesense](https://openaltfinder.com/tools/typesense) - Fast, typo-tolerant open-source search engine with vector, hybrid and semantic search — a simpler, cheaper alternative to Algolia.
+- [YaCy](https://openaltfinder.com/tools/yacy) - A peer-to-peer search engine and intranet search appliance that crawls, indexes, and serves results from your own server.
 
 
 #### Web Servers
