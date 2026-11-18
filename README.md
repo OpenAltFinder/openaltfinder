@@ -54,6 +54,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Research & Archival Tools](#research--archival-tools)
   - [Photo Management](#photo-management)
   - [Window Management](#window-management)
+  - [Calendar & Contacts Servers](#calendar--contacts-servers)
 - [Food & Cooking](#food--cooking)
   - [Pantry & Household Management](#pantry--household-management)
   - [Recipe Management](#recipe-management)
@@ -116,6 +117,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Meme Tools](#meme-tools)
 - [File Sharing](#file-sharing)
   - [BitTorrent Clients](#bittorrent-clients)
+  - [Temporary File Sharing](#temporary-file-sharing)
 - [Collaboration & Communication Tools](#collaboration--communication-tools)
   - [Email Servers](#email-servers)
   - [Knowledge Management Tools](#knowledge-management-tools)
@@ -152,6 +154,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Code Editors & IDEs](#code-editors--ides)
   - [Localization & Translation Management](#localization--translation-management)
   - [Feature Flag & Experimentation Tools](#feature-flag--experimentation-tools)
+  - [Code Snippet Managers](#code-snippet-managers)
 - [Podcasting](#podcasting)
   - [Podcast Apps](#podcast-apps)
   - [Podcast Hosting](#podcast-hosting)
@@ -646,6 +649,12 @@ Want to contribute? See [Contributing](#contributing).
 - [AltTab](https://openaltfinder.com/tools/alt-tab) - Free, open-source macOS window switcher with Windows-style Alt-Tab and live previews of every window.
 
 
+#### Calendar & Contacts Servers
+
+
+- [Baikal](https://openaltfinder.com/tools/baikal) - Self-hosted CalDAV and CardDAV server that syncs calendars and contacts to Apple, Android, Thunderbird, and other standard clients.
+
+
 ### Food & Cooking
 
 
@@ -838,6 +847,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [AnyHabit](https://openaltfinder.com/tools/anyhabit) - A universal habit and tracking dashboard tailored for Raspberry Pi and Docker with a modern React frontend.
+- [dayGLANCE](https://openaltfinder.com/tools/dayglance) - Privacy-first day planner with visual time-blocking, tasks, habits, and goals that runs in the browser, as a desktop or mobile app, or self-hosted.
 - [Kadō](https://openaltfinder.com/tools/kado) - A privacy-first open source habit tracker for iPhone and iPad with a non-binary habit score, optional iCloud sync, and no account or subscription.
 - [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 - [Streak](https://openaltfinder.com/tools/streak) - Minimal, private, ad-free habit tracker for Android with streak tracking, focus sessions, and GitHub-style activity grids.
@@ -1052,6 +1062,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Task Management
 
 
+- [dayGLANCE](https://openaltfinder.com/tools/dayglance) - Privacy-first day planner with visual time-blocking, tasks, habits, and goals that runs in the browser, as a desktop or mobile app, or self-hosted.
 - [Doska](https://openaltfinder.com/tools/doska) - Local-first kanban app with Markdown cards, offline support, and an optional self-hosted sync server with SSO and MCP.
 - [Kaneo](https://openaltfinder.com/tools/kaneo) - Open source project management with kanban boards, issue tracking, time tracking, and a self-hosted single-container install.
 - [Super Productivity](https://openaltfinder.com/tools/super-productivity) - Open-source to-do list and time tracker with timeboxing, a daily planner, Pomodoro focus sessions, and integrations for Jira, GitHub, and GitLab.
@@ -1075,6 +1086,12 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Transmission](https://openaltfinder.com/tools/transmission) - Lightweight open source BitTorrent client with native desktop apps, a headless daemon and a built-in web UI.
+
+
+#### Temporary File Sharing
+
+
+- [015](https://openaltfinder.com/tools/015) - Self-hosted temporary file and text sharing with one-time links, expiry, password protection, and pickup codes.
 
 
 ### Collaboration & Communication Tools
@@ -1348,6 +1365,12 @@ Want to contribute? See [Contributing](#contributing).
 
 - [flagd](https://openaltfinder.com/tools/flagd) - OpenFeature-compliant feature flag daemon that evaluates flags from files, HTTP, gRPC, Kubernetes, or cloud storage over HTTP and gRPC.
 - [Unleash](https://openaltfinder.com/tools/unleash) - Open-source feature management platform for feature flags, gradual rollouts, kill switches, and A/B testing on your own infrastructure.
+
+
+#### Code Snippet Managers
+
+
+- [ByteStash](https://openaltfinder.com/tools/bytestash) - Self-hosted code snippet manager with language filters, API keys, and an MCP endpoint for AI assistants.
 
 
 ### Podcasting
