@@ -407,6 +407,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Mnemo](https://openaltfinder.com/tools/mnemo) - Mnemo is a free, open-source desktop study app combining block-based notes, FSRS flashcards, and mind maps with no accounts or tracking.
 - [NoteDiscovery](https://openaltfinder.com/tools/notediscovery) - A self-hosted knowledge base for note-taking with markdown support, Zettelkasten methodology, and Docker deployment.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
+- [OpenHabitTracker](https://openaltfinder.com/tools/openhabittracker) - Offline-first notes, tasks, and habit tracker for web, desktop, and mobile, with optional self-hosted sync.
 - [OpenKnowledge](https://openaltfinder.com/tools/openknowledge) - AI-native, local-first markdown editor and LLM wiki with built-in integrations for Claude, Codex, and other agents.
 - [Puppyone](https://openaltfinder.com/tools/puppyone) - Open source local-first editor for Markdown, docs, rich files, and AI agents — with built-in terminal and Git review.
 - [Quillpad](https://openaltfinder.com/tools/quillpad) - A free, open-source Android app for markdown notes and task lists with reminders, file attachments, and optional Nextcloud sync.
@@ -534,6 +535,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Time Tracking Tools
 
 
+- [ActivityWatch](https://openaltfinder.com/tools/activitywatch) - Local-first automatic time tracker that records app, window, and browser activity on desktop and Android.
 - [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 - [Kimai](https://openaltfinder.com/tools/kimai) - Open source time-tracking application for freelancers, teams, and organisations, with timesheets, invoicing, and detailed reports.
 - [Solidtime](https://openaltfinder.com/tools/solidtime) - Modern, open source time-tracking app for freelancers and teams with project, client, task, and reporting features.
@@ -847,9 +849,11 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [AnyHabit](https://openaltfinder.com/tools/anyhabit) - A universal habit and tracking dashboard tailored for Raspberry Pi and Docker with a modern React frontend.
+- [BeaverHabits](https://openaltfinder.com/tools/beaverhabits) - Self-hosted habit tracker built around streaks and date grids, with notes, categories, REST API, and import/export.
 - [dayGLANCE](https://openaltfinder.com/tools/dayglance) - Privacy-first day planner with visual time-blocking, tasks, habits, and goals that runs in the browser, as a desktop or mobile app, or self-hosted.
 - [Kadō](https://openaltfinder.com/tools/kado) - A privacy-first open source habit tracker for iPhone and iPad with a non-binary habit score, optional iCloud sync, and no account or subscription.
 - [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
+- [OpenHabitTracker](https://openaltfinder.com/tools/openhabittracker) - Offline-first notes, tasks, and habit tracker for web, desktop, and mobile, with optional self-hosted sync.
 - [Streak](https://openaltfinder.com/tools/streak) - Minimal, private, ad-free habit tracker for Android with streak tracking, focus sessions, and GitHub-style activity grids.
 
 
@@ -1065,6 +1069,7 @@ Want to contribute? See [Contributing](#contributing).
 - [dayGLANCE](https://openaltfinder.com/tools/dayglance) - Privacy-first day planner with visual time-blocking, tasks, habits, and goals that runs in the browser, as a desktop or mobile app, or self-hosted.
 - [Doska](https://openaltfinder.com/tools/doska) - Local-first kanban app with Markdown cards, offline support, and an optional self-hosted sync server with SSO and MCP.
 - [Kaneo](https://openaltfinder.com/tools/kaneo) - Open source project management with kanban boards, issue tracking, time tracking, and a self-hosted single-container install.
+- [OpenHabitTracker](https://openaltfinder.com/tools/openhabittracker) - Offline-first notes, tasks, and habit tracker for web, desktop, and mobile, with optional self-hosted sync.
 - [Super Productivity](https://openaltfinder.com/tools/super-productivity) - Open-source to-do list and time tracker with timeboxing, a daily planner, Pomodoro focus sessions, and integrations for Jira, GitHub, and GitLab.
 - [Tale](https://openaltfinder.com/tools/tale) - Open-source workspace where teams and AI agents plan tasks, run them in sandboxes, and review results together.
 - [Vikunja](https://openaltfinder.com/tools/vikunja) - Self-hosted, open-source task manager with lists, kanban boards, Gantt charts, reminders, and CalDAV — a free alternative to Todoist.
