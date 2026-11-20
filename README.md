@@ -108,6 +108,7 @@ Want to contribute? See [Contributing](#contributing).
   - [Space Exploration Games](#space-exploration-games)
   - [Turn-Based Strategy](#turn-based-strategy)
   - [Tycoon & Simulation Games](#tycoon--simulation-games)
+  - [Text Adventure Games](#text-adventure-games)
 - [Outdoor & Recreation](#outdoor--recreation)
   - [Hiking & Route Planning](#hiking--route-planning)
   - [Travel Planner & Tracker](#travel-planner--tracker)
@@ -1043,6 +1044,12 @@ Want to contribute? See [Contributing](#contributing).
 - [OpenRCT2](https://openaltfinder.com/tools/openrct2) - An open-source reimplementation of RollerCoaster Tycoon 2 that expands the original with new features, rides, and multiplayer.
 - [OpenSC2K](https://openaltfinder.com/tools/opensc2k) - An open-source remake of SimCity 2000 built with Rust and Godot, adding larger cities, mods and HD graphics packs.
 - [OpenTTD](https://openaltfinder.com/tools/openttd) - An open-source simulation game based on Transport Tycoon Deluxe, letting you build and manage a vast transport empire.
+
+
+#### Text Adventure Games
+
+
+- [A Dark Room](https://openaltfinder.com/tools/a-dark-room) - Minimalist open source text adventure: light a fire, build a village, then cross a hostile world. Free in your browser, or self-host it.
 
 
 ### Outdoor & Recreation
