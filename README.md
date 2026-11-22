@@ -688,6 +688,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Onyx](https://openaltfinder.com/tools/onyx) - Onyx is an open-source AI chat and enterprise search platform with RAG that works with every LLM. Bring your own model, connect your tools, and unify all your team's knowledge.
 - [Open Notebook](https://openaltfinder.com/tools/open-notebook) - Open-source, privacy-first alternative to Google NotebookLM with multi-model AI support, podcast generation, and self-hosting.
 - [Open WebUI](https://openaltfinder.com/tools/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
+- [UnoRouter](https://openaltfinder.com/tools/unorouter) - Self-hostable frontend for an AI model gateway: model catalog, API keys, usage and a local-first chat client.
 
 
 #### AI Agent Builders
@@ -717,6 +718,8 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Experiential](https://openaltfinder.com/tools/experiential) - Open source AI gateway and router that exposes hosted, BYOK, local, and custom models through one OpenAI-compatible API.
+- [OmniRoute](https://openaltfinder.com/tools/omniroute) - Self-hosted AI gateway that sends Claude Code, Cursor and other coding tools through hundreds of providers with free-tier fallback and token compression.
+- [UnoRouter](https://openaltfinder.com/tools/unorouter) - Self-hostable frontend for an AI model gateway: model catalog, API keys, usage and a local-first chat client.
 
 
 #### Voice AI & Speech Tools
@@ -1131,6 +1134,7 @@ Want to contribute? See [Contributing](#contributing).
 #### Team Chat & Messaging Tools
 
 
+- [Buzz](https://openaltfinder.com/tools/buzz) - Self-hostable workspace where humans and AI agents share channels, workflows, and git repos on one Nostr relay.
 - [Bytedesk](https://openaltfinder.com/tools/bytedesk) - Open source AI-powered omnichannel customer service platform that combines live chat, ticketing, and team collaboration as an alternative to Slack, Zendesk, Intercom, and HubSpot.
 - [Chatto](https://openaltfinder.com/tools/chatto) - A self-hosted chat application for teams and communities with video calls, voice calls, and screen sharing.
 - [Colanode](https://openaltfinder.com/tools/colanode) - Open source, local-first Slack and Notion alternative that puts you in control of your data with offline support and end-to-end encryption.
