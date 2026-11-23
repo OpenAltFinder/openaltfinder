@@ -698,6 +698,7 @@ Want to contribute? See [Contributing](#contributing).
 - [Hister](https://openaltfinder.com/tools/hister) - Private, self-hosted search engine that indexes the pages you visit and the files you keep for full-text and semantic search.
 - [Langflow](https://openaltfinder.com/tools/langflow) - Visually build and deploy AI agents and workflows in Python, with built-in API and MCP servers. MIT-licensed and backed by DataStax.
 - [Omnara](https://openaltfinder.com/tools/omnara) - Open-source managed agent platform for running AI agents on any model and any machine, self-hostable via Docker.
+- [OpenComputer](https://openaltfinder.com/tools/opencomputer) - Open-source Devin alternative: a Slack-first coding agent that works on its own cloud computer and opens pull requests.
 - [Sim](https://openaltfinder.com/tools/sim) - Sim is an open-source workspace to build, deploy, and orchestrate AI agents and agentic workflows. Visually connect LLMs, tools, and data sources without giving up control.
 - [Tale](https://openaltfinder.com/tools/tale) - Open-source workspace where teams and AI agents plan tasks, run them in sandboxes, and review results together.
 
@@ -1344,11 +1345,13 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [Juggler](https://openaltfinder.com/tools/juggler) - A self-hostable, GUI-first AI coding agent with editable conversation trees, plugin-based tools, and multi-client sessions.
+- [LocalCode](https://openaltfinder.com/tools/localcode) - Agentic coding in the terminal with local models on your Mac, plus an OpenAI-compatible loopback API.
 - [MiMoCode](https://openaltfinder.com/tools/mimocode) - An open-source terminal-native AI coding agent with cross-session memory, multiple agents, and support for any LLM provider.
 - [Modo](https://openaltfinder.com/tools/modo) - Open-source AI IDE that plans before it codes, using spec-driven development with requirements, design, and task steps.
 - [Oh My Pi](https://openaltfinder.com/tools/oh-my-pi) - Open-source terminal coding agent with IDE intelligence — LSP renames, live debugging, and 60+ AI providers under an MIT license.
 - [Open Code Review](https://openaltfinder.com/tools/open-code-review) - Battle-tested AI code review agent with deterministic pipelines + LLM, fine-tuned security rules, and line-level comments.
 - [OpenCode](https://openaltfinder.com/tools/open-code) - Open-source AI coding agent with a terminal UI, desktop and web apps, bring-your-own models, agents, plugins, and MCP support.
+- [OpenComputer](https://openaltfinder.com/tools/opencomputer) - Open-source Devin alternative: a Slack-first coding agent that works on its own cloud computer and opens pull requests.
 - [Orbi](https://openaltfinder.com/tools/orbi) - Self-hosted coding factory that turns labeled GitHub Issues into independently reviewed, merged PRs and releases.
 - [Pi](https://openaltfinder.com/tools/pi-ai-agent) - Minimal, extensible open-source coding agent CLI with a multi-provider LLM API, packages, MCP support, and a TypeScript SDK.
 - [Rowboat](https://openaltfinder.com/tools/rowboat) - Open-source desktop AI coworker with a living knowledge graph, built-in email, browser, meeting notes, and code mode.
