@@ -537,6 +537,7 @@ Want to contribute? See [Contributing](#contributing).
 
 
 - [ActivityWatch](https://openaltfinder.com/tools/activitywatch) - Local-first automatic time tracker that records app, window, and browser activity on desktop and Android.
+- [Clockoli](https://openaltfinder.com/tools/clockoli) - Git-native time tracking browser extension that keeps your timesheets in a private GitHub repository you control.
 - [Kagelin](https://openaltfinder.com/tools/kagelin) - Self-hosted, offline-first productivity app combining tasks, habits, a Pomodoro focus timer, and calendar with optional WebDAV sync.
 - [Kimai](https://openaltfinder.com/tools/kimai) - Open source time-tracking application for freelancers, teams, and organisations, with timesheets, invoicing, and detailed reports.
 - [Solidtime](https://openaltfinder.com/tools/solidtime) - Modern, open source time-tracking app for freelancers and teams with project, client, task, and reporting features.
