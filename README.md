@@ -843,6 +843,7 @@ Want to contribute? See [Contributing](#contributing).
 - [GymMane](https://openaltfinder.com/tools/gymmane) - Offline gym log for Android with a tap-the-muscle body map, 500+ animated exercises, rest timers, and no internet permission at all.
 - [HealthCoach](https://openaltfinder.com/tools/healthcoach) - Local-first desktop and Android app for food journaling, weight tracking, and blood pressure monitoring, with no cloud account required.
 - [LiftTrace](https://openaltfinder.com/tools/lifttrace) - LiftTrace is a self-hosted weightlifting tracker that runs in a single Docker container. AGPL-3.0, no telemetry, no cloud sync — your lifting data stays on your own hardware.
+- [openGym](https://openaltfinder.com/tools/opengym) - Self-hosted gym and bodyweight tracker with guided workouts, muscle maps, and imports from Strong, Hevy and FitNotes.
 - [OpenTracks](https://openaltfinder.com/tools/opentracks) - A privacy-focused sport tracking application for Android that records GPS tracks and supports Bluetooth sensors without any internet access or ads.
 - [RunnerUp](https://openaltfinder.com/tools/runnerup) - RunnerUp is a free, open source GPS run tracker for Android with audio cues, interval workouts, heart rate zones — no accounts or ads.
 - [Ryot](https://openaltfinder.com/tools/ryot) - Self-hosted tracker for media consumption and fitness, with imports from Trakt, Goodreads, MyAnimeList, Plex, Jellyfin and more.
